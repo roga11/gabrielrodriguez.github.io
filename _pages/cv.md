@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+Downaload CV here (files/G_RodriguezRondon_CV_04072019.pdf)
 Education
 ======
 * Ph.D Economics, McGill University, 2023 (expected)
