@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV here](files/G_RodriguezRondon_CV_04072019.pdf)
+[Download CV here](https://github.com/roga11/gabrielrodriguez.github.io/blob/master/files/G_RodriguezRondon_CV_04072019.pdf)
 
 Education
 ======
