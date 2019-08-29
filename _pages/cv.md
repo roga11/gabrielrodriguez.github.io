@@ -25,7 +25,7 @@ Work experience
 * Data Analyst, Bank of Canada (May 2015 - April 2016)
 * Data Analyst, Canada Revenue Agency (May 2014 - May 2015)
  
-Publications
+Papers
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
