@@ -11,31 +11,24 @@ redirect_from:
 
 Education
 ======
-* B.A. Economics, GitHub University, 2012
-* M.A. Economics, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. Economics, Carleton University, 2016
+* M.A. Economics, McGill University, 2019
+* Ph.D Economics, McGill University, 2023 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Data Scientist, FNA (August 2019 - Current)
+  * 
+* Research Assistant, McGill Univeristy (May 2019 - August 2019)
+  * Develop R-package for testing Markov-Switching models with Prof. Jean-Marie Dufour. 
+* Research Assistant, Bank of Canada (April 2016 - August 2018)
   
-Skills
+  
+Teaching
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+* TA for ECON 208: Microeconomics 
+* TA for ECON 219: Curren economic problems
+ 
 Publications
 ======
   <ul>{% for post in site.publications %}
