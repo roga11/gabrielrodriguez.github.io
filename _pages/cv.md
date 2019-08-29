@@ -39,7 +39,4 @@ Teaching
 ======
 * TA for ECON 208: Microeconomics 
 * TA for ECON 219: Curren economic problems
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+ 
