@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -15,14 +15,15 @@ Education
 ======
 * Ph.D Economics, McGill University, 2023 (expected)
 * M.A. Economics, McGill University, 2019
-* B.A. Economics, Carleton University, 2016
+* B.A. Economics (Honours), Carleton University, 2016
 
 Work experience
 ======
 * Data Scientist, FNA (August 2019 - Current)
 * Research Assistant, McGill Univeristy (May 2019 - August 2019)
-  * Develop R-package for testing Markov-Switching models with Prof. Jean-Marie Dufour. 
 * Research Assistant, Bank of Canada (April 2016 - August 2018)
+* Data Analyst, Bank of Canada (May 2015 - April 2016)
+* Data Analyst, Canada Revenue Agency (May 2014 - May 2015)
   
  
 Publications
@@ -39,6 +40,18 @@ Talks
   
 Teaching
 ======
-* TA for ECON 208: Microeconomics 
-* TA for ECON 219: Curren economic problems
+* ECON 208: Microeconomic Analysis and Applications (Teaching Assistant)
+* ECON 219: Curren Economic Problems (Teaching Assistant)
  
+Presentations
+======
+* Canadian Economic Association Annual Conference (2017)
+* Payments Canada & Bank of Canada Research Symposium (2017)
+
+Programing & Software Proficiency
+======
+* C++, MATLAB, Python, R (R-Studio), SAS, SPSS, STATA, SQL 
+
+Languages
+======
+* English, French & Spanish
