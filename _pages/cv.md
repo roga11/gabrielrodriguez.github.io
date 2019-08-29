@@ -18,7 +18,6 @@ Education
 Work experience
 ======
 * Data Scientist, FNA (August 2019 - Current)
-  * 
 * Research Assistant, McGill Univeristy (May 2019 - August 2019)
   * Develop R-package for testing Markov-Switching models with Prof. Jean-Marie Dufour. 
 * Research Assistant, Bank of Canada (April 2016 - August 2018)
