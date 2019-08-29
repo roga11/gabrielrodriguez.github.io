@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Gabriel Rodriguez Rondon"
 title_separator          : "-"
 name                     : &name "Gabriel Rodriguez Rondon"
-description              : &description "PhD Student at McGill University & Data Scientist at FNA"
+description              : &description 
 url                      : https://roga11.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/gabrielrodriguez.github.io" # the subpath of your site, e.g. "/blog"
 repository               : ""
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Gabriel Rodriguez Rondon"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "PhD Student at McGill University & Data Scientist at FNA"
   location         : "Montreal, QC, Canada"
   employer         :
   pubmed           : 
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : 
+  email            : "gabriel.rodriguezrondon@mcgill.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
