@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.A. Economics, Carleton University, 2016
-* M.A. Economics, McGill University, 2019
 * Ph.D Economics, McGill University, 2023 (expected)
+* M.A. Economics, McGill University, 2019
+* B.A. Economics, Carleton University, 2016
 
 Work experience
 ======
@@ -22,11 +22,6 @@ Work experience
   * Develop R-package for testing Markov-Switching models with Prof. Jean-Marie Dufour. 
 * Research Assistant, Bank of Canada (April 2016 - August 2018)
   
-  
-Teaching
-======
-* TA for ECON 208: Microeconomics 
-* TA for ECON 219: Curren economic problems
  
 Publications
 ======
@@ -42,9 +37,8 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* TA for ECON 208: Microeconomics 
+* TA for ECON 219: Curren economic problems
   
 Service and leadership
 ======
