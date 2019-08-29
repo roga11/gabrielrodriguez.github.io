@@ -43,10 +43,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul> 
   
-Teaching
-======
-* ECON 208: Microeconomic Analysis and Applications (Teaching Assistant)
-* ECON 219: Curren Economic Problems (Teaching Assistant)
 
 Programing & Software Proficiency
 ======
