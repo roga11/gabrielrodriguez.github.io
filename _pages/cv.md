@@ -24,7 +24,6 @@ Work experience
 * Research Assistant, Bank of Canada (April 2016 - August 2018)
 * Data Analyst, Bank of Canada (May 2015 - April 2016)
 * Data Analyst, Canada Revenue Agency (May 2014 - May 2015)
-  
  
 Publications
 ======
@@ -42,11 +41,6 @@ Teaching
 ======
 * ECON 208: Microeconomic Analysis and Applications (Teaching Assistant)
 * ECON 219: Curren Economic Problems (Teaching Assistant)
- 
-Presentations
-======
-* Canadian Economic Association Annual Conference (2017)
-* Payments Canada & Bank of Canada Research Symposium (2017)
 
 Programing & Software Proficiency
 ======
