@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Gabriel Rodriguez Rondon"
 title_separator          : "-"
 name                     : &name "Gabriel Rodriguez Rondon"
-description              : &description "PhD Student at McGill University & Data Scientist at FNA"
+description              : &description "Personal Website"
 url                      : https://roga11.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/gabrielrodriguez.github.io" # the subpath of your site, e.g. "/blog"
-repository               : ""
+repository               : "roga11/gabrielrodriguez.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -182,7 +182,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: false
+    output: true
     permalink: /:collection/:path/
   talks:
     output: true
@@ -191,6 +191,17 @@ collections:
 
 # Defaults
 defaults:
+  # _posts
+   - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
   # _pages
   - scope:
       path: ""
@@ -207,6 +218,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: true
+      comment: true
   # _publications
   - scope:
       path: ""
