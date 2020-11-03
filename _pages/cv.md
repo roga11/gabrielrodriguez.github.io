@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV here](https://roga11.github.io/gabrielrodriguez.github.io/files/G_RodriguezRondon_CV_15092019.pdf)
+[Download CV here](https://roga11.github.io/gabrielrodriguez.github.io/files/GRodriguezRondon_CV_20201102.pdf)
 
 Education
 ======
@@ -46,7 +46,7 @@ Teaching
 
 Programing & Software Proficiency
 ======
-* C++, MATLAB, Python, R (R-Studio), SAS, SPSS, STATA, SQL 
+* C++, Latex, MATLAB, Python, R (R-Studio), SAS, SPSS, STATA, SQL 
 
 Languages
 ======
