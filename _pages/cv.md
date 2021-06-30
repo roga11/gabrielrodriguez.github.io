@@ -13,7 +13,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D Economics, McGill University, 2023 (expected)
+* Ph.D Economics, McGill University, 2024 (expected)
 * M.A. Economics, McGill University, 2019
 * B.A. Economics (Honours), Carleton University, 2016
 
