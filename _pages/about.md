@@ -14,14 +14,14 @@ My research interests are in econemetrics, monetary economics and finance.
 
 you can find my [CV here](https://roga11.github.io/gabrielrodriguez.github.io/files/GRodriguezRondon_CV_20210907.pdf)
 <br />
+<br /> 
  
  
  
  
  
  
- 
- 
+<br />
 <br /> 
 E-mail: gabriel.rodriguezrondon@mail.mcgill.ca
 
