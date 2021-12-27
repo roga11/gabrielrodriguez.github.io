@@ -17,6 +17,7 @@ you can find my [CV here](https://roga11.github.io/gabrielrodriguez.github.io/fi
 <br /> 
 <br />
 <br />
+<br />
 <br /> 
 E-mail: gabriel.rodriguezrondon@mail.mcgill.ca
 
