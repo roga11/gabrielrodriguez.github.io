@@ -29,4 +29,4 @@ you can find my [CV here](https://roga11.github.io/gabrielrodriguez.github.io/fi
 <br />
 E-mail: gabriel.rodriguezrondon@mail.mcgill.ca
 
-Office: CIRANO,1130 Rue Sherbrooke O #1400, Montréal, QC H3A 2M8 Canada
+Office: CIRANO, 1130 Rue Sherbrooke O #1400, Montréal, QC H3A 2M8 Canada
