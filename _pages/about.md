@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Student in the [Department of Economics at at McGill University](https://www.mcgill.ca/economics/). 
+I am a PhD Student in the [Department of Economics at McGill University](https://www.mcgill.ca/economics/). 
 
 My research interests are in econemetrics, monetary economics and finance. 
 
