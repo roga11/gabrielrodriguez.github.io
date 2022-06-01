@@ -23,8 +23,7 @@ with Jorge Cruz Lopez
 
 **[he Government of Canada Debt Securities Dataset](https://www.bankofcanada.ca/wp-content/uploads/2018/02/tr112.pdf)**  
 with Jeffrey Gao & Francisco Rivadeneyra
-_Bank of Canada
-Technical Report No. 112
+_Bank of Canada, Technical Report No. 112_
 
 
 
