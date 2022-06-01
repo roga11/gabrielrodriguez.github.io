@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Student in the [Department of Economics at McGill University](https://www.mcgill.ca/economics/) and a Data Scientist at [FNA]{https://fna.fi/}. 
+I am a PhD Student in the [Department of Economics at McGill University](https://www.mcgill.ca/economics/) and a Data Scientist at [FNA](https://fna.fi/). 
 
 My research interests are in econometrics, monetary economics and finance. 
 
