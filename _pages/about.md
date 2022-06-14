@@ -19,7 +19,6 @@ You can find my [CV here](https://roga11.github.io/gabrielrodriguez.github.io/fi
 ## Upcoming presentations:
 <li>JSM</li>
 <br />
-<br /> 
 ## Recent presentations:
 <li>CEA</li>
 <br />
