@@ -22,10 +22,7 @@ Office: CIRANO, 1130 Rue Sherbrooke O #1400, Montréal, QC H3A 2M8 Canada
 ## Upcoming presentations:
 <li>Joint Statistical Meetings 2022 - Business and Economic Statistics Section, August 9th, 2022</li>
 <br />
-<br />
 ## Recent presentations:
 <li>17th CIREQ Ph.D. Students’ Conference - Econometrics I session, June 6th, 2022</li>
 <li>56th Annual Conference of the Canadian Economics Association - CESG: Bootstrap and Simulation session, June 3rd, 2022</li>
 <br />
-<br />
-
