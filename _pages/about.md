@@ -14,9 +14,12 @@ My research interests are in econometrics, monetary economics and finance.
 
 You can find my [CV here](https://roga11.github.io/gabrielrodriguez.github.io/files/GRodriguezRondon_CV20220531.pdf).
 
+<br />
+<br />
 E-mail: <a href="mailto:gabriel.rodriguezrondon@mail.mcgill.ca">gabriel.rodriguezrondon@mail.mcgill.ca</a>
 
 Office: CIRANO, 1130 Rue Sherbrooke O #1400, Montréal, QC H3A 2M8 Canada
+
 <br /> 
 <br />
 ## Upcoming presentations:
