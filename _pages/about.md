@@ -16,11 +16,12 @@ You can find my [CV here](https://roga11.github.io/gabrielrodriguez.github.io/fi
 <br />
 <br /> 
 <br />
-<br />
+# Upcoming presentations:
+<li>JSM</li>
 <br />
 <br /> 
-<br />
-<br />
+# Recent presentations:
+<li>CEA</li>
 <br />
 <br />
 <br />
