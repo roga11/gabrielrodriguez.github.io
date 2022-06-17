@@ -10,7 +10,7 @@ redirect_from:
 I am a PhD student in the [Department of Economics at McGill University](https://www.mcgill.ca/economics/) and a Data Scientist at [FNA](https://fna.fi/). 
 <br />
 <br />
-My research interests are in econometrics, monetary economics and finance. You can find my [CV here](https://roga11.github.io/gabrielrodriguez.github.io/files/GRodriguezRondon_CV20220531.pdf).
+My research interests are in econometrics, monetary economics, and finance. You can find my [CV here](https://roga11.github.io/gabrielrodriguez.github.io/files/GRodriguezRondon_CV20220531.pdf).
 <br />
 <br />
 <br />
