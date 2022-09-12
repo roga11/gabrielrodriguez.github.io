@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 ---
-## Works in Progress
+## Working papers
 
 **[Joint Determination of Counterparty and Liquidity Risk in Payment Systems](https://editorialexpress.com/cgi-bin/conference/download.cgi?db_name=AFA2022&paper_id=1752)**
 with Jorge Cruz Lopez & Charles M. Kahn
@@ -16,8 +16,14 @@ with Jean-Marie Dufour
 **MSTest: An R-package for Testing Markov-Switching Models**
 with Jean-Marie Dufour
 
+
+## Works in Progress
+
 **Simulation and Stress Testing of Large Value Payment Systems**
 with Jorge Cruz Lopez
+
+**Network Model Simulation and Stress Testing of PvP Systems**
+with Jorge Cruz Lopez, Giuseppe Matera, Jordan Cambe & Carlos Leon
 
 ## Policy & Technical Notes
 
