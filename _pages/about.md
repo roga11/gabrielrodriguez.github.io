@@ -15,9 +15,13 @@ My research interests are in econometrics, monetary economics, and finance. You 
 <br />
 <br />
 ## Upcoming presentations:
-<li>Joint Statistical Meetings 2022 - Business and Economic Statistics Section, August 9th, 2022</li>
+<li>Latin American Meetings of The Econometric Society, November 3rd - 5th, 2022</li>
+
+<li>16th International Conference on Computational and Financial Econometrics, December 17th - 19th, 2022</li>
 <br />
 ## Recent presentations:
+<li>Joint Statistical Meetings 2022 - Business and Economic Statistics Section, August 9th, 2022</li>
+
 <li>17th CIREQ Ph.D. Students’ Conference - Econometrics I session, June 6th, 2022</li>
 
 <li>56th Annual Conference of the Canadian Economics Association - CESG: Bootstrap and Simulation session, June 3rd, 2022</li>
