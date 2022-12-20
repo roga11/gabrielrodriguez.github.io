@@ -7,19 +7,23 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD student in the [Department of Economics at McGill University](https://www.mcgill.ca/economics/) and a Data Scientist at [FNA](https://fna.fi/). 
+I am a PhD student in the [Department of Economics at McGill University](https://www.mcgill.ca/economics/). 
 <br />
 <br />
 My research interests are in econometrics, monetary economics, and finance. You can find my [CV here](https://roga11.github.io/gabrielrodriguez.github.io/files/GRodriguezRondon_CV20220911.pdf).
 <br />
 <br />
 <br />
-## Upcoming presentations:
-<li>Latin American Meetings of The Econometric Society, November 3rd - 5th, 2022</li>
+## News:
+<li>I will be a visiting student in the Dapartment of Economics at Boston University during the 2023, Spring Semester (January - May, 2023)</li>
 
-<li>16th International Conference on Computational and Financial Econometrics, December 17th - 19th, 2022</li>
+<li>R-package [MSTest](https://cran.r-project.org/web/packages/MSTest/MSTest.pdf) is now available through CRAN </li>
 <br />
 ## Recent presentations:
+<li>16th International Conference on Computational and Financial Econometrics - Time Series I session, December 18th, 2022</li>
+
+<li>Latin American Meetings of The Econometric Society - Macroeconometrics session, November 3rd, 2022</li>
+
 <li>Joint Statistical Meetings 2022 - Business and Economic Statistics Section, August 9th, 2022</li>
 
 <li>17th CIREQ Ph.D. Students’ Conference - Econometrics I session, June 6th, 2022</li>
