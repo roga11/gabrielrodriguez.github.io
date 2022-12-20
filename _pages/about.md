@@ -17,7 +17,7 @@ My research interests are in econometrics, monetary economics, and finance. You 
 ## News:
 <li>I will be a visiting student in the Dapartment of Economics at Boston University during the 2023 Spring semester (January - May, 2023).</li>
 
-<li>R-package [MSTest](https://cran.r-project.org/web/packages/MSTest/MSTest.pdf) is now available through CRAN! </li>
+<li>R-package [MSTest](https://cran.r-project.org/web/packages/MSTest/MSTest.pdf)) is now available through CRAN! </li>
 <br />
 ## Recent presentations:
 <li>16th International Conference on Computational and Financial Econometrics - Time Series I session, December 18th, 2022</li>
