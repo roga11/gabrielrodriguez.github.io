@@ -7,34 +7,33 @@ author_profile: true
 ---
 ## Working papers
 
-**[Joint Determination of Counterparty and Liquidity Risk in Payment Systems](https://editorialexpress.com/cgi-bin/conference/download.cgi?db_name=AFA2022&paper_id=1752)**
+**[Joint Determination of Counterparty and Liquidity Risk in Payment Systems](https://editorialexpress.com/cgi-bin/conference/download.cgi?db_name=AFA2022&paper_id=1752)**,
 with Jorge Cruz Lopez & Charles M. Kahn
 
-**Monte Carlo Likelihood Ratio Tests for Markov Switching Models**
+**Monte Carlo Likelihood Ratio Tests for Markov Switching Models**,
 with Jean-Marie Dufour
 
-**MSTest: An R-package for Testing Markov-Switching Models**
+**MSTest: An R-package for Testing Markov-Switching Models**,
 with Jean-Marie Dufour
 
-**Estimation and inference for stochastic volatility models with leverage and heavy-tailed distributions**
+**Estimation and inference for stochastic volatility models with leverage and heavy-tailed distributions**,
 with Jean-Marie Dufour & Md. Nazmul Ahsan
 
 
 ## Works in Progress
 
-**Simulation and Stress Testing of Large Value Payment Systems**
+**Simulation and Stress Testing of Large Value Payment Systems**,
 with Jorge Cruz Lopez
 
-**Network Model Simulation and Stress Testing of PvP Systems**
+**Network Model Simulation and Stress Testing of PvP Systems**,
 with Jorge Cruz Lopez, Giuseppe Matera, Jordan Cambe & Carlos Leon
 
 ## Policy Notes, Technical Notes, & Conference Proceedings
 
-**[The Government of Canada Debt Securities Dataset](https://www.bankofcanada.ca/wp-content/uploads/2018/02/tr112.pdf)**  
-with Jeffrey Gao & Francisco Rivadeneyra,
-_Bank of Canada, Technical Report No. 112_, 2017
+**[The Government of Canada Debt Securities Dataset](https://www.bankofcanada.ca/wp-content/uploads/2018/02/tr112.pdf)**,
+with Jeffrey Gao & Francisco Rivadeneyra, _Bank of Canada, Technical Report No. 112_, 2017
 
-**Simulation-Based Inference for Markov Switching Models** 
+**Simulation-Based Inference for Markov Switching Models**, 
 with Jean-Marie Dufour,
 _In JSM Proceedings, Business and Economic Statistics Section. Washington, D.C.: American Statistical Association_, 2022
 
