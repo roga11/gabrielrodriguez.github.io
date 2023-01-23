@@ -16,6 +16,9 @@ with Jean-Marie Dufour
 **MSTest: An R-package for Testing Markov-Switching Models**
 with Jean-Marie Dufour
 
+**Estimation and inference for stochastic volatility models with leverage and heavy-tailed distributions**
+with Jean-Marie Dufour & Md. Nazmul Ahsan
+
 
 ## Works in Progress
 
