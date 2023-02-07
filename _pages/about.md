@@ -20,7 +20,9 @@ My research interests are in econometrics, monetary economics, and finance. You 
 <li>R-package <a href="https://cran.r-project.org/web/packages/MSTest/MSTest.pdf">MSTest</a> is now available through CRAN! </li>
 <br />
 
-## Recent presentations:
+## Recent & Upcoming presentations:
+<li>2023 <a href="https://blogs.bu.edu/perron/seminar/">Boston University Econometrics Seminar</a>, Febraury 24th, 2023</li>
+<br />
 <li>16th International Conference on Computational and Financial Econometrics - Time Series I session, December 18th, 2022</li>
 <br />
 <li>Latin American Meetings of The Econometric Society - Macroeconometrics session, November 3rd, 2022</li>
