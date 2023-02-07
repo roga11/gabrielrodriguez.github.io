@@ -22,6 +22,11 @@ with Jean-Marie Dufour & Md. Nazmul Ahsan
 
 ## Works in Progress
 
+**Testing for the Synchronization of International Business Cycles** 
+with Jean-Marie Dufour
+
+**Structural Breaks In Underlying Core Inflation** 
+
 **Simulation and Stress Testing of Large Value Payment Systems**,
 with Jorge Cruz Lopez
 
