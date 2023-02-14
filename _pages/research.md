@@ -22,6 +22,9 @@ with Jean-Marie Dufour & Md. Nazmul Ahsan
 
 ## Works in Progress
 
+**Identification Through Heteroskedasticity Using Multiple Structural Change Tests** 
+with Pierre Perron
+
 **Testing for the Synchronization of International Business Cycles** 
 with Jean-Marie Dufour
 
