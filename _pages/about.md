@@ -21,7 +21,7 @@ My research interests are in econometrics, monetary economics, and finance. You 
 <br />
 
 ## Recent & Upcoming presentations:
-<li>Spring 2023 <a href="https://blogs.bu.edu/perron/seminar/">Boston University Econometrics Seminar</a>, Febraury 24th, 2023</li>
+<li><a href="https://blogs.bu.edu/perron/seminar/">Boston University Econometrics Seminar</a>, Febraury 24th, 2023</li>
 <br />
 <li>16th International Conference on Computational and Financial Econometrics - Time Series I session, December 18th, 2022</li>
 <br />
