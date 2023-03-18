@@ -1,7 +1,11 @@
 ---
+layout: single
+title: "contact"
 permalink: /contact/
-title: ""
+author_profile: true
 ---
+---
+
 
 **Email:** [gabriel.rodriguezrondon@mail.mcgill.ca](mailto:gabriel.rodriguezrondon@mail.mcgill.ca)/ [ghrodriguez93@gmail.com](mailto:ghrodriguez93@gmail.com)  
   
