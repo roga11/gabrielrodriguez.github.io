@@ -21,13 +21,13 @@ My research interests are in econometrics, monetary economics, and finance. You 
 <br />
 
 ## Recent & upcoming presentations:
-<li>16th Joint Statistical Meetings - Topics on Financial Econometrics and Macroeconomic modeling session, August 10th, 2023</li>
+<li>Joint Statistical Meetings - Topics on Financial Econometrics and Macroeconomic modeling session, August 10th, 2023</li>
 <br />
-<li>16th Bank of Canada Brown Bag Seminar, July 7th, 2023</li>
+<li>Bank of Canada Brown Bag Seminar, July 7th, 2023</li>
 <br />
-<li>16th International Association for Applied Econometrics (IAAE) Annual Conference, June 28th, 2023</li>
+<li>International Association for Applied Econometrics (IAAE) Annual Conference, June 28th, 2023</li>
 <br />
-<li>16th 57th Annual Meetings of the Canadian Economics Association - CMSG: Inflation session, June 3rd, 2023</li>
+<li>57th Annual Meetings of the Canadian Economics Association - CMSG: Inflation session, June 3rd, 2023</li>
 <br />
 <li><a href="https://blogs.bu.edu/perron/seminar/">Boston University Econometrics Seminar</a>, Febraury 24th, 2023</li>
 <br />
