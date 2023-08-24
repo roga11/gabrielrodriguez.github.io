@@ -21,7 +21,7 @@ My research interests are in econometrics, monetary economics, and finance. You 
 <br />
 
 ## Recent & upcoming presentations:
-<li>Carleton University Brown Bag Seminar, October 19th,2023</li>
+<li>Carleton University Brown Bag Seminar, October 19th, 2023</li>
 <br />
 <li>NBER-NSF Time Series Conference, September 23, 2023</li>
 <br />
