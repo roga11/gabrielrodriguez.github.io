@@ -7,28 +7,28 @@ author_profile: true
 ---
 ## Working papers
 
-**[Joint Determination of Counterparty and Liquidity Risk in Payment Systems](https://editorialexpress.com/cgi-bin/conference/download.cgi?db_name=AFA2022&paper_id=1752)**,
-with Jorge Cruz Lopez & Charles M. Kahn
-
 **Monte Carlo Likelihood Ratio Tests for Markov Switching Models**,
 with Jean-Marie Dufour
 
-**MSTest: An R-package for Testing Markov-Switching Models**,
+**Structural Breaks In Underlying Core Inflation** 
+
+**Testing for the Synchronization of International Business Cycles** 
 with Jean-Marie Dufour
 
-**Estimation and inference for stochastic volatility models with leverage and heavy-tailed distributions**,
+**[Joint Determination of Counterparty and Liquidity Risk in Payment Systems](https://editorialexpress.com/cgi-bin/conference/download.cgi?db_name=AFA2022&paper_id=1752)**,
+with Jorge Cruz Lopez & Charles M. Kahn
+
+**Estimation and inference for higher-order stochastic volatility models with leverage**,
 with Jean-Marie Dufour & Md. Nazmul Ahsan
+
+**MSTest: An R-package for Testing Markov-Switching Models**,
+with Jean-Marie Dufour
 
 
 ## Works in Progress
 
 **Identification Through Heteroskedasticity Using Multiple Structural Change Tests** 
 with Pierre Perron
-
-**Testing for the Synchronization of International Business Cycles** 
-with Jean-Marie Dufour
-
-**Structural Breaks In Underlying Core Inflation** 
 
 **Simulation and Stress Testing of Large Value Payment Systems**,
 with Jorge Cruz Lopez
