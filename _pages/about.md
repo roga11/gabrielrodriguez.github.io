@@ -21,6 +21,12 @@ My research interests are in econometrics, monetary economics, and finance. You 
 <br />
 
 ## Recent & upcoming presentations:
+<li>Carleton University Brown Bag Seminar, October 19th,2023</li>
+<br />
+<li>NBER-NSF Time Series Conference, September 23, 2023</li>
+<br />
+<li>CEMLA - II Conference on Payments and FMIs, September 21, 2023</li>
+<br />
 <li>Joint Statistical Meetings - Topics on Financial Econometrics and Macroeconomic modeling session, August 10th, 2023</li>
 <br />
 <li>Bank of Canada Brown Bag Seminar, July 7th, 2023</li>
