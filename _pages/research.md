@@ -38,6 +38,10 @@ with Jorge Cruz Lopez, Giuseppe Matera, Jordan Cambe & Carlos Leon
 
 ## Policy Notes, Technical Notes, & Conference Proceedings
 
+**[Simulation-Based Inference for the Synchronization of Business Cycles](https://zenodo.org/records/10002201/files/RodriguezRondon_Dufour_2023_JSM_Proceedings.pdf?download=1)**,
+with Jean-Marie Dufour,
+_In JSM Proceedings, Business and Economic Statistics Section. Toronto, ON: American Statistical Association_, 2023. Zenodo. https://doi.org/10.5281/zenodo.10002201
+
 **Simulation-Based Inference for Markov Switching Models**, 
 with Jean-Marie Dufour,
 _In JSM Proceedings, Business and Economic Statistics Section. Washington, D.C.: American Statistical Association_, 2022
