@@ -15,8 +15,6 @@ My research interests are in econometrics, monetary economics, and finance. You 
 <br />
 <br />
 ## News:
-<li>I will be a PhD Intern in the Dapartment of International Economic Analysis at the Bank of Canada during the 2023 Summer semester (June - September, 2023).</li>
-<br />
 <li>R-package <a href="https://cran.r-project.org/web/packages/MSTest/MSTest.pdf">MSTest</a> is now available through CRAN! </li>
 <br />
 
