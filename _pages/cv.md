@@ -10,5 +10,5 @@ redirect_from:
 
 {% include base_path %} 
 
-<iframe src="https://roga11.github.io/gabrielrodriguez.github.io/files/GRodriguezRondon_CV_20231211.pdf" height = "700"
+<iframe src="https://roga11.github.io/gabrielrodriguez.github.io/files/GRodriguezRondon_CV_20240305.pdf" height = "700"
         width = "980"></iframe>
