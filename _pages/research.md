@@ -10,7 +10,7 @@ author_profile: true
 **Monte Carlo Likelihood Ratio Tests for Markov Switching Models**,
 with Jean-Marie Dufour
 
-**nderlying Core Inflation with Multiple Regimes** 
+**Underlying Core Inflation with Multiple Regimes** 
 
 **Testing for the Synchronization of International Business Cycles** 
 with Jean-Marie Dufour
