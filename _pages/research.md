@@ -28,18 +28,8 @@ with Jean-Marie Dufour
 with Linh Nguyen, Pierre Perron, and Yohei Yamamoto
 
 
-## Works in Progress
 
-**Identification Through Heteroskedasticity Using Multiple Structural Change Tests** 
-with Pierre Perron
-
-**Simulation and Stress Testing of Large Value Payment Systems**,
-with Jorge Cruz Lopez
-
-**Network Model Simulation and Stress Testing of PvP Systems**,
-with Jorge Cruz Lopez, Giuseppe Matera, Jordan Cambe & Carlos Leon
-
-## Policy Notes, Technical Notes, & Conference Proceedings
+## Conference Proceedings, Policy Notes, & Technical Notes
 
 **[Simulation-Based Inference for the Synchronization of Business Cycles](https://zenodo.org/records/10002201/files/RodriguezRondon_Dufour_2023_JSM_Proceedings.pdf?download=1)**,
 with Jean-Marie Dufour,
@@ -54,6 +44,16 @@ with Jeffrey Gao & Francisco Rivadeneyra, _Bank of Canada, Technical Report No. 
 
 
 
+## Works in Progress
+
+**Identification Through Heteroskedasticity Using Multiple Structural Change Tests** 
+with Pierre Perron
+
+**Simulation and Stress Testing of Large Value Payment Systems**,
+with Jorge Cruz Lopez
+
+**Network Model Simulation and Stress Testing of PvP Systems**,
+with Jorge Cruz Lopez, Giuseppe Matera, Jordan Cambe & Carlos Leon
 
 
 
