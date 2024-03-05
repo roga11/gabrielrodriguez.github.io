@@ -18,8 +18,10 @@ with Jean-Marie Dufour
 **[Joint Determination of Counterparty and Liquidity Risk in Payment Systems](https://editorialexpress.com/cgi-bin/conference/download.cgi?db_name=AFA2022&paper_id=1752)**,
 with Jorge Cruz Lopez & Charles M. Kahn
 
-**Estimation and inference for higher-order stochastic volatility models with leverage**,
+**[Estimation and inference for higher-order stochastic volatility models with leverage](https://roga11.github.io/gabrielrodriguez.github.io/files/Ahsan_Dufour_RodriguezR_2024_SVP_Leverage.pdf)**,
 with Jean-Marie Dufour & Md. Nazmul Ahsan
+
+
 
 **MSTest: An R-package for Testing Markov-Switching Models**,
 with Jean-Marie Dufour
