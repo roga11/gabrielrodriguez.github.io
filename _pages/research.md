@@ -7,7 +7,7 @@ author_profile: true
 ---
 ## Working papers
 
-**[Monte Carlo Likelihood Ratio Tests for Markov Switching Models](https://roga11.github.io/gabrielrodriguez.github.io/files/RodriguezRondon_Dufour_2023_MonteCarlo_LikelihoodRatioTest_MarkovSwitchingModels_20230222.pdf)**,
+**[Monte Carlo Likelihood Ratio Tests for Markov Switching Models](https://roga11.github.io/gabrielrodriguez.github.io/files/RodriguezRondon_Dufour_MonteCarlo_LikelihoodRatioTest_MarkovSwitchingModels.pdf)**,
 with Jean-Marie Dufour
 
 **Underlying Core Inflation with Multiple Regimes** 
