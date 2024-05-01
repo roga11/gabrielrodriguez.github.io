@@ -21,9 +21,9 @@ My research interests are in econometrics, monetary economics, and finance. You 
 ## Recent & upcoming presentations:
 <li>International Association for Applied Econometrics (IAAE) Annual Conference (Greece), June 25 - 27, 2024</li>
 <br />
-<li>58th Annual Meetings of the Canadian Economics Association, May 30 - June 1, 2024</li>
+<li>2024 North American Summer Meeting of the Econometric Society, June 13 - 16, 2024</li>
 <br />
-<li>19th CIREQ Ph.D. Students’ Conference, May 23 - 24, 2024</li>
+<li>58th Annual Meetings of the Canadian Economics Association, May 30 - June 1, 2024</li>
 <br />
 <li>CIREQ Econometrics Conference in Honor of Eric Ghysels, May 10 - 11, 2024</li>
 <br />
