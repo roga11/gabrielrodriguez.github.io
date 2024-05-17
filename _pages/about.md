@@ -25,6 +25,8 @@ My research interests are in econometrics, monetary economics, and finance. You 
 <br />
 <li>58th Annual Meetings of the Canadian Economics Association, May 30 - June 1, 2024</li>
 <br />
+<li>63e Congrès de la Société Canadienne de Science Économique, May 15 - 17, 2024</li>
+<br />
 <li>CIREQ Econometrics Conference in Honor of Eric Ghysels, May 10 - 11, 2024</li>
 <br />
 <li>New York Camp Econometrics XVIII, April 26-28, 2024</li>
