@@ -10,16 +10,19 @@ author_profile: true
 **[Monte Carlo Likelihood Ratio Tests for Markov Switching Models](https://roga11.github.io/gabrielrodriguez.github.io/files/RodriguezRondon_Dufour_MonteCarlo_LikelihoodRatioTest_MarkovSwitchingModels.pdf)**,
 with Jean-Marie Dufour
 
+**[Estimation and inference for higher-order stochastic volatility models with leverage](https://roga11.github.io/gabrielrodriguez.github.io/files/Ahsan_Dufour_RodriguezR_2024_SVP_Leverage.pdf)**,
+with Jean-Marie Dufour & Md. Nazmul Ahsan
+
 **Underlying Core Inflation with Multiple Regimes** 
 
 **Testing for the Synchronization of International Business Cycles**, 
 with Jean-Marie Dufour
 
+**Volatility Forecasting with Higher-order Stochastic Volatility Models**,
+with Jean-Marie Dufour & Md. Nazmul Ahsan
+
 **[Joint Determination of Counterparty and Liquidity Risk in Payment Systems](https://editorialexpress.com/cgi-bin/conference/download.cgi?db_name=AFA2022&paper_id=1752)**,
 with Jorge Cruz Lopez & Charles M. Kahn
-
-**[Estimation and inference for higher-order stochastic volatility models with leverage](https://roga11.github.io/gabrielrodriguez.github.io/files/Ahsan_Dufour_RodriguezR_2024_SVP_Leverage.pdf)**,
-with Jean-Marie Dufour & Md. Nazmul Ahsan
 
 **MSTest: An R-package for Testing Markov-Switching Models**,
 with Jean-Marie Dufour
@@ -48,6 +51,10 @@ with Jeffrey Gao & Francisco Rivadeneyra, _Bank of Canada, Technical Report No. 
 
 **Identification Through Heteroskedasticity Using Multiple Structural Change Tests** 
 with Pierre Perron
+
+**MNbreaks: An R Package for Estimating and Testing Multiple Structural Changes
+in Multivariate Linear Regression Models** 
+with Zhongjun Qu
 
 **Simulation and Stress Testing of Large Value Payment Systems**,
 with Jorge Cruz Lopez
