@@ -19,6 +19,8 @@ My research interests are in econometrics, monetary economics, and finance. You 
 <br />
 
 ## Recent & upcoming presentations:
+<li>2024 European meeting of the Econometric Society, August 26 - 30, 2024</li>
+<br />
 <li>International Association for Applied Econometrics (IAAE) Annual Conference (Greece), June 25 - 27, 2024</li>
 <br />
 <li>2024 North American Summer Meeting of the Econometric Society, June 13 - 16, 2024</li>
