@@ -54,7 +54,7 @@ with Pierre Perron
 
 **MNbreaks: An R Package for Estimating and Testing Multiple Structural Changes
 in Multivariate Linear Regression Models** 
-with Zhongjun Qu
+with Pierre Perron & Zhongjun Qu
 
 **Simulation and Stress Testing of Large Value Payment Systems**,
 with Jorge Cruz Lopez
