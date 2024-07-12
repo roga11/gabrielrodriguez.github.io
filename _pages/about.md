@@ -19,6 +19,10 @@ My research interests are in econometrics, monetary economics, and finance. You 
 <br />
 
 ## Recent & upcoming presentations:
+<li>39th Annual Meeting of the Canadian Econometrics Study Group (CESG), October 25 - 27, 2024</li>
+<br />
+<li>Conference on Real-Time Data Analysis, Methods and Applications (Bank of Canada), October 17 - 18, 2024</li>
+<br />
 <li>2024 European meeting of the Econometric Society, August 26 - 30, 2024</li>
 <br />
 <li>International Association for Applied Econometrics (IAAE) Annual Conference (Greece), June 25 - 27, 2024</li>
