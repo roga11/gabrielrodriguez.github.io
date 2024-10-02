@@ -10,7 +10,7 @@ redirect_from:
 I am a PhD student in the [Department of Economics at McGill University](https://www.mcgill.ca/economics/). 
 <br />
 <br />
-My research interests are in econometrics, monetary economics, and finance. You can find my [CV here](https://roga11.github.io/gabrielrodriguez.github.io/files/GRodriguezRondon_CV_20240529.pdf). 
+My research interests are in econometrics, monetary economics, and finance. You can find my [CV here](https://roga11.github.io/gabrielrodriguez.github.io/files/GRodriguezRondon_JM_CV_20241002.pdf). 
 <br />
 <br />
 <br />
@@ -18,10 +18,12 @@ My research interests are in econometrics, monetary economics, and finance. You 
 <li>R-package <a href="https://cran.r-project.org/web/packages/MSTest/MSTest.pdf">MSTest</a> is now available through CRAN! </li>
 <br />
 
-## Recent & upcoming presentations:
+## Recent & upcoming presentations this year:
 <li>39th Annual Meeting of the Canadian Econometrics Study Group (CESG), October 25 - 27, 2024</li>
 <br />
 <li>Conference on Real-Time Data Analysis, Methods and Applications (Bank of Canada), October 17 - 18, 2024</li>
+<br />
+<li>CIREQ-McGill Lunch Seminar, October 8, 2024</li>
 <br />
 <li>2024 European meeting of the Econometric Society, August 26 - 30, 2024</li>
 <br />
