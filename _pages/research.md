@@ -43,7 +43,7 @@ with Jean-Marie Dufour,
 _In JSM Proceedings, Business and Economic Statistics Section. Washington, D.C.: American Statistical Association_, 2022
 
 **[The Government of Canada Debt Securities Dataset](https://www.bankofcanada.ca/wp-content/uploads/2018/02/tr112.pdf)**,
-with Jeffrey Gao & Francisco Rivadeneyra, _Bank of Canada, Technical Report No. 112_, 2017
+with Jeffrey Gao & Francisco Rivadeneyra, _Bank of Canada, Technical Report No. 112_, 2018
 
 
 
