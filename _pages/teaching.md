@@ -18,7 +18,7 @@ Winter 2024 \| [Slides](https://roga11.github.io/gabrielrodriguez.github.io/file
   <li>Empirical Methods In Monetary Economics & Finance (Ph.D. Level)
     <div style="margin-left: 20px;"> Winter 2024 </div>
   </li>
-</ul>ul>
+</ul>
 
 ## Teaching Assistant - McGill University
 
