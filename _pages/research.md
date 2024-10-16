@@ -15,10 +15,7 @@ with Jean-Marie Dufour & Md. Nazmul Ahsan
 
 **Underlying Core Inflation with Multiple Regimes** 
 
-**Testing for the Synchronization of International Business Cycles**, 
-with Jean-Marie Dufour
-
-**[Volatility Forecasting with Higher-order Stochastic Volatility Models](https://roga11.github.io/gabrielrodriguez.github.io/files/)**,
+**[Volatility Forecasting with Higher-order Stochastic Volatility Models](https://roga11.github.io/gabrielrodriguez.github.io/files/Ahsan_Dufour_2021_Volatility_Forecasting_SVp_Models_2021-10-03.pdf)**,
 with Jean-Marie Dufour & Md. Nazmul Ahsan
 
 **[Joint Determination of Counterparty and Liquidity Risk in Payment Systems](https://roga11.github.io/gabrielrodriguez.github.io/files/20240917 CKR (2024) - Counterparty and Liquidity Risk.pdf)**,
@@ -33,6 +30,10 @@ with Linh Nguyen, Pierre Perron, and Yohei Yamamoto
 
 
 ## Conference Proceedings, Policy Notes, & Technical Notes
+
+**Measuring Underlying Inflation Post-COVID**, 
+with Mikael Khan & Luis Uzeda, 
+Canadian Economic Analysis Inquiry, Bank of Canada, June 2024.
 
 **[Simulation-Based Inference for the Synchronization of Business Cycles](https://zenodo.org/records/10002201/files/RodriguezRondon_Dufour_2023_JSM_Proceedings.pdf?download=1)**,
 with Jean-Marie Dufour,
@@ -55,6 +56,8 @@ with Pierre Perron
 **MNbreaks: An R Package for Estimating and Testing Multiple Structural Changes
 in Multivariate Linear Regression Models** 
 with Pierre Perron & Zhongjun Qu
+
+**Monte Carlo Test for Factor Models with Markov switching**
 
 **Simulation and Stress Testing of Large Value Payment Systems**,
 with Jorge Cruz Lopez
