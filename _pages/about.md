@@ -25,17 +25,17 @@ You can find my [CV here](https://roga11.github.io/gabrielrodriguez.github.io/fi
 <br />
 
 ## Recent & upcoming presentations this year:
-<li>39th Annual Meeting of the Canadian Econometrics Study Group (CESG), 
-  October 25 - 27, 2024</li>
+<li>39th Annual Meeting of the Canadian Econometrics Study Group (CESG), </li>
+    October 25 - 27, 2024
 
-<li>Conference on Real-Time Data Analysis, Methods and Applications (Bank of Canada), 
-  October 17 - 18, 2024</li>
+<li>Conference on Real-Time Data Analysis, Methods and Applications (Bank of Canada), </li>
+    October 17 - 18, 2024
 
-<li>CIREQ-McGill Lunch Seminar, 
-  October 8, 2024</li>
+<li>CIREQ-McGill Lunch Seminar, </li>
+    October 8, 2024
 
-<li>2024 European meeting of the Econometric Society, 
-  August 26 - 30, 2024</li>
+<li>2024 European meeting of the Econometric Society, </li>
+  August 26 - 30, 2024
 
 <li>International Association for Applied Econometrics (IAAE) Annual Conference (Greece), 
   June 25 - 27, 2024</li>
