@@ -26,7 +26,7 @@ You can find my [CV here](https://roga11.github.io/gabrielrodriguez.github.io/fi
 
 ## Recent & upcoming presentations this year:
 <li>39th Annual Meeting of the Canadian Econometrics Study Group (CESG), </li>
-<p class="date"> October 25 - 27, 2024</p>
+<div style="margin-left: 30px;"> October 25 - 27, 2024</div>
 
 <li>Conference on Real-Time Data Analysis, Methods and Applications (Bank of Canada), </li>
 <p class="date"> October 17 - 18, 2024</p>
