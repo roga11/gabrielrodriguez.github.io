@@ -15,7 +15,7 @@ with Jean-Marie Dufour & Md. Nazmul Ahsan
 
 **Underlying Core Inflation with Multiple Regimes** 
 
-**[Volatility Forecasting with Higher-order Stochastic Volatility Models](https://roga11.github.io/gabrielrodriguez.github.io/files/Ahsan_Dufour_2021_Volatility_Forecasting_SVp_Models_2021-10-03.pdf)**,
+**Volatility Forecasting with Higher-order Stochastic Volatility Models**,
 with Jean-Marie Dufour & Md. Nazmul Ahsan
 
 **[Joint Determination of Counterparty and Liquidity Risk in Payment Systems](https://roga11.github.io/gabrielrodriguez.github.io/files/20240917_CKR_2024_Counterparty_and_Liquidity_Risk.pdf)**,
