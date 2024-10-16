@@ -18,5 +18,5 @@ with Linh Nguyen, Pierre Perron, & Yohei Yamamoto
 >This package allows the user to perform the bootstrap pre-test procedure described in Davidson & MacKinnon (2000) to determine an appropriate number of bootstrap simulations to use to minimize loss of power resulting from sampling. 
 
 **[MaxMC](https://cloud.r-project.org/web/packages/MaxMC/index.html) - _R package_**  
-with Julien Neves \& Jean-Marie Dufour
+with Julien Neves & Jean-Marie Dufour
 >An implementation of the Monte Carlo techniques described in details by Dufour (2006) and Dufour and Khalaf (2007). The two main features available are the Monte Carlo method with tie-breaker, mc(), for discrete statistics, and the Maximized Monte Carlo, mmc(), for statistics with nuisance parameters.
