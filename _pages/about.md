@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD student in the [Department of Economics at McGill University](https://www.mcgill.ca/economics/). I will be on the 2024-25 job market and available for interviews. 
+I am a PhD student in the [Department of Economics at McGill University](https://www.mcgill.ca/economics/). I will be on the 2024-2025 job market and available for interviews. 
 <br />
 <br />
 My research interests are in Econometrics, Macroeconomics and Monetary Economics, Finance, and Machine Learning. You can find my [CV here](https://roga11.github.io/gabrielrodriguez.github.io/files/GRodriguezRondon_CV.pdf). 
