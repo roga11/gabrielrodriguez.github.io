@@ -55,21 +55,22 @@ author_profile: true
 
 
 ## Conference Proceedings, Policy Notes, & Technical Notes
-
-**Measuring Underlying Inflation Post-COVID**, 
-with Mikael Khan & Luis Uzeda, 
-Canadian Economic Analysis Inquiry, Bank of Canada, June 2024.
-
-**[Simulation-Based Inference for the Synchronization of Business Cycles](https://zenodo.org/records/10002201/files/RodriguezRondon_Dufour_2023_JSM_Proceedings.pdf?download=1)**,
-with Jean-Marie Dufour,
-_In JSM Proceedings, Business and Economic Statistics Section. Toronto, ON: American Statistical Association_, 2023. Zenodo. https://doi.org/10.5281/zenodo.10002201
-
-**Simulation-Based Inference for Markov Switching Models**, 
-with Jean-Marie Dufour,
-_In JSM Proceedings, Business and Economic Statistics Section. Washington, D.C.: American Statistical Association_, 2022
-
-**[The Government of Canada Debt Securities Dataset](https://www.bankofcanada.ca/wp-content/uploads/2018/02/tr112.pdf)**,
-with Jeffrey Gao & Francisco Rivadeneyra, _Bank of Canada, Technical Report No. 112_, 2018
+<ol start=8>
+  <li>
+    <em>Measuring Underlying Inflation Post-COVID</em>, with Mikael Khan & Luis Uzeda, <em>Canadian Economic Analysis Inquiry, Bank of Canada</em>, June 2024.
+    <div> 
+    </div>
+  </li>  
+  <li><a href="https://zenodo.org/records/10002201/files/RodriguezRondon_Dufour_2023_JSM_Proceedings.pdf?download=1" target="_blank"><em>Simulation-Based Inference for the Synchronization of Business Cycles</em></a>, with Jean-Marie Dufour, <em>JSM Proceedings, Business and Economic Statistics Section. Toronto, ON: American Statistical Association </em>, 2023.
+  </li>
+  <li>
+    <em>Simulation-Based Inference for Markov Switching Models</em>, with Jean-Marie Dufour, <em>JSM Proceedings, Business and Economic Statistics Section. Washington, D.C.: American Statistical Association</em>, 2022.
+    <div> 
+    </div>
+  </li>
+  <li><a href="https://www.bankofcanada.ca/wp-content/uploads/2018/02/tr112.pdf" target="_blank"><em>The Government of Canada Debt Securities Dataset</em></a>, with Jeffrey Gao & Francisco Rivadeneyra, <em>Bank of Canada, Technical Report No. 112</em>, 2018.
+  </li>
+</ol>
 
 
 
