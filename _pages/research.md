@@ -18,13 +18,13 @@ with Jean-Marie Dufour & Md. Nazmul Ahsan
 **Testing for the Synchronization of International Business Cycles**, 
 with Jean-Marie Dufour
 
-**Volatility Forecasting with Higher-order Stochastic Volatility Models**,
+**[Volatility Forecasting with Higher-order Stochastic Volatility Models](https://roga11.github.io/gabrielrodriguez.github.io/files/)**,
 with Jean-Marie Dufour & Md. Nazmul Ahsan
 
-**[Joint Determination of Counterparty and Liquidity Risk in Payment Systems](https://editorialexpress.com/cgi-bin/conference/download.cgi?db_name=AFA2022&paper_id=1752)**,
+**[Joint Determination of Counterparty and Liquidity Risk in Payment Systems](https://roga11.github.io/gabrielrodriguez.github.io/files/20240917 CKR (2024) - Counterparty and Liquidity Risk.pdf)**,
 with Jorge Cruz Lopez & Charles M. Kahn
 
-**MSTest: An R-package for Testing Markov-Switching Models**,
+**[MSTest: An R-package for Testing Markov-Switching Models](https://roga11.github.io/gabrielrodriguez.github.io/files/RodriguezRondon_Dufour_2024_MSTest_Rpackage_20240425.pdf)**,
 with Jean-Marie Dufour
 
 **mbreaks: R Package for Estimating and Testing Multiple Structural Changes in Linear Regression Models**, 
