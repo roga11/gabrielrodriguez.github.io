@@ -23,7 +23,7 @@ author_profile: true
   </li>
   <li>
     <em>Underlying Core Inflation with Multiple Regimes</em>
-    <div>  <a href="GRR_IAAE2024_underlying_core_inf.pdf" target="_blank">Slides</a> 
+    <div>  <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/GRR_IAAE2024_underlying_core_inf.pdf" target="_blank">Slides</a> 
     </div>
   </li>
   
