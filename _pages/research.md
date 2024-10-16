@@ -7,7 +7,7 @@ author_profile: true
 ---
 ## Submitted Papers
 <ol start=1>
-  <li><a href="https://roga11.github.io/gabrielrodriguez.github.io/files/Ahsan_Dufour_RodriguezR_2024_SVP_Leverage.pdf" target="_blank"><em>Estimation and inference for higher-order stochastic volatility models with leverage</em></a> with Jean-Marie Dufour & Md. Nazmul Ahsan
+  <li><a href="https://roga11.github.io/gabrielrodriguez.github.io/files/Ahsan_Dufour_RodriguezR_2024_SVP_Leverage.pdf" target="_blank"><em>Estimation and inference for higher-order stochastic volatility models with leverage</em></a> with Jean-Marie Dufour & Md. Nazmul Ahsan, Submitted to <em>Journal of Time Series Analysis</em>em> (revision requested)
     <div> <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/GRR_NASMES_2024_ Estimation_and_inference_for_higher_order_stochastic_volatility_models_with_leverage.pdf" target="_blank">Slides</a> 
     </div>
   </li>
