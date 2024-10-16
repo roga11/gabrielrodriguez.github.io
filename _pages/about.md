@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD candidate in the [Department of Economics at McGill University](https://www.mcgill.ca/economics/). 
+I am a PhD candidate in the [Department of Economics](https://www.mcgill.ca/economics/)  at [McGill University](https://www.mcgill.ca). 
 <br />
 <br />
 I will be on the 2024-2025 job market and available for interviews. 
