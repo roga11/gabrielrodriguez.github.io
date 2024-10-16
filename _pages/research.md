@@ -5,27 +5,54 @@ permalink: /research/
 author_profile: true
 ---
 ---
+## Submitted Papers
+<ol start=1>
+  <li><a href="https://roga11.github.io/gabrielrodriguez.github.io/files/Ahsan_Dufour_RodriguezR_2024_SVP_Leverage.pdf" target="_blank">Estimation and inference for higher-order stochastic volatility models with leverage</a>
+    <div style="margin-left: 5px;"> with Jean-Marie Dufour & Md. Nazmul Ahsan | <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/GRR_NASMES_2024_ Estimation_and_inference_for_higher_order_stochastic_volatility_models_with_leverage.pdf" target="_blank">Slides</a> 
+    </div>
+  </li>
+</ol>
+
+
 ## Working papers
+<ol start=2>
+  <li>
+    <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/RodriguezRondon_Dufour_2024_MonteCarlo_LikelihoodRatioTest_MarkovSwitchingModels_20241015.pdf" target="_blank">Monte Carlo Likelihood Ratio Tests for Markov Switching Models</a>
+    <div style="margin-left: 5px;"> with Jean-Marie Dufour  
+    </div>
+    <div style="margin-left: 5px;"> style="margin-left: 5px;"> <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/GRodriguezRondon_CIREQLunchSeminar_20241008.pdf" target="_blank">Slides</a> 
+    </div>
+  </li>
+  <li>
+    Underlying Core Inflation with Multiple Regimes
+  </li>
+  <li>
+    Volatility Forecasting with Higher-order Stochastic Volatility Models
+    <div style="margin-left: 5px;"> with Jean-Marie Dufour  
+    </div>
+  </li>
+  <li>
+    <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/20240917_CKR_2024_Counterparty_and_Liquidity_Risk.pdf" target="_blank">Joint Determination of Counterparty and Liquidity Risk in Payment Systems</a>
+    <div style="margin-left: 5px;"> with Jorge Cruz Lopez & Charles M. Kahn
+    </div>
+    <div style="margin-left: 5px;"> style="margin-left: 5px;"> <a href="20230921_GRodriguezRondon_Counterparty_and_Liquidity_Risk_in_Payments_CEMLAIIPaymentFMI.pdf" target="_blank">Slides</a> 
+    </div>
+  </li>
 
-**[Monte Carlo Likelihood Ratio Tests for Markov Switching Models](https://roga11.github.io/gabrielrodriguez.github.io/files/RodriguezRondon_Dufour_2024_MonteCarlo_LikelihoodRatioTest_MarkovSwitchingModels_20241015.pdf)**,
-with Jean-Marie Dufour
 
-**[Estimation and inference for higher-order stochastic volatility models with leverage](https://roga11.github.io/gabrielrodriguez.github.io/files/Ahsan_Dufour_RodriguezR_2024_SVP_Leverage.pdf)**,
-with Jean-Marie Dufour & Md. Nazmul Ahsan
+  <li>
+    <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/RodriguezRondon_Dufour_2024_MSTest_Rpackage_20240425.pdf" target="_blank">MSTest: An R-package for Testing Markov-Switching Models</a>
+    <div style="margin-left: 5px;"> with Jean-Marie Dufour
+    </div>
+  </li>
 
-**Underlying Core Inflation with Multiple Regimes** 
-
-**Volatility Forecasting with Higher-order Stochastic Volatility Models**,
-with Jean-Marie Dufour & Md. Nazmul Ahsan
-
-**[Joint Determination of Counterparty and Liquidity Risk in Payment Systems](https://roga11.github.io/gabrielrodriguez.github.io/files/20240917_CKR_2024_Counterparty_and_Liquidity_Risk.pdf)**,
-with Jorge Cruz Lopez & Charles M. Kahn
-
-**[MSTest: An R-package for Testing Markov-Switching Models](https://roga11.github.io/gabrielrodriguez.github.io/files/RodriguezRondon_Dufour_2024_MSTest_Rpackage_20240425.pdf)**,
-with Jean-Marie Dufour
-
-**mbreaks: R Package for Estimating and Testing Multiple Structural Changes in Linear Regression Models**, 
-with Linh Nguyen, Pierre Perron, and Yohei Yamamoto
+  <li>
+    mbreaks: R Package for Estimating and Testing Multiple Structural Changes in Linear Regression Models
+    <div style="margin-left: 5px;"> with Linh Nguyen, Pierre Perron, & Yohei Yamamoto
+    </div>
+  </li>
+  
+</ol>
 
 
 
