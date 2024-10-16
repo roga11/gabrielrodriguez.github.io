@@ -9,7 +9,7 @@ author_profile: true
 
 **Econometrics II (Ph.D.  Level)**
 
-Winter 2024 | [Slides](https://roga11.github.io/gabrielrodriguez.github.io/files/ECON663_EconometricsII_TS_FullSlides.pdf)
+Winter 2024 \| [Slides](https://roga11.github.io/gabrielrodriguez.github.io/files/ECON663_EconometricsII_TS_FullSlides.pdf)
 
 
 
