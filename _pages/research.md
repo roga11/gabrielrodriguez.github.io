@@ -61,7 +61,7 @@ author_profile: true
     <div> 
     </div>
   </li>  
-  <li><a href="https://zenodo.org/records/10002201/files/RodriguezRondon_Dufour_2023_JSM_Proceedings.pdf" target="_blank"><em>Simulation-Based Inference for the Synchronization of Business Cycles</em></a>, with Jean-Marie Dufour, <em>JSM Proceedings, Business and Economic Statistics Section. Toronto, ON: American Statistical Association </em>, 2023.
+  <li><a href="https://roga11.github.io/gabrielrodriguez.github.io/files/RodriguezRondon_Dufour_2023_JSM_Proceedings.pdf" target="_blank"><em>Simulation-Based Inference for the Synchronization of Business Cycles</em></a>, with Jean-Marie Dufour, <em>JSM Proceedings, Business and Economic Statistics Section. Toronto, ON: American Statistical Association </em>, 2023.
   </li>
   <li>
     <em>Simulation-Based Inference for Markov Switching Models</em>, with Jean-Marie Dufour, <em>JSM Proceedings, Business and Economic Statistics Section. Washington, D.C.: American Statistical Association</em>, 2022.
