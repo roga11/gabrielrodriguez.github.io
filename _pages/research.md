@@ -28,6 +28,8 @@ author_profile: true
   </li>
   <li>
     <em>Volatility Forecasting with Higher-order Stochastic Volatility Models</em>, with Jean-Marie Dufour
+    <div> 
+    </div>
   </li>
   <li>
     <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/20240917_CKR_2024_Counterparty_and_Liquidity_Risk.pdf" target="_blank"> <em>Joint Determination of Counterparty and Liquidity Risk in Payment Systems</em></a>, with Jorge Cruz Lopez & Charles M. Kahn
@@ -36,9 +38,13 @@ author_profile: true
   </li>
   <li>
     <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/RodriguezRondon_Dufour_2024_MSTest_Rpackage_20240425.pdf" target="_blank"><em>MSTest: An R-package for Testing Markov-Switching Models</em></a>, with Jean-Marie Dufour
+    <div> 
+    </div>
   </li>
   <li>
     <em>mbreaks: R Package for Estimating and Testing Multiple Structural Changes in Linear Regression Models</em>, with Linh Nguyen, Pierre Perron, & Yohei Yamamoto
+    <div> 
+    </div>
   </li>
 </ol>
 
