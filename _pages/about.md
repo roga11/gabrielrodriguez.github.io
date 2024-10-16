@@ -21,8 +21,10 @@ You can find my [CV here](https://roga11.github.io/gabrielrodriguez.github.io/fi
 <br />
 <br />
 ## News:
-<li>R-package <a href="https://cran.r-project.org/web/packages/MSTest/MSTest.pdf">MSTest</a> is now available through CRAN! </li>
-<br />
+<ul>
+  <li> R-package <a href="https://cran.r-project.org/web/packages/MSTest/MSTest.pdf">MSTest</a> is now available through CRAN!
+  </li>
+</ul>ul>
 
 ## Recent & upcoming presentations this year:
 <ul>
