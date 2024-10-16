@@ -29,29 +29,29 @@ You can find my [CV here](https://roga11.github.io/gabrielrodriguez.github.io/fi
 <p class="date"> October 25 - 27, 2024</p>
 
 <li>Conference on Real-Time Data Analysis, Methods and Applications (Bank of Canada), </li>
-    October 17 - 18, 2024
+<p class="date"> October 17 - 18, 2024</p>
 
 <li>CIREQ-McGill Lunch Seminar, </li>
-    October 8, 2024
+<p class="date"> October 8, 2024</p>
 
 <li>2024 European meeting of the Econometric Society, </li>
-  August 26 - 30, 2024
+<p class="date"> August 26 - 30, 2024</p>
 
-<li>International Association for Applied Econometrics (IAAE) Annual Conference (Greece), 
-  June 25 - 27, 2024</li>
+<li>International Association for Applied Econometrics (IAAE) Annual Conference (Greece), </li>
+<p class="date"> June 25 - 27, 2024</p>
 
-<li>2024 North American Summer Meeting of the Econometric Society, 
-  June 13 - 16, 2024</li>
+<li>2024 North American Summer Meeting of the Econometric Society, </li>
+<p class="date"> June 13 - 16, 2024</p>
 
-<li>58th Annual Meetings of the Canadian Economics Association, 
-  May 30 - June 1, 2024</li>
+<li>58th Annual Meetings of the Canadian Economics Association, </li>
+<p class="date"> May 30 - June 1, 2024</p>
 
-<li>63e Congrès de la Société Canadienne de Science Économique, 
-  May 15 - 17, 2024</li>
+<li>63e Congrès de la Société Canadienne de Science Économique, </li>
+<p class="date"> May 15 - 17, 2024</p>
 
-<li>CIREQ Econometrics Conference in Honor of Eric Ghysels, 
-  May 10 - 11, 2024</li>
+<li>CIREQ Econometrics Conference in Honor of Eric Ghysels, </li>
+<p class="date"> May 10 - 11, 2024
 
 <li>New York Camp Econometrics XVIII, 
-  April 26-28, 2024</li>
+<p class="date"> April 26-28, 2024</li>
 <br />
