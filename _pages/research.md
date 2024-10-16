@@ -18,7 +18,7 @@ with Jean-Marie Dufour & Md. Nazmul Ahsan
 **[Volatility Forecasting with Higher-order Stochastic Volatility Models](https://roga11.github.io/gabrielrodriguez.github.io/files/Ahsan_Dufour_2021_Volatility_Forecasting_SVp_Models_2021-10-03.pdf)**,
 with Jean-Marie Dufour & Md. Nazmul Ahsan
 
-**[Joint Determination of Counterparty and Liquidity Risk in Payment Systems](https://roga11.github.io/gabrielrodriguez.github.io/files/"20240917 CKR (2024) - Counterparty and Liquidity Risk.pdf")**,
+**[Joint Determination of Counterparty and Liquidity Risk in Payment Systems](https://roga11.github.io/gabrielrodriguez.github.io/files/20240917_CKR_2024_Counterparty_and_Liquidity_Risk.pdf)**,
 with Jorge Cruz Lopez & Charles M. Kahn
 
 **[MSTest: An R-package for Testing Markov-Switching Models](https://roga11.github.io/gabrielrodriguez.github.io/files/RodriguezRondon_Dufour_2024_MSTest_Rpackage_20240425.pdf)**,
