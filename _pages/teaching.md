@@ -7,8 +7,10 @@ author_profile: true
 ---
 ## Instructor - McGill University
 
-**Econometrics II (Ph.D.  Level)**,
-[Slides](https://roga11.github.io/gabrielrodriguez.github.io/files/ECON663_EconometricsII_TS_FullSlides.pdf)
+**Econometrics II (Ph.D.  Level)**
+
+Winter 2024 | [Slides](https://roga11.github.io/gabrielrodriguez.github.io/files/ECON663_EconometricsII_TS_FullSlides.pdf)
+
 
 
 ## Teaching Assistant - HEC Montreal
@@ -19,4 +21,5 @@ author_profile: true
 ## Teaching Assistant - McGill University
 
 **Econometrics I (B.A. Honours)**
+
 Fall 2024
