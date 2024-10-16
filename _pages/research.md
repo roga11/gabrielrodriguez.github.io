@@ -76,31 +76,21 @@ author_profile: true
 
 ## Works in Progress
 <ul>
-  <li>
-    <em>Identification Through Heteroskedasticity Using Multiple Structural Change Tests<em>, with Pierre Perron    
-      <div> 
-      </div>
-  </li>
-  <li>
-    <em>MNbreaks: An R Package for Estimating and Testing Multiple Structural Changes in Multivariate Linear Regression Models<em>, with Pierre Perron & Zhongjun Qu
-      <div> 
-      </div>
-  </li>
-  <li>
-    <em>Monte Carlo Test for Factor Models with Markov switching<em>
-      <div> 
-      </div>
-  </li>
-  <li>
-    <em>Simulation and Stress Testing of Large Value Payment Systems<em>, with Jorge Cruz Lopez
-      <div> 
-      </div>
-  </li>
-  <li>
-    <em>Network Model Simulation and Stress Testing of PvP Systems<em>, with Jorge Cruz Lopez, Giuseppe Matera, Jordan Cambe & Carlos Leon
-      <div> 
-      </div>
-  </li>
+    <li>
+      <em>Identification Through Heteroskedasticity Using Multiple Structural Change Tests<em>, with Pierre Perron    
+    </li>
+    <li>
+      <em>MNbreaks: An R Package for Estimating and Testing Multiple Structural Changes in Multivariate Linear Regression Models<em>, with Pierre Perron & Zhongjun Qu
+    </li>
+    <li>
+      <em>Monte Carlo Test for Factor Models with Markov switching<em>
+    </li>
+    <li>
+      <em>Simulation and Stress Testing of Large Value Payment Systems<em>, with Jorge Cruz Lopez
+    </li>
+    <li>
+      <em>Network Model Simulation and Stress Testing of PvP Systems<em>, with Jorge Cruz Lopez, Giuseppe Matera, Jordan Cambe & Carlos Leon
+    </li>
 </ul>
 
 
