@@ -7,7 +7,7 @@ author_profile: true
 ---
 ## Instructor - McGill University
 <ul>
-  <li>Econometrics II (Ph.D.  Level)** - with Prof. Saraswata Chaudhuri
+  <li>Econometrics II (Ph.D.  Level) - with Prof. Saraswata Chaudhuri
     <div style="margin-left: 5px;"> Winter 2024 | <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/ECON663_EconometricsII_TS_FullSlides.pdf" target="_blank">Slides</a> 
     </div>
   </li>
