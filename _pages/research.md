@@ -7,7 +7,7 @@ author_profile: true
 ---
 ## Working papers
 
-**[Monte Carlo Likelihood Ratio Tests for Markov Switching Models](https://roga11.github.io/gabrielrodriguez.github.io/files/RodriguezRondon_Dufour_MonteCarlo_LikelihoodRatioTest_MarkovSwitchingModels.pdf)**,
+**[Monte Carlo Likelihood Ratio Tests for Markov Switching Models](https://roga11.github.io/gabrielrodriguez.github.io/files/RodriguezRondon_Dufour_2024_MonteCarlo_LikelihoodRatioTest_MarkovSwitchingModels_20241015.pdf)**,
 with Jean-Marie Dufour
 
 **[Estimation and inference for higher-order stochastic volatility models with leverage](https://roga11.github.io/gabrielrodriguez.github.io/files/Ahsan_Dufour_RodriguezR_2024_SVP_Leverage.pdf)**,
