@@ -52,6 +52,6 @@ You can find my [CV here](https://roga11.github.io/gabrielrodriguez.github.io/fi
 <li>CIREQ Econometrics Conference in Honor of Eric Ghysels, </li>
 <p class="date"> May 10 - 11, 2024
 
-<li>New York Camp Econometrics XVIII, 
-<p class="date"> April 26-28, 2024</li>
+<li>New York Camp Econometrics XVIII, </li>
+<p class="date"> April 26-28, 2024</p>
 <br />
