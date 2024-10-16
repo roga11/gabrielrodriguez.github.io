@@ -7,8 +7,8 @@ author_profile: true
 ---
 ## Submitted Papers
 <ol start=1>
-  <li><a href="https://roga11.github.io/gabrielrodriguez.github.io/files/Ahsan_Dufour_RodriguezR_2024_SVP_Leverage.pdf" target="_blank">Estimation and inference for higher-order stochastic volatility models with leverage</a>
-    <div> with Jean-Marie Dufour & Md. Nazmul Ahsan | <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/GRR_NASMES_2024_ Estimation_and_inference_for_higher_order_stochastic_volatility_models_with_leverage.pdf" target="_blank">Slides</a> 
+  <li><a href="https://roga11.github.io/gabrielrodriguez.github.io/files/Ahsan_Dufour_RodriguezR_2024_SVP_Leverage.pdf" target="_blank"><em>Estimation and inference for higher-order stochastic volatility models with leverage</em>em></a> with Jean-Marie Dufour & Md. Nazmul Ahsan
+    <div> <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/GRR_NASMES_2024_ Estimation_and_inference_for_higher_order_stochastic_volatility_models_with_leverage.pdf" target="_blank">Slides</a> 
     </div>
   </li>
 </ol>
@@ -17,9 +17,7 @@ author_profile: true
 ## Working papers
 <ol start=2>
   <li>
-    <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/RodriguezRondon_Dufour_2024_MonteCarlo_LikelihoodRatioTest_MarkovSwitchingModels_20241015.pdf" target="_blank">Monte Carlo Likelihood Ratio Tests for Markov Switching Models</a>
-    <div"> with Jean-Marie Dufour  
-    </div>
+    <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/RodriguezRondon_Dufour_2024_MonteCarlo_LikelihoodRatioTest_MarkovSwitchingModels_20241015.pdf" target="_blank"><em>Monte Carlo Likelihood Ratio Tests for Markov Switching Models</em></a> with Jean-Marie Dufour  
     <div">  <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/GRodriguezRondon_CIREQLunchSeminar_20241008.pdf" target="_blank">Slides</a> 
     </div>
   </li>
