@@ -6,17 +6,17 @@ author_profile: true
 ---
 ---
 ## Instructor - McGill University
-
-<li>Econometrics II (Ph.D.  Level)** - with Prof. Saraswata Chaudhuri</li>
-
-Winter 2024 \| [Slides](https://roga11.github.io/gabrielrodriguez.github.io/files/ECON663_EconometricsII_TS_FullSlides.pdf)
-
+<ul>
+  <li>Econometrics II (Ph.D.  Level)** - with Prof. Saraswata Chaudhuri</li>
+    <div style="margin-left: 10px;"> Winter 2024 \| [Slides](https://roga11.github.io/gabrielrodriguez.github.io/files/ECON663_EconometricsII_TS_FullSlides.pdf) </div>
+  </li>
+</ul>
 
 
 ## Teaching Assistant - HEC Montreal
 <ul>
   <li>Empirical Methods In Monetary Economics & Finance (Ph.D. Level)
-    <div style="margin-left: 20px;"> Winter 2024 </div>
+    <div style="margin-left: 10px;"> Winter 2024 </div>
   </li>
 </ul>
 
