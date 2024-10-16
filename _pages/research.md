@@ -35,7 +35,7 @@ author_profile: true
   
   <li>
     <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/20240917_CKR_2024_Counterparty_and_Liquidity_Risk.pdf" target="_blank"> <em>Joint Determination of Counterparty and Liquidity Risk in Payment Systems</em></a>, with Jorge Cruz Lopez & Charles M. Kahn
-    <div> <a href="20230921_GRodriguezRondon_Counterparty_and_Liquidity_Risk_in_Payments_CEMLAIIPaymentFMI.pdf" target="_blank">Slides</a> 
+    <div> <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/20230921_GRodriguezRondon_Counterparty_and_Liquidity_Risk_in_Payments_CEMLAIIPaymentFMI.pdf" target="_blank">Slides</a> 
     </div>
   </li>
   
