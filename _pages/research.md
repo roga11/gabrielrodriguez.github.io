@@ -20,7 +20,7 @@ author_profile: true
     <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/RodriguezRondon_Dufour_2024_MonteCarlo_LikelihoodRatioTest_MarkovSwitchingModels_20241015.pdf" target="_blank">Monte Carlo Likelihood Ratio Tests for Markov Switching Models</a>
     <div"> with Jean-Marie Dufour  
     </div>
-    <div"> style="margin-left: 5px;"> <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/GRodriguezRondon_CIREQLunchSeminar_20241008.pdf" target="_blank">Slides</a> 
+    <div">  <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/GRodriguezRondon_CIREQLunchSeminar_20241008.pdf" target="_blank">Slides</a> 
     </div>
   </li>
   <li>
@@ -35,7 +35,7 @@ author_profile: true
     <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/20240917_CKR_2024_Counterparty_and_Liquidity_Risk.pdf" target="_blank">Joint Determination of Counterparty and Liquidity Risk in Payment Systems</a>
     <div> with Jorge Cruz Lopez & Charles M. Kahn
     </div>
-    <div> style="margin-left: 5px;"> <a href="20230921_GRodriguezRondon_Counterparty_and_Liquidity_Risk_in_Payments_CEMLAIIPaymentFMI.pdf" target="_blank">Slides</a> 
+    <div> <a href="20230921_GRodriguezRondon_Counterparty_and_Liquidity_Risk_in_Payments_CEMLAIIPaymentFMI.pdf" target="_blank">Slides</a> 
     </div>
   </li>
 
