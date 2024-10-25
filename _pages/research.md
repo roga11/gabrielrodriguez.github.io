@@ -28,7 +28,7 @@ author_profile: true
   </li>
   
   <li>
-    <em>Volatility Forecasting with Higher-order Stochastic Volatility Models</em>, with Jean-Marie Dufour
+    <em>Volatility Forecasting with Higher-order Stochastic Volatility Models</em>, with Jean-Marie Dufour & Md. Nazmul Ahsan
     <div>       
     </div>
   </li>
