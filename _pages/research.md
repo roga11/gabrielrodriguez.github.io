@@ -83,6 +83,9 @@ author_profile: true
     <li>
       <em>MNbreaks: An R Package for Estimating and Testing Multiple Structural Changes in Multivariate Linear Regression Models</em>, with Pierre Perron & Zhongjun Qu
     </li>
+    <li> 
+      <em>Practical and reliable estimation methods for high-dimensional multivariate stochastic volatility models with macroeconomic applications</em>, with Jean-Marie Dufour & Md. Nazmul Ahsan 
+    </li>
     <li>
       <em>Monte Carlo Test for Factor Models with Markov switching</em>
     </li>
