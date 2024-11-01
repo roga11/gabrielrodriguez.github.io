@@ -40,7 +40,7 @@ author_profile: true
   </li>
   
   <li>
-    <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/RodriguezRondon_Dufour_2024_MSTest_Rpackage_20240425.pdf" target="_blank"><em>MSTest: An R-package for Testing Markov-Switching Models</em></a>, with Jean-Marie Dufour
+    <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/RodriguezRondon_Dufour_2024_MSTest_Rpackage.pdf" target="_blank"><em>MSTest: An R-package for Testing Markov-Switching Models</em></a>, with Jean-Marie Dufour
     <div> 
     </div>
   </li>
