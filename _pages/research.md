@@ -26,10 +26,16 @@ author_profile: true
     <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/RodriguezRondon_Dufour_2024_MonteCarlo_LikelihoodRatioTest_MarkovSwitchingModels_20241015.pdf" target="_blank"><em>Monte Carlo Likelihood Ratio Tests for Markov Switching Models</em></a>, with Jean-Marie Dufour  
     <div>  Revised in October | <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/GRodriguezRondon_CIREQLunchSeminar_20241008.pdf" target="_blank">Slides</a> 
     </div>
+    <div> 
+      This paper proposes a likelihood ratio test for Markov switching models that extends to a broader range of settings not previously addressed in the literature. This includes multiple regimes as well as multivariate, non-stationary, and non-Gaussian settings, which are common and useful in applied work. Importantly, the approach is valid for finite samples, which is relevant for many macroeconomic applications that utilize quarterly data, and it is robust to the identification problems often encountered in Markov switching models. Two macroeconomic applications are considered: one in a univariate setting using U.S. GNP growth data and another in a multivariate context involving Markov switching VAR models and testing for the synchronization of business cycles. These tests also have broader applications within macroeconomics and finance including indentifying SVAR models and causal relationships. 
+    </div>
+    <div> 
+      Conference & Seminar presentations: 76th European meeting of the Econometric Societ, New York Camp Econometrics XVIII, NBER-NSFTimeSeriesConference, IAAE Annual Conference, Latin American Meeting of the Econometric Society, Joint Statistical Meetings of the American Statistical Association.
+    </div>
   </li>
   <li>
     <em>Underlying Core Inflation with Multiple Regimes</em>
-    <div>  <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/GRR_IAAE2024_underlying_core_inf.pdf" target="_blank">Slides</a> 
+    <div>  Revised in November | <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/GRR_IAAE2024_underlying_core_inf.pdf" target="_blank">Slides</a> 
     </div>
   </li>
   
@@ -54,13 +60,8 @@ author_profile: true
 
 
 
-## Conference Proceedings, Policy Notes, & Technical Notes
+## Conference Proceedings
 <ol start=8>
-  <li>
-    <em>Measuring Underlying Inflation Post-COVID</em>, with Mikael Khan & Luis Uzeda, <em>Canadian Economic Analysis Inquiry, Bank of Canada</em>, June 2024.
-    <div> 
-    </div>
-  </li>  
   <li><a href="https://roga11.github.io/gabrielrodriguez.github.io/files/RodriguezRondon_Dufour_2023_JSM_Proceedings.pdf" target="_blank"><em>Simulation-Based Inference for the Synchronization of Business Cycles</em></a>, with Jean-Marie Dufour, <em>JSM Proceedings, Business and Economic Statistics Section. Toronto, ON: American Statistical Association </em>, 2023.
   </li>
   <li>
@@ -68,11 +69,18 @@ author_profile: true
     <div> 
     </div>
   </li>
+</ol>
+
+## Policy Notes, & Technical Notes
+<ol start=10>
+  <li>
+    <em>Measuring Underlying Inflation Post-COVID</em>, with Mikael Khan & Luis Uzeda, <em>Canadian Economic Analysis Inquiry, Bank of Canada</em>, June 2024.
+    <div> 
+    </div>
+  </li>  
   <li><a href="https://www.bankofcanada.ca/wp-content/uploads/2018/02/tr112.pdf" target="_blank"><em>The Government of Canada Debt Securities Dataset</em></a>, with Jeffrey Gao & Francisco Rivadeneyra, <em>Bank of Canada, Technical Report No. 112</em>, 2018.
   </li>
 </ol>
-
-
 
 ## Works in Progress
 
@@ -96,7 +104,6 @@ author_profile: true
       <em>Network Model Simulation and Stress Testing of PvP Systems</em>, with Jorge Cruz Lopez, Giuseppe Matera, Jordan Cambe & Carlos Leon
     </li>
 </ul>
-
 
 
 
