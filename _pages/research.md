@@ -62,15 +62,15 @@ author_profile: true
   </li>
   
   <li style="margin-bottom: 20px;">
-    <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/20240917_CKR_2024_Counterparty_and_Liquidity_Risk.pdf" target="_blank"> <em><b>Joint Determination of Counterparty and Liquidity Risk in Payment Systems</b></em></a>, with Jorge Cruz Lopez & Charles M. Kahn
-    <div> Revised September 2023| <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/20230921_GRodriguezRondon_Counterparty_and_Liquidity_Risk_in_Payments_CEMLAIIPaymentFMI.pdf" target="_blank">Slides</a> 
+    <em><b>Volatility Forecasting with Higher-order Stochastic Volatility Models</b></em>, with Jean-Marie Dufour & Md. Nazmul Ahsan
+    <div>       
+      Revised August 2023
     </div>
   </li>
   
   <li style="margin-bottom: 20px;">
-    <em><b>Volatility Forecasting with Higher-order Stochastic Volatility Models</b></em>, with Jean-Marie Dufour & Md. Nazmul Ahsan
-    <div>       
-      Revised August 2023
+    <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/20240917_CKR_2024_Counterparty_and_Liquidity_Risk.pdf" target="_blank"> <em><b>Joint Determination of Counterparty and Liquidity Risk in Payment Systems</b></em></a>, with Jorge Cruz Lopez & Charles M. Kahn
+    <div> Revised September 2023| <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/20230921_GRodriguezRondon_Counterparty_and_Liquidity_Risk_in_Payments_CEMLAIIPaymentFMI.pdf" target="_blank">Slides</a> 
     </div>
   </li>
   
