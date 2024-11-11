@@ -21,7 +21,7 @@ author_profile: true
 
 
 ## Working papers
-<ol start=2>
+<ol start=3>
   <li style="margin-bottom: 15px;">
     <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/RodriguezRondon_Dufour_2024_MonteCarlo_LikelihoodRatioTest_MarkovSwitchingModels_20241015.pdf" target="_blank"><em><b>Monte Carlo Likelihood Ratio Tests for Markov Switching Models</b></em></a>, with Jean-Marie Dufour 
     <div style="margin-bottom: 10px;"> <em><b>Job Market Paper</b></em> | Revised in October | <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/GRodriguezRondon_CIREQLunchSeminar_20241008.pdf" target="_blank">Slides</a> 
@@ -97,19 +97,19 @@ author_profile: true
       <em><b>Identification Through Heteroskedasticity Using Multiple Structural Change Tests</b></em>, with Pierre Perron
     </li>
     <li>
-      <em>MNbreaks: An R Package for Estimating and Testing Multiple Structural Changes in Multivariate Linear Regression Models</em>, with Pierre Perron & Zhongjun Qu
+      <em><b>MNbreaks: An R Package for Estimating and Testing Multiple Structural Changes in Multivariate Linear Regression Models</b></em>, with Pierre Perron & Zhongjun Qu
     </li>
     <li> 
-      <em>Practical and reliable estimation methods for high-dimensional multivariate stochastic volatility models with macroeconomic applications</em>, with Jean-Marie Dufour & Md. Nazmul Ahsan 
+      <em><b>Practical and reliable estimation methods for high-dimensional multivariate stochastic volatility models with macroeconomic applications</b></em>, with Jean-Marie Dufour & Md. Nazmul Ahsan 
     </li>
     <li>
-      <em>Monte Carlo Test for Factor Models with Markov switching</em>
+      <em><b>Monte Carlo Test for Factor Models with Markov switching</b></em>
     </li>
     <li>
-      <em>Simulation and Stress Testing of Large Value Payment Systems</em>, with Jorge Cruz Lopez
+      <em><b>Simulation and Stress Testing of Large Value Payment Systems</b></em>, with Jorge Cruz Lopez
     </li>
     <li>
-      <em>Network Model Simulation and Stress Testing of PvP Systems</em>, with Jorge Cruz Lopez, Giuseppe Matera, Jordan Cambe & Carlos Leon
+      <em><b>Network Model Simulation and Stress Testing of PvP Systems</b></em>, with Jorge Cruz Lopez, Giuseppe Matera, Jordan Cambe & Carlos Leon
     </li>
 </ul>
 
