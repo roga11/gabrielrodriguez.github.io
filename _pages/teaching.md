@@ -8,7 +8,7 @@ author_profile: true
 ## Instructor
 <ul>
   <li style="margin-bottom: 10px;">Financial Econometrics (MSc  Level) 
-    <div style="margin-left: 5px;"> <b>HEC Montréal</b> | Winter 2025 (Scheduled) | Course Detail <a href="https://www.hec.ca/en/courses/detail/?cours=MATH60210A" target="_blank">Course Detail</a> 
+    <div style="margin-left: 5px;"> <b>HEC Montréal</b> | Winter 2025 (Scheduled) | <a href="https://www.hec.ca/en/courses/detail/?cours=MATH60210A" target="_blank">Course Detail</a> 
     </div>
   </li>
   <li style="margin-bottom: 10px;">Econometrics II (Ph.D.  Level) - with Prof. Saraswata Chaudhuri
