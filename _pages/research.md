@@ -87,6 +87,9 @@ author_profile: true
     <div style="margin-bottom: 10px;"> 
       Revised January 2023  
     </div>
+    <div style="text-align: justify; margin-bottom: 10px;">
+      Th mbreaks R package to implements testing procedures to detect multiple structural changes in the coefficients and variance of linear regression models proposed by Bai and Perron (1998, 2003) and Perron, Yohei Yamamoto and Jing Zhou (2020). The package provides methods of constructing the confidence intervals of the break dates, testing for the presence of structural changes and selecting the number of structural changes.
+    </div>
   </li>
 </ol>
 
