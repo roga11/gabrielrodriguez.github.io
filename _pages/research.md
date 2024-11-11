@@ -21,8 +21,8 @@ author_profile: true
 
 
 ## Working papers
-<ol start=2 style="margin-bottom: 15px;">
-  <li>
+<ol start=2>
+  <li style="margin-bottom: 15px;">
     <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/RodriguezRondon_Dufour_2024_MonteCarlo_LikelihoodRatioTest_MarkovSwitchingModels_20241015.pdf" target="_blank"><em>Monte Carlo Likelihood Ratio Tests for Markov Switching Models</em></a>, with Jean-Marie Dufour 
     <div style="margin-bottom: 10px;"> <i><b>Job Market Paper</b></i> | Revised in October | <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/GRodriguezRondon_CIREQLunchSeminar_20241008.pdf" target="_blank">Slides</a> 
     </div>
@@ -33,7 +33,7 @@ author_profile: true
       <b>Conference & Seminar presentations:</b> CIREQ-McGill Seminar, 76th European meeting of the Econometric Society, New York Camp Econometrics XVIII, Carleton University Brown Bag Seminar, NBER-NSF Time Series Conference, IAAE Annual Conference, Boston University Econometrics Seminar, 16th International Conference on Computational and Financial Econometrics, Latin American Meeting of the Econometric Society, Joint Statistical Meetings of the American Statistical Association, 56th Annual Meetings of the CEA.
     </div>
   </li>
-  <li>
+  <li style="margin-bottom: 15px;">
     <em>Underlying Core Inflation with Multiple Regimes</em>
     <div>  Revised in November | <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/GRR_IAAE2024_underlying_core_inf.pdf" target="_blank">Slides</a> 
     </div>
