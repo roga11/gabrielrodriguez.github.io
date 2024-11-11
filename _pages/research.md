@@ -22,7 +22,7 @@ author_profile: true
 
 ## Working papers
 <ol start=3>
-  <li style="margin-bottom: 15px;">
+  <li style="margin-bottom: 20px;">
     <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/RodriguezRondon_Dufour_2024_MonteCarlo_LikelihoodRatioTest_MarkovSwitchingModels_20241015.pdf" target="_blank"><em><b>Monte Carlo Likelihood Ratio Tests for Markov Switching Models</b></em></a>, with Jean-Marie Dufour 
     <div style="margin-bottom: 10px;"> <em><b>Job Market Paper</b></em> | Revised in October | <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/GRodriguezRondon_CIREQLunchSeminar_20241008.pdf" target="_blank">Slides</a> 
     </div>
@@ -33,7 +33,8 @@ author_profile: true
       <b>Conference & Seminar presentations:</b> CIREQ-McGill Seminar, 76th European meeting of the Econometric Society, New York Camp Econometrics XVIII, Carleton University Brown Bag Seminar, NBER-NSF Time Series Conference, IAAE 2023 Annual Conference, Boston University Econometrics Seminar, 16th International Conference on Computational and Financial Econometrics, Latin American Meeting of the Econometric Society, Joint Statistical Meetings of the American Statistical Association, 56th Annual Meetings of the CEA
     </div>
   </li>
-  <li style="margin-bottom: 15px;">
+  
+  <li style="margin-bottom: 20px;">
     <em><b>Underlying Core Inflation with Multiple Regimes</b></em>
     <div style="margin-bottom: 10px;"> Revised in November | <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/GRR_IAAE2024_underlying_core_inf.pdf" target="_blank">Slides</a> 
     </div>
@@ -41,7 +42,7 @@ author_profile: true
       This paper utilizing procedures for detecting multiple regimes in high-dimensional factor models to introduce a new approach for estimating core inflation indicators. When inflation began to increase in 2021, many core inflation indicators failed at provding an appropriate and timely signal of underlying inflation. We solve this problem by considering time-varying parameters that accounts for chnages in inflation regimes. The result is a real-time indicator that is useful in guiding monetary policy. It reduces historical revisions, provides improved forecasts of headline inflation, and is robust to transitory and sector-specific shocks. 
     </div>
     <div style="text-align: justify; margin-bottom: 10px;"> 
-      <i>Conference & Seminar presentations:</i> Bank of Canada Conference on Real-Time Data Analysis, Methods and Applications in Macroeconomics and Finance, IAAE 2024 Annual Conference, Bank of Canada Brown Bag Seminar, 57th Annual Meetings of the CEA
+      <b>Conference & Seminar presentations:</b> Bank of Canada Conference on Real-Time Data Analysis, Methods and Applications in Macroeconomics and Finance, IAAE 2024 Annual Conference, Bank of Canada Brown Bag Seminar, 57th Annual Meetings of the CEA
     </div>
   </li>
   
