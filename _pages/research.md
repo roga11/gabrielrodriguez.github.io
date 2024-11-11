@@ -11,6 +11,12 @@ author_profile: true
     <div> <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/GRR_NASMES_2024_ Estimation_and_inference_for_higher_order_stochastic_volatility_models_with_leverage.pdf" target="_blank">Slides</a> 
     </div>
   </li>
+
+   <li>
+    <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/RodriguezRondon_Dufour_2024_MSTest_Rpackage.pdf" target="_blank"><em>MSTest: An R-package for Testing Markov-Switching Models</em></a>, with Jean-Marie Dufour
+    <div> 
+    </div>
+  </li>
 </ol>
 
 
@@ -18,7 +24,7 @@ author_profile: true
 <ol start=2>
   <li>
     <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/RodriguezRondon_Dufour_2024_MonteCarlo_LikelihoodRatioTest_MarkovSwitchingModels_20241015.pdf" target="_blank"><em>Monte Carlo Likelihood Ratio Tests for Markov Switching Models</em></a>, with Jean-Marie Dufour  
-    <div>  <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/GRodriguezRondon_CIREQLunchSeminar_20241008.pdf" target="_blank">Slides</a> 
+    <div>  Revised in October | <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/GRodriguezRondon_CIREQLunchSeminar_20241008.pdf" target="_blank">Slides</a> 
     </div>
   </li>
   <li>
@@ -36,12 +42,6 @@ author_profile: true
   <li>
     <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/20240917_CKR_2024_Counterparty_and_Liquidity_Risk.pdf" target="_blank"> <em>Joint Determination of Counterparty and Liquidity Risk in Payment Systems</em></a>, with Jorge Cruz Lopez & Charles M. Kahn
     <div> <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/20230921_GRodriguezRondon_Counterparty_and_Liquidity_Risk_in_Payments_CEMLAIIPaymentFMI.pdf" target="_blank">Slides</a> 
-    </div>
-  </li>
-  
-  <li>
-    <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/RodriguezRondon_Dufour_2024_MSTest_Rpackage.pdf" target="_blank"><em>MSTest: An R-package for Testing Markov-Switching Models</em></a>, with Jean-Marie Dufour
-    <div> 
     </div>
   </li>
   
