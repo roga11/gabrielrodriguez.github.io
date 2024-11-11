@@ -46,20 +46,20 @@ author_profile: true
     </div>
   </li>
   
-  <li>
+  <li style="margin-bottom: 20px;">
     <em><b>Volatility Forecasting with Higher-order Stochastic Volatility Models</b></em>, with Jean-Marie Dufour & Md. Nazmul Ahsan
     <div>       
       Revised in August 
     </div>
   </li>
   
-  <li>
+  <li style="margin-bottom: 20px;">
     <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/20240917_CKR_2024_Counterparty_and_Liquidity_Risk.pdf" target="_blank"> <em><b>Joint Determination of Counterparty and Liquidity Risk in Payment Systems</b></em></a>, with Jorge Cruz Lopez & Charles M. Kahn
     <div> Revised in September | <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/20230921_GRodriguezRondon_Counterparty_and_Liquidity_Risk_in_Payments_CEMLAIIPaymentFMI.pdf" target="_blank">Slides</a> 
     </div>
   </li>
   
-  <li>
+  <li style="margin-bottom: 20px;">
     <em><b>mbreaks: R Package for Estimating and Testing Multiple Structural Changes in Linear Regression Models</b></em>, with Linh Nguyen, Pierre Perron, & Yohei Yamamoto
     <div> 
       Revised in January 2023  
@@ -71,9 +71,11 @@ author_profile: true
 
 ## Conference Proceedings
 <ol start=8>
-  <li><a href="https://roga11.github.io/gabrielrodriguez.github.io/files/RodriguezRondon_Dufour_2023_JSM_Proceedings.pdf" target="_blank"><em><b>Simulation-Based Inference for the Synchronization of Business Cycles</b></em></a>, with Jean-Marie Dufour, <em>JSM Proceedings, Business and Economic Statistics Section. Toronto, ON: American Statistical Association </em>, 2023.
+  <li style="margin-bottom: 20px;">
+    <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/RodriguezRondon_Dufour_2023_JSM_Proceedings.pdf" target="_blank"><em><b>Simulation-Based Inference for the Synchronization of Business Cycles</b></em></a>, with Jean-Marie Dufour, <em>JSM Proceedings, Business and Economic Statistics Section. Toronto, ON: American Statistical Association </em>, 2023.
   </li>
-  <li>
+  
+  <li style="margin-bottom: 20px;">
     <em><b>Simulation-Based Inference for Markov Switching Models</b></em>, with Jean-Marie Dufour, <em>JSM Proceedings, Business and Economic Statistics Section. Washington, D.C.: American Statistical Association</em>, 2022.
     <div> 
     </div>
@@ -82,12 +84,14 @@ author_profile: true
 
 ## Policy Notes, & Technical Notes
 <ol start=10>
-  <li>
+  <li style="margin-bottom: 20px;">
     <em><b>Measuring Underlying Inflation Post-COVID</b></em>, with Mikael Khan & Luis Uzeda, <em>Canadian Economic Analysis Inquiry, Bank of Canada</em>, June 2024.
     <div> 
     </div>
-  </li>  
-  <li><a href="https://www.bankofcanada.ca/wp-content/uploads/2018/02/tr112.pdf" target="_blank"><em><b>The Government of Canada Debt Securities Dataset</b></em></a>, with Jeffrey Gao & Francisco Rivadeneyra, <em>Bank of Canada, Technical Report No. 112</em>, 2018.
+  </li>
+  
+  <li style="margin-bottom: 20px;">
+    <a href="https://www.bankofcanada.ca/wp-content/uploads/2018/02/tr112.pdf" target="_blank"><em><b>The Government of Canada Debt Securities Dataset</b></em></a>, with Jeffrey Gao & Francisco Rivadeneyra, <em>Bank of Canada, Technical Report No. 112</em>, 2018.
   </li>
 </ol>
 
