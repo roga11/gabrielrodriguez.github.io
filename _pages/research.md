@@ -23,8 +23,8 @@ author_profile: true
 ## Working papers
 <ol start=2>
   <li>
-    <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/RodriguezRondon_Dufour_2024_MonteCarlo_LikelihoodRatioTest_MarkovSwitchingModels_20241015.pdf" target="_blank"><em>Monte Carlo Likelihood Ratio Tests for Markov Switching Models</em></a>, with Jean-Marie Dufour  (<b>Job Market Paper</b>)
-    <div style="margin-bottom: 10px;">  Revised in October | <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/GRodriguezRondon_CIREQLunchSeminar_20241008.pdf" target="_blank">Slides</a> 
+    <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/RodriguezRondon_Dufour_2024_MonteCarlo_LikelihoodRatioTest_MarkovSwitchingModels_20241015.pdf" target="_blank"><em>Monte Carlo Likelihood Ratio Tests for Markov Switching Models</em></a>, with Jean-Marie Dufour 
+    <div style="margin-bottom: 10px;"> <i><b>Job Market Paper</b></i> | Revised in October | <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/GRodriguezRondon_CIREQLunchSeminar_20241008.pdf" target="_blank">Slides</a> 
     </div>
     <div style="margin-bottom: 10px;"> 
       This paper proposes a likelihood ratio test for Markov switching models that extends to a broader range of settings not previously addressed in the literature. This includes multiple regimes as well as multivariate, non-stationary, and non-Gaussian settings, which are common and useful in applied work. Importantly, the approach is valid for finite samples, which is relevant for many macroeconomic applications that utilize quarterly data, and it is robust to the identification problems often encountered in Markov switching models. Two macroeconomic applications are considered: one in a univariate setting using U.S. GNP growth data and another in a multivariate context involving Markov switching VAR models and testing for the synchronization of business cycles. These tests also have broader applications within macroeconomics and finance including indentifying SVAR models and causal relationships. 
