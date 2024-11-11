@@ -96,7 +96,7 @@ author_profile: true
   </li>
   
   <li style="margin-bottom: 20px;">
-    <a href="https://github.com/roga11/gabrielrodriguez.github.io/blob/master/files/RodriguezRondon_Dufour_2022_Simulation-BasedInferenceMarkovSwitchingModels_JSM_Proceedings.pdf" target="_blank"><em><b>Simulation-Based Inference for Markov Switching Models</b></em></a>, with Jean-Marie Dufour, <em>JSM Proceedings, Business and Economic Statistics Section. Washington, D.C.: American Statistical Association</em>, December 2022.
+    <a href="https://github.com/roga11/gabrielrodriguez.github.io/files/RodriguezRondon_Dufour_2022_Simulation-BasedInferenceMarkovSwitchingModels_JSM_Proceedings.pdf" target="_blank"><em><b>Simulation-Based Inference for Markov Switching Models</b></em></a>, with Jean-Marie Dufour, <em>JSM Proceedings, Business and Economic Statistics Section. Washington, D.C.: American Statistical Association</em>, December 2022.
     <div> 
     </div>
   </li>
