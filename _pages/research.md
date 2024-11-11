@@ -23,6 +23,13 @@ author_profile: true
    <li>
     <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/RodriguezRondon_Dufour_2024_MSTest_Rpackage.pdf" target="_blank"><em><b>MSTest: An R-package for Testing Markov-Switching Models</b></em></a>, with Jean-Marie Dufour, Submitted to <em>Journal of Statistical Software</em>
     <div> 
+      Revised in November 2024
+    </div>
+     <div style="text-align: justify; margin-bottom: 10px;"> 
+      Slides
+    </div>
+    <div style="text-align: justify; margin-bottom: 10px;">
+      The R package MSTest implements hypothesis testing procedures to identify the number of regimes in Markov switching models. These models have wide-ranging applications in economics, finance, and numerous other fields. The MSTest package includes the Monte Carlo likelihood ratio test procedures of Rodriguez-Rondon and Dufour (2024), the moment-based tests of Dufour and Luger (2017), the parameter stability tests of Carrasco, Hu, and Ploberger (2014), and the likelihood ratio test of Hansen (1992). Additionally, the package enables users to simulate and estimate univariate and multivariate Markov switching and hidden Markov processes, using the expectation-maximization (EM) algorithm or maximum likelihood estimation (MLE).
     </div>
   </li>
 </ol>
@@ -32,7 +39,7 @@ author_profile: true
 <ol start=3>
   <li style="margin-bottom: 20px;">
     <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/RodriguezRondon_Dufour_2024_MonteCarlo_LikelihoodRatioTest_MarkovSwitchingModels_20241015.pdf" target="_blank"><em><b>Monte Carlo Likelihood Ratio Tests for Markov Switching Models</b></em></a>, with Jean-Marie Dufour 
-    <div style="margin-bottom: 10px;"> <em><b>Job Market Paper</b></em> | Revised in October | <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/GRodriguezRondon_CIREQLunchSeminar_20241008.pdf" target="_blank">Slides</a> 
+    <div style="margin-bottom: 10px;"> <em><b>Job Market Paper</b></em> | Revised in October 2024| <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/GRodriguezRondon_CIREQLunchSeminar_20241008.pdf" target="_blank">Slides</a> 
     </div>
     <div style="text-align: justify; margin-bottom: 10px;"> 
       This paper proposes a likelihood ratio test for Markov switching models that extends to a broader range of settings not previously addressed in the literature. This includes multiple regimes as well as multivariate, non-stationary, and non-Gaussian settings, which are common and useful in applied work. Importantly, the approach is valid for finite samples, which is relevant for many macroeconomic applications that utilize quarterly data, and it is robust to the identification problems often encountered in Markov switching models. Two macroeconomic applications are considered: one in a univariate setting using U.S. GNP growth data and another in a multivariate context involving Markov switching VAR models and testing for the synchronization of business cycles. These tests also have broader applications within macroeconomics and finance including indentification of SVAR models and causal relationships. 
@@ -44,7 +51,7 @@ author_profile: true
   
   <li style="margin-bottom: 20px;">
     <em><b>Underlying Core Inflation with Multiple Regimes</b></em>
-    <div style="margin-bottom: 10px;"> Revised in November | <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/GRR_IAAE2024_underlying_core_inf.pdf" target="_blank">Slides</a> 
+    <div style="margin-bottom: 10px;"> Revised in November 2024| <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/GRR_IAAE2024_underlying_core_inf.pdf" target="_blank">Slides</a> 
     </div>
     <div style="text-align: justify; margin-bottom: 10px;"> 
       This paper utilizing procedures for detecting multiple regimes in high-dimensional factor models to introduce a new approach for estimating core inflation indicators. When inflation began to increase in 2021, many core inflation indicators failed at provding an appropriate and timely signal of underlying inflation. We solve this problem by considering time-varying parameters that account for chnages in inflation regimes. The result is a real-time indicator that is useful in guiding monetary policy. It reduces historical revisions, provides improved forecasts of headline inflation, and is robust to transitory and sector-specific shocks. 
@@ -57,13 +64,13 @@ author_profile: true
   <li style="margin-bottom: 20px;">
     <em><b>Volatility Forecasting with Higher-order Stochastic Volatility Models</b></em>, with Jean-Marie Dufour & Md. Nazmul Ahsan
     <div>       
-      Revised in August 
+      Revised in August 2023
     </div>
   </li>
   
   <li style="margin-bottom: 20px;">
     <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/20240917_CKR_2024_Counterparty_and_Liquidity_Risk.pdf" target="_blank"> <em><b>Joint Determination of Counterparty and Liquidity Risk in Payment Systems</b></em></a>, with Jorge Cruz Lopez & Charles M. Kahn
-    <div> Revised in September | <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/20230921_GRodriguezRondon_Counterparty_and_Liquidity_Risk_in_Payments_CEMLAIIPaymentFMI.pdf" target="_blank">Slides</a> 
+    <div> Revised in September 2023| <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/20230921_GRodriguezRondon_Counterparty_and_Liquidity_Risk_in_Payments_CEMLAIIPaymentFMI.pdf" target="_blank">Slides</a> 
     </div>
   </li>
   
