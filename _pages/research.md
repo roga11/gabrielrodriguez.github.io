@@ -9,7 +9,7 @@ author_profile: true
 <ol start=1>
   <li style="margin-bottom: 20px;">
     <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/Ahsan_Dufour_RodriguezR_2024_SVP_Leverage.pdf" target="_blank"><em><b>Estimation and inference for higher-order stochastic volatility models with leverage</b></em></a>, with Jean-Marie Dufour & Md. Nazmul Ahsan, Submitted to <em>Journal of Time Series Analysis</em> (<b>revision requested</b>)
-    <div style="text-align: justify; margin-bottom: 10px;"> 
+    <div style="margin-bottom: 10px;"> 
       <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/GRR_NASMES_2024_ Estimation_and_inference_for_higher_order_stochastic_volatility_models_with_leverage.pdf" target="_blank">Slides</a> 
     </div>
     <div style="text-align: justify; margin-bottom: 10px;">
@@ -22,7 +22,7 @@ author_profile: true
 
   <li>
     <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/RodriguezRondon_Dufour_2024_MSTest_Rpackage.pdf" target="_blank"><em><b>MSTest: An R-package for Testing Markov-Switching Models</b></em></a>, with Jean-Marie Dufour, Submitted to <em>Journal of Statistical Software</em> 
-    <div style="text-align: justify; margin-bottom: 10px;"> 
+    <div style="margin-bottom: 10px;"> 
       Revised November 2024
     </div>
     <div style="text-align: justify; margin-bottom: 10px;">
@@ -48,7 +48,8 @@ author_profile: true
   
   <li style="margin-bottom: 20px;">
     <em><b>Underlying Core Inflation with Multiple Regimes</b></em>
-    <div style="margin-bottom: 10px;"> Revised November 2024| <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/GRR_IAAE2024_underlying_core_inf.pdf" target="_blank">Slides</a> 
+    <div style="margin-bottom: 10px;"> 
+      Revised November 2024| <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/GRR_IAAE2024_underlying_core_inf.pdf" target="_blank">Slides</a> 
     </div>
     <div style="text-align: justify; margin-bottom: 10px;"> 
       This paper utilizing procedures for detecting multiple regimes in high-dimensional factor models to introduce a new approach for estimating core inflation indicators. When inflation began to increase in 2021, many core inflation indicators failed at provding an appropriate and timely signal of underlying inflation. We solve this problem by considering time-varying parameters that account for chnages in inflation regimes. The result is a real-time indicator that is useful in guiding monetary policy. It reduces historical revisions, provides improved forecasts of headline inflation, and is robust to transitory and sector-specific shocks. 
@@ -60,14 +61,14 @@ author_profile: true
   
   <li style="margin-bottom: 20px;">
     <em><b>Volatility Forecasting with Higher-order Stochastic Volatility Models</b></em>, with Jean-Marie Dufour & Md. Nazmul Ahsan
-    <div style="text-align: justify; margin-bottom: 10px;">       
+    <div style="margin-bottom: 10px;">       
       Revised August 2023
     </div>
   </li>
   
   <li style="margin-bottom: 20px;">
     <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/20240917_CKR_2024_Counterparty_and_Liquidity_Risk.pdf" target="_blank"> <em><b>Joint Determination of Counterparty and Liquidity Risk in Payment Systems</b></em></a>, with Jorge Cruz Lopez & Charles M. Kahn
-    <div style="text-align: justify; margin-bottom: 10px;"> 
+    <div style="margin-bottom: 10px;"> 
       Revised September 2023| <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/20230921_GRodriguezRondon_Counterparty_and_Liquidity_Risk_in_Payments_CEMLAIIPaymentFMI.pdf" target="_blank">Slides</a> 
     </div>
     <div style="text-align: justify; margin-bottom: 10px;"> 
@@ -80,7 +81,7 @@ author_profile: true
   
   <li style="margin-bottom: 20px;">
     <em><b>mbreaks: R Package for Estimating and Testing Multiple Structural Changes in Linear Regression Models</b></em>, with Linh Nguyen, Pierre Perron, & Yohei Yamamoto
-    <div> 
+    <div style="margin-bottom: 10px;"> 
       Revised January 2023  
     </div>
   </li>
