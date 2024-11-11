@@ -64,6 +64,9 @@ author_profile: true
     <div style="margin-bottom: 10px;">       
       Revised August 2023
     </div>
+    <div style="text-align: justify; margin-bottom: 10px;"> 
+      We study the performance of higher-order stochastic volatility [SV(p)] models in forecasting volatility. Using different volatility proxies (squared returns and the realized volatility) of various international indices, we conduct two out-of-sample forecast experiments: (1) we forecast a moderately volatile period after the late-2000s financial crisis; (2) we forecast a highly volatile period, i.e., the core financial crisis. We compare the accuracy of volatility forecasts among SV(p) models, GARCH models, and Heterogenous Autoregressive model of Realized Volatility (HAR-RV) models. The results suggest that SV(p) models perform better than other models in most cases.
+    </div>
   </li>
   
   <li style="margin-bottom: 20px;">
