@@ -20,13 +20,10 @@ author_profile: true
     </div>
   </li>
 
-   <li>
-    <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/RodriguezRondon_Dufour_2024_MSTest_Rpackage.pdf" target="_blank"><em><b>MSTest: An R-package for Testing Markov-Switching Models</b></em></a>, with Jean-Marie Dufour, Submitted to <em>Journal of Statistical Software</em>
-    <div> 
+  <li>
+    <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/RodriguezRondon_Dufour_2024_MSTest_Rpackage.pdf" target="_blank"><em><b>MSTest: An R-package for Testing Markov-Switching Models</b></em></a>, with Jean-Marie Dufour, Submitted to <em>Journal of Statistical Software</em> 
+    <div style="text-align: justify; margin-bottom: 10px;"> 
       Revised November 2024
-    </div>
-     <div style="text-align: justify; margin-bottom: 10px;"> 
-      Slides
     </div>
     <div style="text-align: justify; margin-bottom: 10px;">
       The R package MSTest implements hypothesis testing procedures to identify the number of regimes in Markov switching models. These models have wide-ranging applications in economics, finance, and numerous other fields. The MSTest package includes the Monte Carlo likelihood ratio test procedures of Rodriguez-Rondon and Dufour (2024), the moment-based tests of Dufour and Luger (2017), the parameter stability tests of Carrasco, Hu, and Ploberger (2014), and the likelihood ratio test of Hansen (1992). Additionally, the package enables users to simulate and estimate univariate and multivariate Markov switching and hidden Markov processes, using the expectation-maximization (EM) algorithm or maximum likelihood estimation (MLE).
@@ -113,24 +110,29 @@ author_profile: true
 ## Works in Progress
 
 <ul>
-    <li style="margin-bottom: 20px;">
+  <li style="margin-bottom: 20px;">
       <em><b>Identification Through Heteroskedasticity Using Multiple Structural Change Tests</b></em>, with Pierre Perron
-    </li>
-    <li style="margin-bottom: 20px;">
+  </li>
+  
+  <li style="margin-bottom: 20px;">
       <em><b>MNbreaks: An R Package for Estimating and Testing Multiple Structural Changes in Multivariate Linear Regression Models</b></em>, with Pierre Perron & Zhongjun Qu
-    </li>
-    <li style="margin-bottom: 20px;"> 
+  </li>
+  
+  <li style="margin-bottom: 20px;"> 
       <em><b>Practical and reliable estimation methods for high-dimensional multivariate stochastic volatility models with macroeconomic applications</b></em>, with Jean-Marie Dufour & Md. Nazmul Ahsan 
-    </li>
-    <li style="margin-bottom: 20px;">
+  </li>
+  
+  <li style="margin-bottom: 20px;">
       <em><b>Monte Carlo Test for Factor Models with Markov switching</b></em>
-    </li>
-    <li style="margin-bottom: 20px;">
+  </li>
+  
+  <li style="margin-bottom: 20px;">
       <em><b>Simulation and Stress Testing of Large Value Payment Systems</b></em>, with Jorge Cruz Lopez
-    </li>
-    <li style="margin-bottom: 20px;">
+  </li>
+  
+  <li style="margin-bottom: 20px;">
       <em><b>Network Model Simulation and Stress Testing of PvP Systems</b></em>, with Jorge Cruz Lopez, Giuseppe Matera, Jordan Cambe & Carlos Leon
-    </li>
+  </li>
 </ul>
 
 
