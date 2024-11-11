@@ -23,7 +23,7 @@ author_profile: true
    <li>
     <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/RodriguezRondon_Dufour_2024_MSTest_Rpackage.pdf" target="_blank"><em><b>MSTest: An R-package for Testing Markov-Switching Models</b></em></a>, with Jean-Marie Dufour, Submitted to <em>Journal of Statistical Software</em>
     <div> 
-      Revised in November 2024
+      Revised November 2024
     </div>
      <div style="text-align: justify; margin-bottom: 10px;"> 
       Slides
@@ -39,7 +39,7 @@ author_profile: true
 <ol start=3>
   <li style="margin-bottom: 20px;">
     <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/RodriguezRondon_Dufour_2024_MonteCarlo_LikelihoodRatioTest_MarkovSwitchingModels_20241015.pdf" target="_blank"><em><b>Monte Carlo Likelihood Ratio Tests for Markov Switching Models</b></em></a>, with Jean-Marie Dufour 
-    <div style="margin-bottom: 10px;"> <em><b>Job Market Paper</b></em> | Revised in October 2024| <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/GRodriguezRondon_CIREQLunchSeminar_20241008.pdf" target="_blank">Slides</a> 
+    <div style="margin-bottom: 10px;"> <em><b>Job Market Paper</b></em> | Revised October 2024| <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/GRodriguezRondon_CIREQLunchSeminar_20241008.pdf" target="_blank">Slides</a> 
     </div>
     <div style="text-align: justify; margin-bottom: 10px;"> 
       This paper proposes a likelihood ratio test for Markov switching models that extends to a broader range of settings not previously addressed in the literature. This includes multiple regimes as well as multivariate, non-stationary, and non-Gaussian settings, which are common and useful in applied work. Importantly, the approach is valid for finite samples, which is relevant for many macroeconomic applications that utilize quarterly data, and it is robust to the identification problems often encountered in Markov switching models. Two macroeconomic applications are considered: one in a univariate setting using U.S. GNP growth data and another in a multivariate context involving Markov switching VAR models and testing for the synchronization of business cycles. These tests also have broader applications within macroeconomics and finance including indentification of SVAR models and causal relationships. 
@@ -51,7 +51,7 @@ author_profile: true
   
   <li style="margin-bottom: 20px;">
     <em><b>Underlying Core Inflation with Multiple Regimes</b></em>
-    <div style="margin-bottom: 10px;"> Revised in November 2024| <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/GRR_IAAE2024_underlying_core_inf.pdf" target="_blank">Slides</a> 
+    <div style="margin-bottom: 10px;"> Revised November 2024| <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/GRR_IAAE2024_underlying_core_inf.pdf" target="_blank">Slides</a> 
     </div>
     <div style="text-align: justify; margin-bottom: 10px;"> 
       This paper utilizing procedures for detecting multiple regimes in high-dimensional factor models to introduce a new approach for estimating core inflation indicators. When inflation began to increase in 2021, many core inflation indicators failed at provding an appropriate and timely signal of underlying inflation. We solve this problem by considering time-varying parameters that account for chnages in inflation regimes. The result is a real-time indicator that is useful in guiding monetary policy. It reduces historical revisions, provides improved forecasts of headline inflation, and is robust to transitory and sector-specific shocks. 
@@ -64,20 +64,20 @@ author_profile: true
   <li style="margin-bottom: 20px;">
     <em><b>Volatility Forecasting with Higher-order Stochastic Volatility Models</b></em>, with Jean-Marie Dufour & Md. Nazmul Ahsan
     <div>       
-      Revised in August 2023
+      Revised August 2023
     </div>
   </li>
   
   <li style="margin-bottom: 20px;">
     <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/20240917_CKR_2024_Counterparty_and_Liquidity_Risk.pdf" target="_blank"> <em><b>Joint Determination of Counterparty and Liquidity Risk in Payment Systems</b></em></a>, with Jorge Cruz Lopez & Charles M. Kahn
-    <div> Revised in September 2023| <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/20230921_GRodriguezRondon_Counterparty_and_Liquidity_Risk_in_Payments_CEMLAIIPaymentFMI.pdf" target="_blank">Slides</a> 
+    <div> Revised September 2023| <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/20230921_GRodriguezRondon_Counterparty_and_Liquidity_Risk_in_Payments_CEMLAIIPaymentFMI.pdf" target="_blank">Slides</a> 
     </div>
   </li>
   
   <li style="margin-bottom: 20px;">
     <em><b>mbreaks: R Package for Estimating and Testing Multiple Structural Changes in Linear Regression Models</b></em>, with Linh Nguyen, Pierre Perron, & Yohei Yamamoto
     <div> 
-      Revised in January 2023  
+      Revised January 2023  
     </div>
   </li>
 </ol>
@@ -87,11 +87,11 @@ author_profile: true
 ## Conference Proceedings
 <ol start=8>
   <li style="margin-bottom: 20px;">
-    <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/RodriguezRondon_Dufour_2023_JSM_Proceedings.pdf" target="_blank"><em><b>Simulation-Based Inference for the Synchronization of Business Cycles</b></em></a>, with Jean-Marie Dufour, <em>JSM Proceedings, Business and Economic Statistics Section. Toronto, ON: American Statistical Association </em>, 2023.
+    <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/RodriguezRondon_Dufour_2023_JSM_Proceedings.pdf" target="_blank"><em><b>Simulation-Based Inference for the Synchronization of Business Cycles</b></em></a>, with Jean-Marie Dufour, <em>JSM Proceedings, Business and Economic Statistics Section. Toronto, ON: American Statistical Association </em>, December 2023.
   </li>
   
   <li style="margin-bottom: 20px;">
-    <em><b>Simulation-Based Inference for Markov Switching Models</b></em>, with Jean-Marie Dufour, <em>JSM Proceedings, Business and Economic Statistics Section. Washington, D.C.: American Statistical Association</em>, 2022.
+    <em><b>Simulation-Based Inference for Markov Switching Models</b></em>, with Jean-Marie Dufour, <em>JSM Proceedings, Business and Economic Statistics Section. Washington, D.C.: American Statistical Association</em>, December 2022.
     <div> 
     </div>
   </li>
@@ -106,7 +106,7 @@ author_profile: true
   </li>
   
   <li style="margin-bottom: 20px;">
-    <a href="https://www.bankofcanada.ca/wp-content/uploads/2018/02/tr112.pdf" target="_blank"><em><b>The Government of Canada Debt Securities Dataset</b></em></a>, with Jeffrey Gao & Francisco Rivadeneyra, <em>Bank of Canada, Technical Report No. 112</em>, 2018.
+    <a href="https://www.bankofcanada.ca/wp-content/uploads/2018/02/tr112.pdf" target="_blank"><em><b>The Government of Canada Debt Securities Dataset</b></em></a>, with Jeffrey Gao & Francisco Rivadeneyra, <em>Bank of Canada, Technical Report No. 112</em>, February 2018.
   </li>
 </ol>
 
