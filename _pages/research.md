@@ -21,7 +21,7 @@ author_profile: true
 
 
 ## Working papers
-<ol start=2>
+<ol start=2 style="margin-bottom: 15px;">
   <li>
     <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/RodriguezRondon_Dufour_2024_MonteCarlo_LikelihoodRatioTest_MarkovSwitchingModels_20241015.pdf" target="_blank"><em>Monte Carlo Likelihood Ratio Tests for Markov Switching Models</em></a>, with Jean-Marie Dufour 
     <div style="margin-bottom: 10px;"> <i><b>Job Market Paper</b></i> | Revised in October | <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/GRodriguezRondon_CIREQLunchSeminar_20241008.pdf" target="_blank">Slides</a> 
