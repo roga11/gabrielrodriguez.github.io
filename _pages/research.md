@@ -41,7 +41,7 @@ author_profile: true
       This paper utilizing procedures for detecting multiple regimes in high-dimensional factor models to introduce a new approach for estimating core inflation indicators. When inflation began to increase in 2021, many core inflation indicators failed at provding an appropriate and timely signal of underlying inflation. We solve this problem by considering time-varying parameters that accounts for chnages in inflation regimes. The result is a real-time indicator that is useful in guiding monetary policy. It reduces historical revisions, provides improved forecasts of headline inflation, and is robust to transitory and sector-specific shocks. 
     </div>
     <div style="text-align: justify; margin-bottom: 10px;"> 
-      <b>Conference & Seminar presentations:</b> Bank of Canada Conference on Real-Time Data Analysis, Methods and Applications in Macroe- conomics and Finance, IAAE 2024 Annual Conference, Bank of Canada Brown Bag Seminar, 57th Annual Meetings of the CEA
+      <b>Conference & Seminar presentations:</b> Bank of Canada Conference on Real-Time Data Analysis, Methods and Applications in Macroeconomics and Finance, IAAE 2024 Annual Conference, Bank of Canada Brown Bag Seminar, 57th Annual Meetings of the CEA
     </div>
   </li>
   
