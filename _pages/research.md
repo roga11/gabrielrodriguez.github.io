@@ -7,8 +7,16 @@ author_profile: true
 ---
 ## Submitted Papers
 <ol start=1>
-  <li><a href="https://roga11.github.io/gabrielrodriguez.github.io/files/Ahsan_Dufour_RodriguezR_2024_SVP_Leverage.pdf" target="_blank"><em><b>Estimation and inference for higher-order stochastic volatility models with leverage</b></em></a>, with Jean-Marie Dufour & Md. Nazmul Ahsan, Submitted to <em>Journal of Time Series Analysis</em> (revision requested)
-    <div> <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/GRR_NASMES_2024_ Estimation_and_inference_for_higher_order_stochastic_volatility_models_with_leverage.pdf" target="_blank">Slides</a> 
+  <li style="margin-bottom: 20px;">
+    <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/Ahsan_Dufour_RodriguezR_2024_SVP_Leverage.pdf" target="_blank"><em><b>Estimation and inference for higher-order stochastic volatility models with leverage</b></em></a>, with Jean-Marie Dufour & Md. Nazmul Ahsan, Submitted to <em>Journal of Time Series Analysis</em> (revision requested)
+    <div style="text-align: justify; margin-bottom: 10px;"> 
+      <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/GRR_NASMES_2024_ Estimation_and_inference_for_higher_order_stochastic_volatility_models_with_leverage.pdf" target="_blank">Slides</a> 
+    </div>
+    <div style="text-align: justify; margin-bottom: 10px;">
+      We propose efficient and simple estimators for higher-order stochastic volatility models with leverage [SVL(p)], based on a small number of moment equations. The computationally simple estimators proposed allow one to easily perform simulation-based (possibly exact) tests. The methods developed are applied to daily returns for three major stock indices (S&P 500, Dow Jones, Nasdaq), confirming the superiority of SVL(p) models over competing conditional volatility models in terms of forecast accuracy.
+    </div>
+    <div style="text-align: justify; margin-bottom: 10px;"> 
+      <b>Conference & Seminar presentations:</b> 39th Annual Meeting of the Canadian Econometrics Study Group, North American Summer Meeting of the Econometric Society, 58th Annual Meetings of the CEA, 63e Congrès de la Société Canadienne de Science Économique, CIREQ Econometrics Conference in Honor of Eric Ghysels
     </div>
   </li>
 
@@ -98,22 +106,22 @@ author_profile: true
 ## Works in Progress
 
 <ul>
-    <li>
+    <li style="margin-bottom: 20px;">
       <em><b>Identification Through Heteroskedasticity Using Multiple Structural Change Tests</b></em>, with Pierre Perron
     </li>
-    <li>
+    <li style="margin-bottom: 20px;">
       <em><b>MNbreaks: An R Package for Estimating and Testing Multiple Structural Changes in Multivariate Linear Regression Models</b></em>, with Pierre Perron & Zhongjun Qu
     </li>
-    <li> 
+    <li style="margin-bottom: 20px;"> 
       <em><b>Practical and reliable estimation methods for high-dimensional multivariate stochastic volatility models with macroeconomic applications</b></em>, with Jean-Marie Dufour & Md. Nazmul Ahsan 
     </li>
-    <li>
+    <li style="margin-bottom: 20px;">
       <em><b>Monte Carlo Test for Factor Models with Markov switching</b></em>
     </li>
-    <li>
+    <li style="margin-bottom: 20px;">
       <em><b>Simulation and Stress Testing of Large Value Payment Systems</b></em>, with Jorge Cruz Lopez
     </li>
-    <li>
+    <li style="margin-bottom: 20px;">
       <em><b>Network Model Simulation and Stress Testing of PvP Systems</b></em>, with Jorge Cruz Lopez, Giuseppe Matera, Jordan Cambe & Carlos Leon
     </li>
 </ul>
