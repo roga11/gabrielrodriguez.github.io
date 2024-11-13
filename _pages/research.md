@@ -145,6 +145,10 @@ author_profile: true
   <li style="margin-bottom: 20px;">
       <em><b>Monte Carlo Test for Factor Models with Markov switching</b></em>
   </li>
+
+  <li style="margin-bottom: 20px;">
+      <em><b>Testing for the Synchronization of International Business Cycles</b></em>, with Jean-Marie Dufour
+  </li>
   
   <li style="margin-bottom: 20px;">
       <em><b>Simulation and Stress Testing of Large Value Payment Systems</b></em>, with Jorge Cruz Lopez
