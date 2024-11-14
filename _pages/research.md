@@ -23,7 +23,7 @@ author_profile: true
   <li>
     <a href="https://arxiv.org/pdf/2411.08188" target="_blank"><em><b>MSTest: An R-package for Testing Markov-Switching Models</b></em></a>, with Jean-Marie Dufour
     <div style="margin-bottom: 10px;"> 
-      Revised November 2024 | <a href="https://arxiv.org/abs/2411.08188" target="_blank"><em><b>arXiv</b></em></a>
+      Revised November 2024 | <a href="https://arxiv.org/abs/2411.08188" target="_blank"><em>arXiv</em></a>
     </div>
     <div style="text-align: justify; margin-bottom: 10px;">
       The R package MSTest implements hypothesis testing procedures to identify the number of regimes in Markov switching models. These models have wide-ranging applications in economics, finance, and numerous other fields. The MSTest package includes the Monte Carlo likelihood ratio test procedures of Rodriguez-Rondon and Dufour (2024), the moment-based tests of Dufour and Luger (2017), the parameter stability tests of Carrasco, Hu, and Ploberger (2014), and the likelihood ratio test of Hansen (1992). Additionally, the package enables users to simulate and estimate univariate and multivariate Markov switching and hidden Markov processes, using the expectation-maximization (EM) algorithm or maximum likelihood estimation (MLE).
