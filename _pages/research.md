@@ -77,6 +77,9 @@ author_profile: true
     <div style="margin-bottom: 10px;"> 
       Revised September 2023 | <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/20230921_GRodriguezRondon_Counterparty_and_Liquidity_Risk_in_Payments_CEMLAIIPaymentFMI.pdf" target="_blank">Slides</a> 
     </div>
+    <div style="margin-bottom: 10px;"> 
+      Awarded Best Paper on Risk Management at the NFA 2019 Conference.
+    </div>
     <div style="text-align: justify; margin-bottom: 10px;"> 
       We investigate how banks jointly manage their funding liquidity and counterparty risk in the context of an interbank payments system. Using intra-day data from the Canadian Large Value Transfer System, we show that banks coordinate the issuance of payment orders to jointly manage their liquidity and counterparty risk. Coordination incentives increase with risk exposures and the cost of funding. We conclude that coordination disruptions may increase risk exposures that lead to funding constraints and systemic risk. Therefore, coordination should be considered in policies aimed at enhancing financial stability.
     </div>
