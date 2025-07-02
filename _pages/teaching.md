@@ -8,7 +8,7 @@ author_profile: true
 ## Instructor
 <ul>
   <li style="margin-bottom: 10px;">Time Series Econometrics (Ph.D.  Level) 
-    <div style="margin-left: 5px;"> <em><b>HEC Montréal</b></em> | Winter 2026 (Scheduled) | <a href="https://www.hec.ca/en/courses/detail/?cours=MATH60210A" target="_blank">Course Detail</a> 
+    <div style="margin-left: 5px;"> <em><b>HEC Montréal</b></em> | Winter 2026 (Scheduled) | <a href="https://www.hec.ca/en/courses/detail/?cours=MATH60837A" target="_blank">Course Detail</a> 
     </div>
   </li>
   
