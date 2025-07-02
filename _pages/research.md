@@ -8,7 +8,7 @@ author_profile: true
 ## Publications & Conference Proceedings
 <ol start=1>
   <li style="margin-bottom: 20px;">
-    <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/Ahsan_Dufour_RodriguezR_2024_SVP_Leverage.pdf" target="_blank"><em><b>Estimation and inference for higher-order stochastic volatility models with leverage</b></em></a>, with Jean-Marie Dufour & Md. Nazmul Ahsan, <b>revised & resubmitted, <em>Journal of Time Series Analysis</em></b>
+    <a href="https://doi.org/10.1111/jtsa.12851" target="_blank"><em><b>Estimation and inference for higher-order stochastic volatility models with leverage</b></em></a>, with Jean-Marie Dufour & Md. Nazmul Ahsan, <b> <em>Journal of Time Series Analysis</em>, 1–21, May 2025.</b>
     <div style="margin-bottom: 10px;"> 
       <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/GRR_NASMES_2024_ Estimation_and_inference_for_higher_order_stochastic_volatility_models_with_leverage.pdf" target="_blank">Slides</a> 
     </div>
@@ -87,7 +87,7 @@ author_profile: true
   <li style="margin-bottom: 20px;">
     <em><b>Estimation and inference for stochastic volatility models with leverage and heavy-tailed distribu- tions</b></em>, with Jean-Marie Dufour & Md. Nazmul Ahsan
     <div style="margin-bottom: 10px;">       
-      Revised August 2023
+      Revised June 2025
     </div>
     <div style="text-align: justify; margin-bottom: 10px;"> 
       We extend the closed-form winsorized ARMA estimation procedure for SV(p) models proposed by Ahsan and Dufour (2021) to settings where the errors follow either a Generalized Error Distribution (GED) or a Student-t distribution, allowing for heavier-tailed processes. In addition, we propose simulation-based hypothesis testing procedures to assess normality and the presence of heavy tails.
