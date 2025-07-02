@@ -48,7 +48,7 @@ author_profile: true
   <li>Economic Statistics (B.A. Honours)
     <div style="margin-left: 5px;"> Fall 2020 & Winter 2021 </div>
   </li>
-  <li>Economics of Information and Uncertainty (M.A.)
+  <li>Economics of Information and Uncertainty (B.A.)
     <div style="margin-left: 5px;"> Winter 2020 </div>
   </li>
 
