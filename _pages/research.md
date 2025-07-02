@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 ---
-## Submitted Papers
+## Publications & Conference Proceedings
 <ol start=1>
   <li style="margin-bottom: 20px;">
     <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/Ahsan_Dufour_RodriguezR_2024_SVP_Leverage.pdf" target="_blank"><em><b>Estimation and inference for higher-order stochastic volatility models with leverage</b></em></a>, with Jean-Marie Dufour & Md. Nazmul Ahsan, <b>revised & resubmitted, <em>Journal of Time Series Analysis</em></b>
@@ -20,6 +20,21 @@ author_profile: true
     </div>
   </li>
 
+  
+  <li style="margin-bottom: 20px;">
+    <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/RodriguezRondon_Dufour_2023_JSM_Proceedings.pdf" target="_blank"><em><b>Simulation-Based Inference for the Synchronization of Business Cycles</b></em></a>, with Jean-Marie Dufour, <em>JSM Proceedings, Business and Economic Statistics Section. Toronto, ON: American Statistical Association </em>, December 2023.
+  </li>
+
+  
+  <li style="margin-bottom: 20px;">
+    <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/RodriguezRondon_Dufour_2022_Simulation-BasedInferenceMarkovSwitchingModels_JSM_Proceedings.pdf" target="_blank"><em><b>Simulation-Based Inference for Markov Switching Models</b></em></a>, with Jean-Marie Dufour, <em>JSM Proceedings, Business and Economic Statistics Section. Washington, D.C.: American Statistical Association</em>, December 2022.
+    <div> 
+    </div>
+  </li>
+</ol>
+
+## Working papers
+<ol start=4>
   <li style="margin-bottom: 20px;">
     <a href="https://arxiv.org/pdf/2411.12845" target="_blank"><em><b>Underlying Core Inflation with Multiple Regimes</b></em></a>
     <div style="margin-bottom: 10px;"> 
@@ -42,11 +57,7 @@ author_profile: true
       The R package MSTest implements hypothesis testing procedures to identify the number of regimes in Markov switching models. These models have wide-ranging applications in economics, finance, and numerous other fields. The MSTest package includes the Monte Carlo likelihood ratio test procedures of Rodriguez-Rondon and Dufour (2024), the moment-based tests of Dufour and Luger (2017), the parameter stability tests of Carrasco, Hu, and Ploberger (2014), and the likelihood ratio test of Hansen (1992). Additionally, the package enables users to simulate and estimate univariate and multivariate Markov switching and hidden Markov processes, using the expectation-maximization (EM) algorithm or maximum likelihood estimation (MLE).
     </div>
   </li>
-</ol>
 
-
-## Working papers
-<ol start=4>
   <li style="margin-bottom: 20px;">
     <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/RodriguezRondon_Dufour_2024_MonteCarlo_LikelihoodRatioTest_MarkovSwitchingModels_20241015.pdf" target="_blank"><em><b>Monte Carlo Likelihood Ratio Tests for Markov Switching Models</b></em></a>, with Jean-Marie Dufour 
     <div style="margin-bottom: 10px;"> <em><b>Job Market Paper</b></em> | Revised October 2024 | <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/GRodriguezRondon_CIREQLunchSeminar_20241008.pdf" target="_blank">Slides</a> 
@@ -63,10 +74,23 @@ author_profile: true
   <li style="margin-bottom: 20px;">
     <em><b>Volatility Forecasting with Higher-order Stochastic Volatility Models</b></em>, with Jean-Marie Dufour & Md. Nazmul Ahsan
     <div style="margin-bottom: 10px;">       
-      Revised August 2023
+      Revised June 2025
     </div>
     <div style="text-align: justify; margin-bottom: 10px;"> 
       We study the performance of higher-order stochastic volatility [SV(p)] models in forecasting volatility. Using different volatility proxies (squared returns and the realized volatility) of various international indices, we conduct two out-of-sample forecast experiments: (1) we forecast a moderately volatile period after the late-2000s financial crisis; (2) we forecast a highly volatile period, i.e., the core financial crisis. We compare the accuracy of volatility forecasts among SV(p) models, GARCH models, and Heterogenous Autoregressive model of Realized Volatility (HAR-RV) models. The results suggest that SV(p) models perform better than other models in most cases.
+    </div>
+    <div style="text-align: justify; margin-bottom: 10px;"> 
+      <b>Conference & Seminar presentations:</b> IAAE 2025 Annual Conference
+    </div>
+  </li>
+
+  <li style="margin-bottom: 20px;">
+    <em><b>Estimation and inference for stochastic volatility models with leverage and heavy-tailed distribu- tions</b></em>, with Jean-Marie Dufour & Md. Nazmul Ahsan
+    <div style="margin-bottom: 10px;">       
+      Revised August 2023
+    </div>
+    <div style="text-align: justify; margin-bottom: 10px;"> 
+      We extend the closed-form winsorized ARMA estimation procedure for SV(p) models proposed by Ahsan and Dufour (2021) to settings where the errors follow either a Generalized Error Distribution (GED) or a Student-t distribution, allowing for heavier-tailed processes. In addition, we propose simulation-based hypothesis testing procedures to assess normality and the presence of heavy tails.
     </div>
   </li>
 
@@ -97,24 +121,14 @@ author_profile: true
 </ol>
 
 
-
-## Conference Proceedings
-<ol start=8>
+## Policy Notes, & Technical Notes
+<ol start=11>
   <li style="margin-bottom: 20px;">
-    <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/RodriguezRondon_Dufour_2023_JSM_Proceedings.pdf" target="_blank"><em><b>Simulation-Based Inference for the Synchronization of Business Cycles</b></em></a>, with Jean-Marie Dufour, <em>JSM Proceedings, Business and Economic Statistics Section. Toronto, ON: American Statistical Association </em>, December 2023.
-  </li>
-  
-  <li style="margin-bottom: 20px;">
-    <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/RodriguezRondon_Dufour_2022_Simulation-BasedInferenceMarkovSwitchingModels_JSM_Proceedings.pdf" target="_blank"><em><b>Simulation-Based Inference for Markov Switching Models</b></em></a>, with Jean-Marie Dufour, <em>JSM Proceedings, Business and Economic Statistics Section. Washington, D.C.: American Statistical Association</em>, December 2022.
+    <em><b>Practical estimation of high-dimensional stochastic volatility models with application to macroeco- nomic uncertainty in Québec and Canada</b></em>, with Jean-Marie Dufour & Md. Nazmul Ahsan, <em>CIRANO</em>, April 2025.
     <div> 
     </div>
   </li>
-</ol>
-
-
-
-## Policy Notes, & Technical Notes
-<ol start=10>
+  
   <li style="margin-bottom: 20px;">
     <em><b>Measuring Underlying Inflation Post-COVID</b></em>, with Mikael Khan & Luis Uzeda, <em>Canadian Economic Analysis Inquiry, Bank of Canada</em>, June 2024.
     <div> 
