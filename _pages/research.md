@@ -8,7 +8,7 @@ author_profile: true
 ## Publications & Conference Proceedings
 <ol start=1>
   <li style="margin-bottom: 20px;">
-    <a href="https://doi.org/10.1111/jtsa.12851" target="_blank"><em><b>Estimation and inference for higher-order stochastic volatility models with leverage</b></em></a>, with Jean-Marie Dufour & Md. Nazmul Ahsan, <b> <em>Journal of Time Series Analysis</em>, 1–21, May 2025.</b>
+    <a href="https://doi.org/10.1111/jtsa.12851" target="_blank"><em><b>Estimation and inference for higher-order stochastic volatility models with leverage</b></em></a>, with Jean-Marie Dufour & Md. Nazmul Ahsan, <b> <em>Journal of Time Series Analysis</em></b>, 1–21, May 2025.
     <div style="margin-bottom: 10px;"> 
       <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/GRR_NASMES_2024_ Estimation_and_inference_for_higher_order_stochastic_volatility_models_with_leverage.pdf" target="_blank">Slides</a> 
     </div>
