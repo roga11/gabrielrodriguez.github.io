@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Gabriel Rodriguez-Rondon"
 title_separator          : "-"
-name                     : &name "Gabriel Rodriguez-Rondon"
+name                     : &name "Gabriel <br>Rodriguez-Rondon"
 description              : &description "Personal Website"
 url                      : https://roga11.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/gabrielrodriguez.github.io" # the subpath of your site, e.g. "/blog"
