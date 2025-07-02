@@ -85,7 +85,7 @@ author_profile: true
   </li>
 
   <li style="margin-bottom: 20px;">
-    <em><b>Estimation and inference for stochastic volatility models with leverage and heavy-tailed distribu- tions</b></em>, with Jean-Marie Dufour & Md. Nazmul Ahsan
+    <em><b>Estimation and inference for stochastic volatility models with leverage and heavy-tailed distributions</b></em>, with Jean-Marie Dufour & Md. Nazmul Ahsan
     <div style="margin-bottom: 10px;">       
       Revised June 2025
     </div>
