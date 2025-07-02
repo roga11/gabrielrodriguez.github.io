@@ -19,7 +19,7 @@ You can find my [CV here](https://roga11.github.io/gabrielrodriguez.github.io/fi
 <br />
 ## News:
 <ul>
-  <li> ``Estimation and Inference for Higher-Order Stochastic Volatility Models With Leverage'' has been accepted by JTSA and is now published and <a href=" https://doi.org/10.1111/jtsa.12851">available online</a>.
+  <li> _Estimation and Inference for Higher-Order Stochastic Volatility Models With Leverage_ has been accepted by JTSA and is now published and <a href=" https://doi.org/10.1111/jtsa.12851">available online</a>.
   </li>
 </ul>
 
