@@ -7,17 +7,17 @@ author_profile: true
 ---
 ## Instructor
 <ul>
-  <li style="margin-bottom: 10px;">Time Series Econometrics (Ph.D.  Level) 
+  <li style="margin-bottom: 10px;">Time Series Econometrics (MSc.) 
     <div style="margin-left: 5px;"> <em><b>HEC Montréal</b></em> | Winter 2026 (Scheduled) | <a href="https://www.hec.ca/en/courses/detail/?cours=MATH60837A" target="_blank">Course Detail</a> 
     </div>
   </li>
   
-  <li style="margin-bottom: 10px;">Financial Econometrics (MSc  Level) 
+  <li style="margin-bottom: 10px;">Financial Econometrics (MSc.) 
     <div style="margin-left: 5px;"> <em><b>HEC Montréal</b></em> | Winter 2025 | <a href="https://www.hec.ca/en/courses/detail/?cours=MATH60210A" target="_blank">Course Detail</a> 
     </div>
   </li>
   
-  <li style="margin-bottom: 10px;">Econometrics II (Ph.D.  Level) - with Prof. Saraswata Chaudhuri
+  <li style="margin-bottom: 10px;">Econometrics II (Ph.D.) - with Prof. Saraswata Chaudhuri
     <div style="margin-left: 5px;"> <em><b>McGill University</b></em> | Winter 2024 | <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/ECON663_EconometricsII_TS_FullSlides.pdf" target="_blank">Slides</a> | <a href="https://www.mcgill.ca/study/2023-2024/fr/courses/econ-663" target="_blank">Course Detail</a> 
     </div>
   </li>
