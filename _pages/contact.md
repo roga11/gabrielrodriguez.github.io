@@ -7,7 +7,7 @@ author_profile: true
 ---
 
 
-**Email:** [gabriel.rodriguezrondon@mail.mcgill.ca](mailto:gabriel.rodriguezrondon@mail.mcgill.ca) / [ghrodriguez93@gmail.com](mailto:ghrodriguez93@gmail.com)  
+**Email:** [gabriel.rodriguezrondon@mail.mcgill.ca](mailto:gabriel.rodriguezrondon@mail.mcgill.ca) / [gabrodriguezrondon@gmail.com](mailto:gabrodriguezrondon@gmail.com)  
   
 ## Mailing Address  
 Leacock Building, Room 414  
