@@ -130,12 +130,6 @@ author_profile: true
   </li>
   
   <li style="margin-bottom: 20px;">
-    <em><b>Measuring Underlying Inflation Post-COVID</b></em>, with Mikael Khan & Luis Uzeda, <em>Canadian Economic Analysis Inquiry, Bank of Canada</em>, June 2024.
-    <div> 
-    </div>
-  </li>
-  
-  <li style="margin-bottom: 20px;">
     <a href="https://www.bankofcanada.ca/wp-content/uploads/2018/02/tr112.pdf" target="_blank"><em><b>The Government of Canada Debt Securities Dataset</b></em></a>, with Jeffrey Gao & Francisco Rivadeneyra, <em>Bank of Canada, Technical Report No. 112</em>, February 2018.
   </li>
 </ol>
