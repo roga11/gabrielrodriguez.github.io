@@ -26,7 +26,7 @@ author_profile: true
 
 ## Teaching Assistant - HEC Montreal
 <ul>
-  <li>Empirical Methods In Monetary Economics & Finance (Ph.D. Level)
+  <li>Empirical Methods In Monetary Economics & Finance (Ph.D.)
     <div style="margin-left: 5px;"> Winter 2024 & Winter 2025 </div>
   </li>
 </ul>
