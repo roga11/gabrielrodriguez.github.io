@@ -31,6 +31,12 @@ You can find my [CV here](https://roga11.github.io/gabrielrodriguez.github.io/fi
   <li>International Association for Applied Econometrics (IAAE) Annual Conference (Italy)
     <div style="margin-left: 5px;"> June 25 - 27, 2025 </div>
   </li>
+  <li>New York Camp Econometrics XIX
+    <div style="margin-left: 5px;"> April 25 - 27, 2025 </div>
+  </li>
+  <li>CIREQ Econometrics Conference: Recent Developments in Identification and Inference
+    <div style="margin-left: 5px;"> April 18 - 19, 2025 </div>
+  </li>
   <li>Universidad del Rosario (Virtual) Seminar
     <div style="margin-left: 5px;"> April 8, 2025 </div>
   </li>
