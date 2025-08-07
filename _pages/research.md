@@ -124,7 +124,7 @@ author_profile: true
 ## Policy Notes, & Technical Notes
 <ol start=11>
   <li style="margin-bottom: 20px;">
-    <em><b>Practical estimation of high-dimensional stochastic volatility models with application to macroeco- nomic uncertainty in Québec and Canada</b></em>, with Jean-Marie Dufour & Md. Nazmul Ahsan, <em>CIRANO</em>, April 2025.
+    <em><b>Practical estimation of high-dimensional stochastic volatility models with application to macroeconomic uncertainty in Québec and Canada</b></em>, with Jean-Marie Dufour & Md. Nazmul Ahsan, <em>CIRANO</em>, April 2025.
     <div> 
     </div>
   </li>
