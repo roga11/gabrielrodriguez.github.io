@@ -124,27 +124,20 @@ author_profile: true
 ## Policy Notes, & Technical Notes
 <ol start=11>
   <li style="margin-bottom: 20px;">
-    <em><b>Practical estimation of high-dimensional stochastic volatility models with application to macroeconomic uncertainty in Québec and Canada</b></em>, with Jean-Marie Dufour & Md. Nazmul Ahsan, <em>CIRANO</em>, April 2025.
+    <a href="https://www.bankofcanada.ca/wp-content/uploads/2018/02/tr112.pdf" target="_blank"><em><b>The Government of Canada Debt Securities Dataset</b></em></a>, with Jeffrey Gao & Francisco Rivadeneyra, <em>Bank of Canada, Technical Report No. 112</em>, February 2018.
+  </li>
+  
+  <li style="margin-bottom: 20px;">
+    <a href="https://www.bankofcanada.ca/wp-content/uploads/2018/02/tr112.pdf" target="_blank"><em><b>Practical estimation of high-dimensional stochastic volatility models with application to macroeconomic uncertainty in Québec and Canada</b></em></a>, with Jean-Marie Dufour & Md. Nazmul Ahsan, <em>CIRANO</em>, September 2025.
     <div> 
     </div>
   </li>
   
-  <li style="margin-bottom: 20px;">
-    <a href="https://www.bankofcanada.ca/wp-content/uploads/2018/02/tr112.pdf" target="_blank"><em><b>The Government of Canada Debt Securities Dataset</b></em></a>, with Jeffrey Gao & Francisco Rivadeneyra, <em>Bank of Canada, Technical Report No. 112</em>, February 2018.
-  </li>
 </ol>
 
 ## Works in Progress
 
 <ul>
-  <li style="margin-bottom: 20px;">
-      <em><b>Identification Through Heteroskedasticity Using Multiple Structural Change Tests</b></em>, with Pierre Perron
-  </li>
-  
-  <li style="margin-bottom: 20px;">
-      <em><b>MNbreaks: An R Package for Estimating and Testing Multiple Structural Changes in Multivariate Linear Regression Models</b></em>, with Pierre Perron & Zhongjun Qu
-  </li>
-  
   <li style="margin-bottom: 20px;"> 
       <em><b>Practical and reliable estimation methods for high-dimensional multivariate stochastic volatility models with macroeconomic applications</b></em>, with Jean-Marie Dufour & Md. Nazmul Ahsan 
   </li>
@@ -152,18 +145,15 @@ author_profile: true
   <li style="margin-bottom: 20px;">
       <em><b>Monte Carlo Test for Factor Models with Markov switching</b></em>
   </li>
+  
+  <li style="margin-bottom: 20px;">
+      <em><b>MNbreaks: An R Package for Estimating and Testing Multiple Structural Changes in Multivariate Linear Regression Models</b></em>, with Pierre Perron & Zhongjun Qu
+  </li>
 
   <li style="margin-bottom: 20px;">
-      <em><b>Testing for the Synchronization of International Business Cycles</b></em>, with Jean-Marie Dufour
+      <em><b>Identification Through Heteroskedasticity Using Multiple Structural Change Tests</b></em>, with Pierre Perron
   </li>
-  
-  <li style="margin-bottom: 20px;">
-      <em><b>Simulation and Stress Testing of Large Value Payment Systems</b></em>, with Jorge Cruz Lopez
-  </li>
-  
-  <li style="margin-bottom: 20px;">
-      <em><b>Network Model Simulation and Stress Testing of PvP Systems</b></em>, with Jorge Cruz Lopez, Giuseppe Matera, Jordan Cambe & Carlos Leon
-  </li>
+
 </ul>
 
 
