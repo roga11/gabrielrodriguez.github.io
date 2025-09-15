@@ -128,7 +128,7 @@ author_profile: true
   </li>
   
   <li style="margin-bottom: 20px;">
-    <a href="https://www.bankofcanada.ca/wp-content/uploads/2018/02/tr112.pdf" target="_blank"><em><b>Practical estimation of high-dimensional stochastic volatility models with application to macroeconomic uncertainty in Québec and Canada</b></em></a>, with Jean-Marie Dufour & Md. Nazmul Ahsan, <em>CIRANO</em>, September 2025.
+    <a href="https://cirano.qc.ca/en/summaries/2025RP-19" target="_blank"><em><b>Practical estimation of high-dimensional stochastic volatility models with application to macroeconomic uncertainty in Québec and Canada</b></em></a>, with Jean-Marie Dufour & Md. Nazmul Ahsan, <em>CIRANO</em>, September 2025.
     <div> 
     </div>
   </li>
