@@ -124,15 +124,14 @@ author_profile: true
 ## Policy Notes, & Technical Notes
 <ol start=11>
   <li style="margin-bottom: 20px;">
-    <a href="https://www.bankofcanada.ca/wp-content/uploads/2018/02/tr112.pdf" target="_blank"><em><b>The Government of Canada Debt Securities Dataset</b></em></a>, with Jeffrey Gao & Francisco Rivadeneyra, <em>Bank of Canada, Technical Report No. 112</em>, February 2018.
-  </li>
-  
-  <li style="margin-bottom: 20px;">
     <a href="https://cirano.qc.ca/en/summaries/2025RP-19" target="_blank"><em><b>Practical estimation of high-dimensional stochastic volatility models with application to macroeconomic uncertainty in Québec and Canada</b></em></a>, with Jean-Marie Dufour & Md. Nazmul Ahsan, <em>CIRANO</em>, September 2025.
     <div> 
     </div>
   </li>
   
+  <li style="margin-bottom: 20px;">
+    <a href="https://www.bankofcanada.ca/wp-content/uploads/2018/02/tr112.pdf" target="_blank"><em><b>The Government of Canada Debt Securities Dataset</b></em></a>, with Jeffrey Gao & Francisco Rivadeneyra, <em>Bank of Canada, Technical Report No. 112</em>, February 2018.
+  </li>
 </ol>
 
 ## Works in Progress
