@@ -13,7 +13,7 @@ I am a Senior Economist at the Bank of Canada.
 My research interests are in Econometrics, Macroeconomics and Monetary Economics, Finance, and Machine Learning. 
 <br />
 <br />
-You can find my [CV here](https://roga11.github.io/gabrielrodriguez.github.io/files/GRodriguezRondon_CV_20250702.pdf). 
+You can find my [CV here](https://roga11.github.io/gabrielrodriguez.github.io/files/GRodriguezRondon_CV_20251014.pdf). 
 <br />
 <br />
 <br />
