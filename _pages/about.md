@@ -48,5 +48,5 @@ You can find my [CV here](https://roga11.github.io/gabrielrodriguez.github.io/fi
 <br />
 <br />
 
-The views expressed in this page my own and do not necessarily reflect the position of the Bank of Canada.
+**Disclaimer:** The views expressed in this page my own and do not necessarily reflect the position of the Bank of Canada.
 
