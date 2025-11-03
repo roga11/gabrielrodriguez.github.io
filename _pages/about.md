@@ -42,3 +42,11 @@ You can find my [CV here](https://roga11.github.io/gabrielrodriguez.github.io/fi
   </li>
 </ul>
 
+<br />
+<br />
+<br />
+<br />
+<br />
+
+The views expressed in this page my own and do not necessarily reflect the position of the Bank of Canada.
+
