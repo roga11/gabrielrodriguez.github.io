@@ -34,6 +34,12 @@
       {% if author.email %}
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-envelope" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
       {% endif %}
+      {% if author.bankemail %}
+        <li><a href="mailto:{{ author.bankemail }}"><i class="fas fa-envelope" aria-hidden="true"></i> Bank Email</a></li>
+      {% endif %}
+      {% if author.bankprofile %}
+        <li><a href="{{ author.bankprofile }}"><i class="fas fa-university" aria-hidden="true"></i> Bank of Canada Profile</a></li>
+      {% endif %}
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-key" aria-hidden="true"></i> Keybase</a></li>
       {% endif %}
