@@ -25,8 +25,6 @@ You can find my [CV here](https://roga11.github.io/gabrielrodriguez.github.io/fi
   </li>
   <li> "wARMASVp" is now available on <a href="https://cran.r-project.org/web/packages/wARMASVp/index.html">CRAN</a> (<a href="https://cran.r-project.org/web/packages/wARMASVp/wARMASVp.pdf">reference manual</a>).
   </li>
-  <li> "Estimation and Inference for Higher-Order Stochastic Volatility Models With Leverage" has been accepted by the JTSA and is now published and <a href="https://doi.org/10.1111/jtsa.12851">available online</a>.
-  </li>
 </ul>
 
 ## Recent & upcoming presentations this year:
