@@ -7,7 +7,7 @@ author_profile: true
 ---
 
 
-**Email:** [gabrodriguezrondon@gmail.com](mailto:gabrodriguezrondon@gmail.com) / [grodriguezrondon@bankofcanada.ca](mailto:grodriguezrondon@bankofcanada.ca)  
+**Email:** [gabrodriguezrondon@gmail.com](mailto:gabrodriguezrondon@gmail.com) | [grodriguezrondon@bankofcanada.ca](mailto:grodriguezrondon@bankofcanada.ca)  
   
 ## Mailing Address  
 Canadian Economic Analysis Department  
