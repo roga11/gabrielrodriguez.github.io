@@ -13,4 +13,5 @@ author_profile: true
 Canadian Economic Analysis Department  
 Bank of Canada  
 234 Wellington St. W  
-Ottawa, ON K1A 0G9, Canada
+Ottawa, ON K1A 0G9  
+Canada
