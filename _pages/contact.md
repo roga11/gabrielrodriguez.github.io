@@ -7,13 +7,10 @@ author_profile: true
 ---
 
 
-**Email:** [gabriel.rodriguezrondon@mail.mcgill.ca](mailto:gabriel.rodriguezrondon@mail.mcgill.ca) / [gabrodriguezrondon@gmail.com](mailto:gabrodriguezrondon@gmail.com)  
+**Email:** [gabrodriguezrondon@gmail.com](mailto:gabrodriguezrondon@gmail.com) / [grodriguezrondon@bankofcanada.ca](mailto:grodriguezrondon@bankofcanada.ca)  
   
 ## Mailing Address  
-Leacock Building, Room 414  
-855 Sherbrooke Street West  
-Montreal, QC, Canada H3A 2T7
-
-CIRANO, Suite #1400   
-1130 Rue Sherbrooke O,     
-Montréal, Canada QC H3A 2M8    
+Canadian Economic Analysis Department  
+Bank of Canada  
+234 Wellington St. W  
+Ottawa, ON K1A 0G9, Canada
