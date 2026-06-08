@@ -6,6 +6,10 @@ author_profile: true
 ---
 ---
 
+**[wARMASVp](https://cran.r-project.org/web/packages/wARMASVp/index.html) - _R package_**  
+with Jean-Marie Dufour & Md. Nazmul Ahsan
+>This package provides tools for the estimation, inference, filtering, and forecasting of higher-order stochastic volatility models [SV(p)], including simulation-based (possibly exact) inference procedures. 
+
 **[MSTest](https://cran.r-project.org/web/packages/MSTest/index.html) - _R package_**  
 with Jean-Marie Dufour
 >This package implements hypothesis testing procedures that can be used to identify the number of regimes in a Markov-Switching model. It includes the methods proposed in Hansen (1992), Carrasco et al. (2014), Dufour & Luger (2017), and Rodriguez-Rondon & Dufour (2024). 
