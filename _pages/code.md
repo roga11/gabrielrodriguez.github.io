@@ -8,7 +8,7 @@ author_profile: true
 
 **[wARMASVp](https://cran.r-project.org/web/packages/wARMASVp/index.html) - _R package_**  
 with Jean-Marie Dufour & Md. Nazmul Ahsan
->This package provides tools for the estimation, inference, filtering, and forecasting of higher-order stochastic volatility models [SV(p)], including simulation-based (possibly exact) inference procedures. 
+>This package provides estimation, simulation, hypothesis testing, and forecasting for univariate higher-order stochastic volatility SV(p) models. It supports Gaussian, Student-t, and Generalized Error Distribution (GED) innovations, with optional leverage effects. The estimation method is based on closed-form Winsorized ARMA-SV (W-ARMA-SV) moment-based estimators that avoid numerical optimization, making them fast and reliable. 
 
 **[MSTest](https://cran.r-project.org/web/packages/MSTest/index.html) - _R package_**  
 with Jean-Marie Dufour
