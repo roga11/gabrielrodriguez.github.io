@@ -19,26 +19,29 @@ You can find my [CV here](https://roga11.github.io/gabrielrodriguez.github.io/fi
 <br />
 ## News:
 <ul>
-  <li> "Estimation and Inference for Higher-Order Stochastic Volatility Models With Leverage" has been accepted by the JTSA and is now published and <a href=" https://doi.org/10.1111/jtsa.12851">available online</a>.
+  <li> "MSTest" has been released as a Bank of Canada Staff Working Paper (<a href="https://doi.org/10.34989/swp-2026-7">swp-2026-7</a>).
+  </li>
+  <li> "Estimation and inference for stochastic volatility models with leverage and heavy-tailed distributions" has been released as a Bank of Canada Staff Working Paper (<a href="https://doi.org/10.34989/swp-2026-8">swp-2026-8</a>).
+  </li>
+  <li> "wARMASVp" is now available on <a href="https://cran.r-project.org/web/packages/wARMASVp/index.html">CRAN</a> (<a href="https://cran.r-project.org/web/packages/wARMASVp/wARMASVp.pdf">reference manual</a>).
+  </li>
+  <li> "Estimation and Inference for Higher-Order Stochastic Volatility Models With Leverage" has been accepted by the JTSA and is now published and <a href="https://doi.org/10.1111/jtsa.12851">available online</a>.
   </li>
 </ul>
 
 ## Recent & upcoming presentations this year:
 <ul>
-  <li>The Econometric Society, World Congress 
-    <div style="margin-left: 5px;"> August 18 - 22, 2025 </div>
+  <li>BSE Summer Forum: Workshop on AI and Machine Learning in Economics (Barcelona, Spain)
+    <div style="margin-left: 5px;"> June 11, 2026 (upcoming) </div>
   </li>
-  <li>International Association for Applied Econometrics (IAAE) Annual Conference (Italy)
-    <div style="margin-left: 5px;"> June 25 - 27, 2025 </div>
+  <li>ECONDAT 2026 Spring Meeting, Bank of France (Paris, France)
+    <div style="margin-left: 5px;"> June 5, 2026 </div>
   </li>
-  <li>New York Camp Econometrics XIX
-    <div style="margin-left: 5px;"> April 25 - 27, 2025 </div>
+  <li>60th Annual Meetings of the Canadian Economics Association (Vancouver, BC)
+    <div style="margin-left: 5px;"> May 29, 2026 </div>
   </li>
-  <li>CIREQ Econometrics Conference: Recent Developments in Identification and Inference
-    <div style="margin-left: 5px;"> April 18 - 19, 2025 </div>
-  </li>
-  <li>Universidad del Rosario (Virtual) Seminar
-    <div style="margin-left: 5px;"> April 8, 2025 </div>
+  <li>Bank of Canada Fellowship Learning Exchange (Ottawa, ON)
+    <div style="margin-left: 5px;"> April 30, 2026 </div>
   </li>
 </ul>
 
