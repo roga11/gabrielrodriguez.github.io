@@ -79,7 +79,7 @@ author_profile: true
     </div>
     <details><summary style="cursor: pointer;">Abstract</summary>
       <div style="text-align: justify; margin: 6px 0 6px 15px;">
-        We show that any supervised learning algorithm whose predictions are linear in the target variable—regardless of how nonlinearly it uses the features—admits a linear-factor representation, and that a small set of these <em>implied factors</em> closely tracks its forecasts. This offers a new, interpretable route to uncover low-dimensional structure in models that were not built with such structure in mind. Empirically, two or three implied factors reproduce out-of-sample forecasts of U.S. GDP, inflation, and unemployment and match or outperform supervised factor methods such as PCR, PLS, and scaled-PCA; used as controls in local projections, factors from a random forest resolve the inflation price puzzle that PCA controls leave intact.
+        We show that any supervised learning algorithm whose predictions are linear in the target variable—regardless of nonlinearities in the features—admits a linear-factor representation, and that a small set of these <em>implied factors</em> closely tracks its forecasts. This offers a new, interpretable route to uncover low-dimensional structure in models that were not built with such structure in mind. Empirically, two or three implied factors reproduce out-of-sample ML model forecasts of U.S. GDP, inflation, and unemployment and match or outperform supervised factor methods such as PCR, PLS, and scaled-PCA; used as controls in local projections, factors from a random forest resolve the inflation price puzzle that PCA controls leave intact.
       </div>
     </details>
     <details><summary style="cursor: pointer;">Presentations</summary>
