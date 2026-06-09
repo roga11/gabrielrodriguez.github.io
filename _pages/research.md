@@ -14,7 +14,7 @@ author_profile: true
     </div>
     <details style="margin-bottom: 4px;"><summary style="cursor: pointer;">Short Abstract</summary>
       <div style="text-align: justify; margin: 6px 0 6px 15px;">
-        We propose simple, efficient moment-based estimators for higher-order stochastic volatility models with leverage [SVL(p)] that require only a few moment equations and support simulation-based (possibly exact) tests. Applied to daily returns on three major U.S. indices (S&P 500, Dow Jones, Nasdaq), SVL(p) models deliver more accurate volatility forecasts than competing specifications.
+        We propose simple, efficient moment-based estimators for higher-order stochastic volatility models with leverage [SVL(p)] that require only a few moment equations and support simulation-based Monte Carlo tests. Applied to daily returns on three major U.S. indices (S&P 500, Dow Jones, Nasdaq), SVL(p) models deliver more accurate volatility forecasts than competing specifications.
       </div>
     </details>
     <details><summary style="cursor: pointer;">Presentations</summary>
@@ -45,7 +45,7 @@ author_profile: true
     </div>
     <details style="margin-bottom: 4px;"><summary style="cursor: pointer;">Short Abstract</summary>
       <div style="text-align: justify; margin: 6px 0 6px 15px;">
-        We develop a likelihood ratio test for Markov switching models that is valid in finite samples and robust to the identification problems common in this setting, covering multiple regimes and multivariate, non-stationary, and non-Gaussian models. We illustrate it on U.S. GNP growth and on Markov switching VARs testing business-cycle synchronization.
+        We develop likelihood ratio tests for Markov switching models that are valid in finite samples and robust to the identification problems common in this setting, covering multiple regimes and multivariate, non-stationary, and non-Gaussian models. We illustrate them on U.S. GNP growth and on Markov switching VARs testing business-cycle synchronization.
       </div>
     </details>
     <details><summary style="cursor: pointer;">Presentations</summary>
@@ -79,7 +79,7 @@ author_profile: true
     </div>
     <details><summary style="cursor: pointer;">Short Abstract</summary>
       <div style="text-align: justify; margin: 6px 0 6px 15px;">
-        Any supervised learning algorithm whose predictions are linear in the target variable—regardless of nonlinearities in the features—admits a linear-factor representation, and a small set of these <em>implied factors</em> closely tracks its forecasts. Empirically, two or three implied factors reproduce out-of-sample ML model forecasts of U.S. GDP, inflation, and unemployment, matching or outperforming PCR, PLS, and scaled-PCA.
+        Any supervised learning algorithm whose predictions are linear in the target variable—regardless of nonlinearities in the features—admits a linear-factor representation, and a small set of these <em>implied factors</em> closely tracks its forecasts. Empirically, two or three implied factors reproduce out-of-sample ML model forecasts of U.S. GDP, inflation, and unemployment, matching or outperforming PCR, PLS, sPCA, SPCA, and SsPCA.
       </div>
     </details>
     <details><summary style="cursor: pointer;">Presentations</summary>
@@ -120,7 +120,7 @@ author_profile: true
     </div>
     <details style="margin-bottom: 4px;"><summary style="cursor: pointer;">Short Abstract</summary>
       <div style="text-align: justify; margin: 6px 0 6px 15px;">
-        We evaluate higher-order stochastic volatility [SV(p)] models for volatility forecasting, using squared returns and realized volatility for several international indices across both moderately and highly volatile out-of-sample periods. Comparing SV(p) models with GARCH and Heterogeneous Autoregressive Realized Volatility (HAR-RV) models, we find SV(p) models forecast more accurately in most cases.
+        We evaluate multi-horizon volatility forecasts from higher-order stochastic volatility [SV(p)] models, estimated by a closed-form moment-based method requiring no numerical optimization. Across twenty international equity indices (2001–2020), multiple proxies, loss functions, and horizons, we compare them with GARCH, heterogeneous autoregressive, and ten machine learning methods. Second- and third-order SV models consistently deliver the lowest forecast losses—15–29% below the best traditional benchmark, with gains strengthening at longer horizons.
       </div>
     </details>
     <details><summary style="cursor: pointer;">Presentations</summary>
