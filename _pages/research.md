@@ -120,7 +120,7 @@ author_profile: true
     </div>
     <details style="margin-bottom: 4px;"><summary style="cursor: pointer;">Short Abstract</summary>
       <div style="text-align: justify; margin: 6px 0 6px 15px;">
-        We evaluate multi-horizon volatility forecasts from higher-order stochastic volatility [SV(p)] models, estimated by a closed-form moment-based method requiring no numerical optimization. Across twenty international equity indices (2001–2020), multiple proxies, loss functions, and horizons, we compare them with GARCH, heterogeneous autoregressive, and ten machine learning methods. Second- and third-order SV models consistently deliver the lowest forecast losses—15–29% below the best traditional benchmark, with gains strengthening at longer horizons.
+        We evaluate multi-horizon volatility forecasts from higher-order stochastic volatility [SV(p)] models, estimated by a closed-form moment-based method with no numerical optimization. Across twenty international equity indices (2001–2020), we compare them against GARCH, heterogeneous autoregressive, and ten machine learning methods. Second- and third-order SV models consistently give the lowest losses—15–29% below the best traditional benchmark, with larger gains at longer horizons.
       </div>
     </details>
     <details><summary style="cursor: pointer;">Presentations</summary>
