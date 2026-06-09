@@ -12,9 +12,9 @@ author_profile: true
     <div style="margin: 4px 0;">
       <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/GRR_NASMES_2024_%20Estimation_and_inference_for_higher_order_stochastic_volatility_models_with_leverage.pdf" target="_blank">Slides</a>
     </div>
-    <details style="margin-bottom: 4px;"><summary style="cursor: pointer;">Abstract</summary>
+    <details style="margin-bottom: 4px;"><summary style="cursor: pointer;">Short Abstract</summary>
       <div style="text-align: justify; margin: 6px 0 6px 15px;">
-        We propose efficient and simple estimators for higher-order stochastic volatility models with leverage [SVL(p)], based on a small number of moment equations. The computationally simple estimators proposed allow one to easily perform simulation-based (possibly exact) tests. The methods developed are applied to daily returns for three major stock indices (S&P 500, Dow Jones, Nasdaq), confirming the superiority of SVL(p) models over competing conditional volatility models in terms of forecast accuracy.
+        We propose simple, efficient moment-based estimators for higher-order stochastic volatility models with leverage [SVL(p)] that require only a few moment equations and support simulation-based (possibly exact) tests. Applied to daily returns on three major U.S. indices (S&P 500, Dow Jones, Nasdaq), SVL(p) models deliver more accurate volatility forecasts than competing specifications.
       </div>
     </details>
     <details><summary style="cursor: pointer;">Presentations</summary>
@@ -43,9 +43,9 @@ author_profile: true
     <div style="margin: 4px 0;">
       Revised October 2025 | <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/GRodriguezRondon_ESWC2025.pdf" target="_blank">Slides</a>
     </div>
-    <details style="margin-bottom: 4px;"><summary style="cursor: pointer;">Abstract</summary>
+    <details style="margin-bottom: 4px;"><summary style="cursor: pointer;">Short Abstract</summary>
       <div style="text-align: justify; margin: 6px 0 6px 15px;">
-        This paper proposes a likelihood ratio test for Markov switching models that applies to a broad range of settings not previously addressed, including multiple regimes as well as multivariate, non-stationary, and non-Gaussian models. The approach is valid in finite samples—relevant for macroeconomic applications using quarterly data—and is robust to the identification problems commonly encountered in Markov switching models. We consider two macroeconomic applications: U.S. GNP growth in a univariate setting, and Markov switching VAR models for testing the synchronization of business cycles.
+        We develop a likelihood ratio test for Markov switching models that is valid in finite samples and robust to the identification problems common in this setting, covering multiple regimes as well as multivariate, non-stationary, and non-Gaussian models. We illustrate it on U.S. GNP growth and on Markov switching VARs for testing the synchronization of business cycles.
       </div>
     </details>
     <details><summary style="cursor: pointer;">Presentations</summary>
@@ -60,9 +60,9 @@ author_profile: true
     <div style="margin: 4px 0;">
       Revised November 2024 | <a href="https://arxiv.org/abs/2411.12845" target="_blank"><em>arXiv</em></a> | <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/GRR_IAAE2024_underlying_core_inf.pdf" target="_blank">Slides</a>
     </div>
-    <details style="margin-bottom: 4px;"><summary style="cursor: pointer;">Abstract</summary>
+    <details style="margin-bottom: 4px;"><summary style="cursor: pointer;">Short Abstract</summary>
       <div style="text-align: justify; margin: 6px 0 6px 15px;">
-        This paper uses procedures for detecting multiple regimes in high-dimensional factor models to introduce a new approach for estimating core inflation indicators. When inflation began to rise in 2021, many core inflation indicators failed to provide a timely signal of underlying inflation; we address this by allowing time-varying parameters that account for changes in inflation regimes. The result is a simple real-time indicator that reduces historical revisions, improves forecasts of headline inflation, and is robust to transitory and sector-specific shocks.
+        We introduce a core inflation indicator built from a high-dimensional factor model with multiple regimes, addressing the failure of standard measures to signal underlying inflation when it rose in 2021. Allowing for regime changes yields a simple real-time indicator that reduces historical revisions, improves headline-inflation forecasts, and is robust to transitory and sector-specific shocks.
       </div>
     </details>
     <details><summary style="cursor: pointer;">Presentations</summary>
@@ -77,9 +77,9 @@ author_profile: true
     <div style="margin: 4px 0;">
       Draft and slides coming soon
     </div>
-    <details><summary style="cursor: pointer;">Abstract</summary>
+    <details><summary style="cursor: pointer;">Short Abstract</summary>
       <div style="text-align: justify; margin: 6px 0 6px 15px;">
-        We show that any supervised learning algorithm whose predictions are linear in the target variable—regardless of nonlinearities in the features—admits a linear-factor representation, and that a small set of these <em>implied factors</em> closely tracks its forecasts. This offers a new, interpretable route to uncover low-dimensional structure in models that were not built with such structure in mind. Empirically, two or three implied factors reproduce out-of-sample ML model forecasts of U.S. GDP, inflation, and unemployment and match or outperform supervised factor methods such as PCR, PLS, and scaled-PCA; used as controls in local projections, factors from a random forest resolve the inflation price puzzle that PCA controls leave intact.
+        Any supervised learning algorithm whose predictions are linear in the target variable—regardless of nonlinearities in the features—admits a linear-factor representation, and a small set of these <em>implied factors</em> closely tracks its forecasts. This offers a new, interpretable route to low-dimensional structure in models not built with it in mind: two or three implied factors reproduce out-of-sample ML model forecasts of U.S. GDP, inflation, and unemployment, matching or outperforming PCR, PLS, and scaled-PCA.
       </div>
     </details>
     <details><summary style="cursor: pointer;">Presentations</summary>
@@ -94,9 +94,9 @@ author_profile: true
     <div style="margin: 4px 0;">
       Revised December 2025 | <a href="https://doi.org/10.34989/swp-2026-7" target="_blank">Bank of Canada SWP (2026)</a> | <a href="https://arxiv.org/abs/2411.08188" target="_blank"><em>arXiv (2024)</em></a>
     </div>
-    <details><summary style="cursor: pointer;">Abstract</summary>
+    <details><summary style="cursor: pointer;">Short Abstract</summary>
       <div style="text-align: justify; margin: 6px 0 6px 15px;">
-        The R package MSTest implements hypothesis testing procedures to identify the number of regimes in Markov switching models. These models have wide-ranging applications in economics, finance, and numerous other fields. The MSTest package includes the Monte Carlo likelihood ratio test procedures of Rodriguez-Rondon and Dufour (2024), the moment-based tests of Dufour and Luger (2017), the parameter stability tests of Carrasco, Hu, and Ploberger (2014), and the likelihood ratio test of Hansen (1992). Additionally, the package enables users to simulate and estimate univariate and multivariate Markov switching and hidden Markov processes, using the expectation-maximization (EM) algorithm or maximum likelihood estimation (MLE).
+        MSTest is an R package implementing hypothesis tests for the number of regimes in Markov switching models, including the Monte Carlo likelihood ratio test of Rodriguez-Rondon and Dufour (2024), the moment-based tests of Dufour and Luger (2017), the parameter stability tests of Carrasco, Hu, and Ploberger (2014), and the likelihood ratio test of Hansen (1992). It also simulates and estimates univariate and multivariate Markov switching and hidden Markov processes.
       </div>
     </details>
   </li>
@@ -106,9 +106,9 @@ author_profile: true
     <div style="margin: 4px 0;">
       Revised May 2026 | <a href="https://cran.r-project.org/web/packages/wARMASVp/index.html" target="_blank">CRAN</a> | <a href="https://cran.r-project.org/web/packages/wARMASVp/wARMASVp.pdf" target="_blank">Reference manual</a>
     </div>
-    <details><summary style="cursor: pointer;">Abstract</summary>
+    <details><summary style="cursor: pointer;">Short Abstract</summary>
       <div style="text-align: justify; margin: 6px 0 6px 15px;">
-        We introduce the R package wARMASVp for estimation, simulation, hypothesis testing, AR-order selection, filtering, and forecasting in univariate higher-order stochastic volatility SV(p) models, supporting Gaussian, Student-t, and Generalized Error Distribution (GED) innovations with optional leverage effects. Estimation uses the closed-form Winsorized ARMA-SV (W-ARMA-SV) moment-based method, which avoids numerical optimization and the convergence concerns of MCMC approaches; the package also provides Local and Maximized Monte Carlo tests (for leverage, heavy tails, and AR-order selection) and three filtering methods (a corrected Kalman filter, a Gaussian mixture Kalman filter, and a bootstrap particle filter). We assess finite-sample performance through Monte Carlo simulation and illustrate the package on daily CAD/USD exchange rate data; across languages, it is the first package to combine closed-form SV(p) estimation, exact finite-sample tests, and multi-method filtering with heavy-tailed distributions and leverage effects.
+        wARMASVp is an R package for estimation, testing, filtering, and forecasting in univariate higher-order stochastic volatility SV(p) models with Gaussian, Student-t, or GED innovations and optional leverage. Estimation uses closed-form Winsorized ARMA-SV moment estimators (avoiding numerical optimization), complemented by Local and Maximized Monte Carlo tests and three filtering methods—the first package in any language to combine all three with heavy tails and leverage.
       </div>
     </details>
   </li>
@@ -118,9 +118,9 @@ author_profile: true
     <div style="margin: 4px 0;">
       Revised June 2026
     </div>
-    <details style="margin-bottom: 4px;"><summary style="cursor: pointer;">Abstract</summary>
+    <details style="margin-bottom: 4px;"><summary style="cursor: pointer;">Short Abstract</summary>
       <div style="text-align: justify; margin: 6px 0 6px 15px;">
-        We study the performance of higher-order stochastic volatility [SV(p)] models in forecasting volatility. Using different volatility proxies (squared returns and the realized volatility) of various international indices, we conduct two out-of-sample forecast experiments: (1) we forecast a moderately volatile period after the late-2000s financial crisis; (2) we forecast a highly volatile period, i.e., the core financial crisis. We compare the accuracy of volatility forecasts among SV(p) models, GARCH models, and Heterogeneous Autoregressive models of Realized Volatility (HAR-RV). The results suggest that SV(p) models perform better than other models in most cases.
+        We evaluate higher-order stochastic volatility [SV(p)] models for volatility forecasting, using squared returns and realized volatility for several international indices across both moderately and highly volatile out-of-sample periods. Comparing SV(p) models with GARCH and Heterogeneous Autoregressive Realized Volatility (HAR-RV) models, we find SV(p) models forecast more accurately in most cases.
       </div>
     </details>
     <details><summary style="cursor: pointer;">Presentations</summary>
@@ -135,9 +135,9 @@ author_profile: true
     <div style="margin: 4px 0;">
       Revised June 2026 | <a href="https://doi.org/10.34989/swp-2026-8" target="_blank">Bank of Canada SWP (2026)</a>
     </div>
-    <details><summary style="cursor: pointer;">Abstract</summary>
+    <details><summary style="cursor: pointer;">Short Abstract</summary>
       <div style="text-align: justify; margin: 6px 0 6px 15px;">
-        We extend the closed-form winsorized ARMA estimation procedure for SV(p) models proposed by Ahsan and Dufour (2021) to settings where the errors follow either a Generalized Error Distribution (GED) or a Student-t distribution, allowing for heavier-tailed processes. In addition, we propose simulation-based hypothesis testing procedures to assess normality and the presence of heavy tails.
+        We propose closed-form moment-based W-ARMA estimators for higher-order stochastic volatility SV(p) models with Student-t or GED innovations and leverage, establishing √T-consistency and asymptotic normality and enabling exact Local and Maximized Monte Carlo tests for normality, heavy tails, and leverage. Applied to daily returns on three U.S. equity indices (2000–2025), heavy-tailed SV models with leverage are favored and deliver the best variance forecasts and VaR/ES calibration.
       </div>
     </details>
   </li>
@@ -147,9 +147,9 @@ author_profile: true
     <div style="margin: 4px 0;">
       Revised September 2024 | <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/RodriguezRondon_CounterpartyLiquidityRisk_CEMLA2023_slides.pdf" target="_blank">Slides</a> | Awarded <em>Best Paper on Risk Management</em> at the NFA 2019 Conference
     </div>
-    <details style="margin-bottom: 4px;"><summary style="cursor: pointer;">Abstract</summary>
+    <details style="margin-bottom: 4px;"><summary style="cursor: pointer;">Short Abstract</summary>
       <div style="text-align: justify; margin: 6px 0 6px 15px;">
-        We investigate how banks jointly manage their funding liquidity and counterparty risk in the context of an interbank payments system. Using intra-day data from the Canadian Large Value Transfer System, we show that banks coordinate the issuance of payment orders to jointly manage their liquidity and counterparty risk. Coordination incentives increase with risk exposures and the cost of funding. We conclude that coordination disruptions may increase risk exposures that lead to funding constraints and systemic risk. Therefore, coordination should be considered in policies aimed at enhancing financial stability.
+        We study how banks jointly manage funding liquidity and counterparty risk in an interbank payment system. Using intraday data from the Canadian Large Value Transfer System, we show banks coordinate payment timing to manage both risks, with incentives rising in risk exposures and funding costs. Disruptions to this coordination can amplify systemic risk, so coordination matters for financial-stability policy.
       </div>
     </details>
     <details><summary style="cursor: pointer;">Presentations</summary>
