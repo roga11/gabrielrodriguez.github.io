@@ -45,7 +45,7 @@ author_profile: true
     </div>
     <details style="margin-bottom: 4px;"><summary style="cursor: pointer;">Short Abstract</summary>
       <div style="text-align: justify; margin: 6px 0 6px 15px;">
-        We develop a likelihood ratio test for Markov switching models that is valid in finite samples and robust to the identification problems common in this setting, covering multiple regimes as well as multivariate, non-stationary, and non-Gaussian models. We illustrate it on U.S. GNP growth and on Markov switching VARs for testing the synchronization of business cycles.
+        We develop a likelihood ratio test for Markov switching models that is valid in finite samples and robust to the identification problems common in this setting, covering multiple regimes and multivariate, non-stationary, and non-Gaussian models. We illustrate it on U.S. GNP growth and on Markov switching VARs testing business-cycle synchronization.
       </div>
     </details>
     <details><summary style="cursor: pointer;">Presentations</summary>
@@ -62,7 +62,7 @@ author_profile: true
     </div>
     <details style="margin-bottom: 4px;"><summary style="cursor: pointer;">Short Abstract</summary>
       <div style="text-align: justify; margin: 6px 0 6px 15px;">
-        We introduce a core inflation indicator built from a high-dimensional factor model with multiple regimes, addressing the failure of standard measures to signal underlying inflation when it rose in 2021. Allowing for regime changes yields a simple real-time indicator that reduces historical revisions, improves headline-inflation forecasts, and is robust to transitory and sector-specific shocks.
+        We build a core inflation indicator from a high-dimensional factor model with multiple regimes, addressing the failure of standard measures to signal underlying inflation when it rose in 2021. Allowing for regime changes yields a simple real-time indicator that reduces revisions, improves headline-inflation forecasts, and is robust to transitory and sector-specific shocks.
       </div>
     </details>
     <details><summary style="cursor: pointer;">Presentations</summary>
@@ -79,7 +79,7 @@ author_profile: true
     </div>
     <details><summary style="cursor: pointer;">Short Abstract</summary>
       <div style="text-align: justify; margin: 6px 0 6px 15px;">
-        Any supervised learning algorithm whose predictions are linear in the target variable—regardless of nonlinearities in the features—admits a linear-factor representation, and a small set of these <em>implied factors</em> closely tracks its forecasts. This offers a new, interpretable route to low-dimensional structure in models not built with it in mind: two or three implied factors reproduce out-of-sample ML model forecasts of U.S. GDP, inflation, and unemployment, matching or outperforming PCR, PLS, and scaled-PCA.
+        Any supervised learning algorithm whose predictions are linear in the target variable—regardless of nonlinearities in the features—admits a linear-factor representation, and a small set of these <em>implied factors</em> closely tracks its forecasts. Empirically, two or three implied factors reproduce out-of-sample ML model forecasts of U.S. GDP, inflation, and unemployment, matching or outperforming PCR, PLS, and scaled-PCA.
       </div>
     </details>
     <details><summary style="cursor: pointer;">Presentations</summary>
@@ -96,7 +96,7 @@ author_profile: true
     </div>
     <details><summary style="cursor: pointer;">Short Abstract</summary>
       <div style="text-align: justify; margin: 6px 0 6px 15px;">
-        MSTest is an R package implementing hypothesis tests for the number of regimes in Markov switching models, including the Monte Carlo likelihood ratio test of Rodriguez-Rondon and Dufour (2024), the moment-based tests of Dufour and Luger (2017), the parameter stability tests of Carrasco, Hu, and Ploberger (2014), and the likelihood ratio test of Hansen (1992). It also simulates and estimates univariate and multivariate Markov switching and hidden Markov processes.
+        MSTest is an R package implementing hypothesis tests for the number of regimes in Markov switching models—including Monte Carlo likelihood ratio, moment-based, parameter-stability, and standard likelihood ratio tests—together with tools to simulate and estimate univariate and multivariate Markov switching and hidden Markov processes.
       </div>
     </details>
   </li>
@@ -108,7 +108,7 @@ author_profile: true
     </div>
     <details><summary style="cursor: pointer;">Short Abstract</summary>
       <div style="text-align: justify; margin: 6px 0 6px 15px;">
-        wARMASVp is an R package for estimation, testing, filtering, and forecasting in univariate higher-order stochastic volatility SV(p) models with Gaussian, Student-t, or GED innovations and optional leverage. Estimation uses closed-form Winsorized ARMA-SV moment estimators (avoiding numerical optimization), complemented by Local and Maximized Monte Carlo tests and three filtering methods—the first package in any language to combine all three with heavy tails and leverage.
+        wARMASVp is an R package for estimation, testing, filtering, and forecasting in univariate higher-order stochastic volatility SV(p) models with Gaussian, Student-t, or GED innovations and optional leverage. Estimation uses closed-form Winsorized ARMA-SV moment estimators (no numerical optimization), with Local and Maximized Monte Carlo tests and three filters—the first such package in any language with heavy tails and leverage.
       </div>
     </details>
   </li>
@@ -137,7 +137,7 @@ author_profile: true
     </div>
     <details><summary style="cursor: pointer;">Short Abstract</summary>
       <div style="text-align: justify; margin: 6px 0 6px 15px;">
-        We propose closed-form moment-based W-ARMA estimators for higher-order stochastic volatility SV(p) models with Student-t or GED innovations and leverage, establishing √T-consistency and asymptotic normality and enabling exact Local and Maximized Monte Carlo tests for normality, heavy tails, and leverage. Applied to daily returns on three U.S. equity indices (2000–2025), heavy-tailed SV models with leverage are favored and deliver the best variance forecasts and VaR/ES calibration.
+        We propose closed-form moment-based W-ARMA estimators for higher-order stochastic volatility SV(p) models with Student-t or GED innovations and leverage, with √T-consistency, asymptotic normality, and exact Monte Carlo tests for normality, heavy tails, and leverage. Applied to three U.S. equity indices (2000–2025), heavy-tailed SV with leverage is favored and gives the best variance forecasts and VaR/ES calibration.
       </div>
     </details>
   </li>
@@ -149,7 +149,7 @@ author_profile: true
     </div>
     <details style="margin-bottom: 4px;"><summary style="cursor: pointer;">Short Abstract</summary>
       <div style="text-align: justify; margin: 6px 0 6px 15px;">
-        We study how banks jointly manage funding liquidity and counterparty risk in an interbank payment system. Using intraday data from the Canadian Large Value Transfer System, we show banks coordinate payment timing to manage both risks, with incentives rising in risk exposures and funding costs. Disruptions to this coordination can amplify systemic risk, so coordination matters for financial-stability policy.
+        We study how banks jointly manage funding liquidity and counterparty risk in an interbank payment system. Using intraday data from the Canadian Large Value Transfer System, we show banks coordinate payment timing to manage both risks, with incentives rising in risk exposures and funding costs—and disruptions to this coordination can amplify systemic risk.
       </div>
     </details>
     <details><summary style="cursor: pointer;">Presentations</summary>
