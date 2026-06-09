@@ -50,7 +50,7 @@ author_profile: true
     </details>
     <details><summary style="cursor: pointer;">Presentations</summary>
       <div style="margin: 6px 0 6px 15px;">
-        CIREQ-McGill Seminar, 76th European meeting of the Econometric Society, New York Camp Econometrics XVIII, Carleton University Brown Bag Seminar, NBER-NSF Time Series Conference, IAAE 2023 Annual Conference, Boston University Econometrics Seminar, 16th International Conference on Computational and Financial Econometrics, Latin American Meeting of the Econometric Society, Joint Statistical Meetings of the American Statistical Association, 56th Annual (2022) Meetings of the Canadian Economics Association
+        Econometric Society World Congress, CIREQ Econometrics Conference: Recent Developments in Identification and Inference, Universidad del Rosario Seminar, CIREQ-McGill Seminar, 76th European meeting of the Econometric Society, New York Camp Econometrics XVIII, Carleton University Brown Bag Seminar, NBER-NSF Time Series Conference, IAAE 2023 Annual Conference, Boston University Econometrics Seminar, 16th International Conference on Computational and Financial Econometrics, Latin American Meeting of the Econometric Society, Joint Statistical Meetings of the American Statistical Association, 17th CIREQ Ph.D. Students' Conference, 56th Annual (2022) Meetings of the Canadian Economics Association
       </div>
     </details>
   </li>
@@ -67,7 +67,7 @@ author_profile: true
     </details>
     <details><summary style="cursor: pointer;">Presentations</summary>
       <div style="margin: 6px 0 6px 15px;">
-        Bank of Canada Conference on Real-Time Data Analysis, Methods and Applications in Macroeconomics and Finance, IAAE 2024 Annual Conference, Bank of Canada Brown Bag Seminar, 57th Annual (2023) Meetings of the Canadian Economics Association
+        New York Camp Econometrics XIX, Bank of Canada Conference on Real-Time Data Analysis, Methods and Applications in Macroeconomics and Finance, IAAE 2024 Annual Conference, Bank of Canada Brown Bag Seminar, 57th Annual (2023) Meetings of the Canadian Economics Association
       </div>
     </details>
   </li>
