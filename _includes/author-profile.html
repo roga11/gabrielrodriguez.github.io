@@ -43,6 +43,9 @@
       {% if author.orcid %}
         <li><a href="{{ author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i> ORCID</a></li>
       {% endif %}
+      {% if author.repec %}
+        <li><a href="{{ author.repec }}"><i class="fas fa-database" aria-hidden="true"></i> RePEc/IDEAS</a></li>
+      {% endif %}
       {% if author.github %}
         <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-github" aria-hidden="true"></i> Github</a></li>
       {% endif %}
