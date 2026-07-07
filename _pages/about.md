@@ -19,6 +19,8 @@ You can find my [CV here](https://roga11.github.io/gabrielrodriguez.github.io/fi
 <br />
 ## News:
 <ul>
+  <li> "Monte Carlo Likelihood Ratio Tests for Markov Switching Models" has been released as a Bank of Canada Staff Working Paper (<a href="https://www.bankofcanada.ca/2026/07/staff-working-paper-2026-23/">swp-2026-23</a>).
+  </li>
   <li> "MSTest" has been released as a Bank of Canada Staff Working Paper (<a href="https://doi.org/10.34989/swp-2026-7">swp-2026-7</a>).
   </li>
   <li> "Estimation and inference for stochastic volatility models with leverage and heavy-tailed distributions" has been released as a Bank of Canada Staff Working Paper (<a href="https://doi.org/10.34989/swp-2026-8">swp-2026-8</a>).

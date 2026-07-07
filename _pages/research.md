@@ -41,7 +41,7 @@ author_profile: true
   <li style="margin-bottom: 18px;">
     <a href="https://www.bankofcanada.ca/2026/07/staff-working-paper-2026-23/" target="_blank"><em><b>Monte Carlo Likelihood Ratio Tests for Markov Switching Models</b></em></a>, with Jean-Marie Dufour
     <div style="margin: 4px 0;">
-      Revised July 2026 | <a href="https://www.bankofcanada.ca/2026/07/staff-working-paper-2026-23/" target="_blank">Bank of Canada SWP (2026)</a> | <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/GRodriguezRondon_ESWC2025.pdf" target="_blank">Slides</a>
+      Revised February 2026 | <a href="https://www.bankofcanada.ca/2026/07/staff-working-paper-2026-23/" target="_blank">BoC SWP</a> | <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/GRodriguezRondon_ESWC2025.pdf" target="_blank">Slides</a>
     </div>
     <details style="margin-bottom: 4px;"><summary style="cursor: pointer;">Short Abstract</summary>
       <div style="text-align: justify; margin: 6px 0 6px 15px;">
@@ -92,7 +92,7 @@ author_profile: true
   <li style="margin-bottom: 18px;">
     <a href="https://doi.org/10.34989/swp-2026-7" target="_blank"><em><b>MSTest: An R-package for Testing Markov-Switching Models</b></em></a>, with Jean-Marie Dufour
     <div style="margin: 4px 0;">
-      Revised December 2025 | <a href="https://doi.org/10.34989/swp-2026-7" target="_blank">Bank of Canada SWP (2026)</a> | <a href="https://arxiv.org/abs/2411.08188" target="_blank"><em>arXiv (2024)</em></a>
+      Revised December 2025 | <a href="https://doi.org/10.34989/swp-2026-7" target="_blank">BoC SWP</a> | <a href="https://arxiv.org/abs/2411.08188" target="_blank"><em>arXiv (2024)</em></a>
     </div>
     <details><summary style="cursor: pointer;">Short Abstract</summary>
       <div style="text-align: justify; margin: 6px 0 6px 15px;">
@@ -133,7 +133,7 @@ author_profile: true
   <li style="margin-bottom: 18px;">
     <a href="https://doi.org/10.34989/swp-2026-8" target="_blank"><em><b>Estimation and inference for stochastic volatility models with leverage and heavy-tailed distributions</b></em></a>, with Jean-Marie Dufour & Md. Nazmul Ahsan
     <div style="margin: 4px 0;">
-      Revised June 2026 | <a href="https://doi.org/10.34989/swp-2026-8" target="_blank">Bank of Canada SWP (2026)</a>
+      Revised June 2026 | <a href="https://doi.org/10.34989/swp-2026-8" target="_blank">BoC SWP</a>
     </div>
     <details><summary style="cursor: pointer;">Short Abstract</summary>
       <div style="text-align: justify; margin: 6px 0 6px 15px;">
