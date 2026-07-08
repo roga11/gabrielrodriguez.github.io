@@ -39,9 +39,9 @@ author_profile: true
 ## Working Papers
 <ol start=4>
   <li style="margin-bottom: 18px;">
-    <a href="https://www.bankofcanada.ca/2026/07/staff-working-paper-2026-23/" target="_blank"><em><b>Monte Carlo Likelihood Ratio Tests for Markov Switching Models</b></em></a>, with Jean-Marie Dufour
+    <a href="https://doi.org/10.34989/swp-2026-23" target="_blank"><em><b>Monte Carlo Likelihood Ratio Tests for Markov Switching Models</b></em></a>, with Jean-Marie Dufour
     <div style="margin: 4px 0;">
-      Revised February 2026 | <a href="https://www.bankofcanada.ca/2026/07/staff-working-paper-2026-23/" target="_blank">BoC SWP</a> | <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/GRodriguezRondon_ESWC2025.pdf" target="_blank">Slides</a>
+      Revised February 2026 | <a href="https://doi.org/10.34989/swp-2026-23" target="_blank">BoC SWP</a> | <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/GRodriguezRondon_ESWC2025.pdf" target="_blank">Slides</a>
     </div>
     <details style="margin-bottom: 4px;"><summary style="cursor: pointer;">Short Abstract</summary>
       <div style="text-align: justify; margin: 6px 0 6px 15px;">
