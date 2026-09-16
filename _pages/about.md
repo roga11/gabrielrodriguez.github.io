@@ -13,15 +13,15 @@ I am a Senior Economist at the Bank of Canada.
 My research interests are in Econometrics, Macroeconomics and Monetary Economics, Finance, and Machine Learning. 
 <br />
 <br />
-You can find my [CV here](https://roga11.github.io/gabrielrodriguez.github.io/files/GRodriguezRondon_CV_20260608.pdf). 
+You can find my [CV here](https://roga11.github.io/gabrielrodriguez.github.io/files/GRodriguezRondon_CV.pdf). 
 <br />
 <br />
 <br />
 ## News:
 <ul>
-  <li> "Monte Carlo Likelihood Ratio Tests for Markov Switching Models" has been released as a Bank of Canada Staff Working Paper (<a href="https://doi.org/10.34989/swp-2026-23">swp-2026-23</a>).
+  <li> "MSTest: An R Package for Testing Markov Switching Models" has been published in <a href="https://doi.org/10.32614/RJ-2026-044">The R Journal</a>.
   </li>
-  <li> "MSTest" has been released as a Bank of Canada Staff Working Paper (<a href="https://doi.org/10.34989/swp-2026-7">swp-2026-7</a>).
+  <li> "Monte Carlo Likelihood Ratio Tests for Markov Switching Models" has been released as a Bank of Canada Staff Working Paper (<a href="https://doi.org/10.34989/swp-2026-23">swp-2026-23</a>).
   </li>
   <li> "Estimation and inference for stochastic volatility models with leverage and heavy-tailed distributions" has been released as a Bank of Canada Staff Working Paper (<a href="https://doi.org/10.34989/swp-2026-8">swp-2026-8</a>).
   </li>
@@ -31,8 +31,11 @@ You can find my [CV here](https://roga11.github.io/gabrielrodriguez.github.io/fi
 
 ## Recent & upcoming presentations this year:
 <ul>
+  <li>Latin American Meeting of the Econometric Society (LAMES) (Lima, Peru)
+    <div style="margin-left: 5px;"> November 12-14, 2026 (upcoming) </div>
+  </li>
   <li>BSE Summer Forum: Workshop on AI and Machine Learning in Economics (Barcelona, Spain)
-    <div style="margin-left: 5px;"> June 11, 2026 (upcoming) </div>
+    <div style="margin-left: 5px;"> June 11, 2026 </div>
   </li>
   <li>ECONDAT 2026 Spring Meeting, Bank of France (Paris, France)
     <div style="margin-left: 5px;"> June 5, 2026 </div>

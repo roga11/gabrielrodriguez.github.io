@@ -12,7 +12,7 @@ with Jean-Marie Dufour & Md. Nazmul Ahsan
 
 **[MSTest](https://cran.r-project.org/web/packages/MSTest/index.html) - _R package_**  
 with Jean-Marie Dufour
->This package implements hypothesis testing procedures that can be used to identify the number of regimes in a Markov-Switching model. It includes the methods proposed in Hansen (1992), Carrasco et al. (2014), Dufour & Luger (2017), and Rodriguez-Rondon & Dufour (2024). 
+>This package implements hypothesis testing procedures that can be used to identify the number of regimes in a Markov-Switching model. It includes the methods proposed in Hansen (1992), Carrasco et al. (2014), Dufour & Luger (2017), and <a href="https://doi.org/10.32614/RJ-2026-044">Rodriguez-Rondon & Dufour (2026)</a>. 
 
 **[mbreaks v2.0](https://github.com/roga11/mbreaks) - _R package_**  
 with Linh Nguyen, Pierre Perron, & Yohei Yamamoto

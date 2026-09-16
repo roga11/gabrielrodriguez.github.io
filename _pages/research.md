@@ -8,6 +8,18 @@ author_profile: true
 ## Refereed Publications
 <ol start=1>
   <li style="margin-bottom: 18px;">
+    <a href="https://doi.org/10.32614/RJ-2026-044" target="_blank"><em><b>MSTest: An R Package for Testing Markov Switching Models</b></em></a>, with Jean-Marie Dufour, <b><em>The R Journal</em></b>, vol. 18, no. 3: 217–239.
+    <div style="margin: 4px 0;">
+      <a href="https://doi.org/10.34989/swp-2026-7" target="_blank">BoC SWP</a>
+    </div>
+    <details><summary style="cursor: pointer;">Short Abstract</summary>
+      <div style="text-align: justify; margin: 6px 0 6px 15px;">
+        MSTest is an R package implementing hypothesis tests for the number of regimes in Markov switching models—including Monte Carlo likelihood ratio, moment-based, parameter-stability, and standard likelihood ratio tests—together with tools to simulate and estimate univariate and multivariate Markov switching and hidden Markov processes.
+      </div>
+    </details>
+  </li>
+
+  <li style="margin-bottom: 18px;">
     <a href="https://doi.org/10.1111/jtsa.12851" target="_blank"><em><b>Estimation and inference for higher-order stochastic volatility models with leverage</b></em></a>, with Jean-Marie Dufour & Md. Nazmul Ahsan, <b><em>Journal of Time Series Analysis</em></b>, vol. 46, no. 6: 1064–1084.
     <div style="margin: 4px 0;">
       <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/GRR_NASMES_2024_%20Estimation_and_inference_for_higher_order_stochastic_volatility_models_with_leverage.pdf" target="_blank">Slides</a>
@@ -26,7 +38,7 @@ author_profile: true
 </ol>
 
 ## Conference Proceedings
-<ol start=2>
+<ol start=3>
   <li style="margin-bottom: 18px;">
     <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/RodriguezRondon_Dufour_2023_JSM_Proceedings.pdf" target="_blank"><em><b>Simulation-Based Inference for the Synchronization of Business Cycles</b></em></a>, with Jean-Marie Dufour, <em>JSM Proceedings, Business and Economic Statistics Section. Toronto, ON: American Statistical Association</em>, December 2023.
   </li>
@@ -37,7 +49,7 @@ author_profile: true
 </ol>
 
 ## Working Papers
-<ol start=4>
+<ol start=5>
   <li style="margin-bottom: 18px;">
     <a href="https://doi.org/10.34989/swp-2026-23" target="_blank"><em><b>Monte Carlo Likelihood Ratio Tests for Markov Switching Models</b></em></a>, with Jean-Marie Dufour
     <div style="margin: 4px 0;">
@@ -85,18 +97,6 @@ author_profile: true
     <details><summary style="cursor: pointer;">Presentations</summary>
       <div style="margin: 6px 0 6px 15px;">
         BSE Summer Forum: Workshop on AI and Machine Learning in Economics, ECONDAT 2026 Spring Meeting (Bank of France), 60th Annual (2026) Meetings of the Canadian Economics Association, Bank of Canada Fellowship Learning Exchange
-      </div>
-    </details>
-  </li>
-
-  <li style="margin-bottom: 18px;">
-    <a href="https://doi.org/10.34989/swp-2026-7" target="_blank"><em><b>MSTest: An R-package for Testing Markov-Switching Models</b></em></a>, with Jean-Marie Dufour
-    <div style="margin: 4px 0;">
-      Revised December 2025 | <a href="https://doi.org/10.34989/swp-2026-7" target="_blank">BoC SWP</a> | <a href="https://arxiv.org/abs/2411.08188" target="_blank"><em>arXiv (2024)</em></a>
-    </div>
-    <details><summary style="cursor: pointer;">Short Abstract</summary>
-      <div style="text-align: justify; margin: 6px 0 6px 15px;">
-        MSTest is an R package implementing hypothesis tests for the number of regimes in Markov switching models—including Monte Carlo likelihood ratio, moment-based, parameter-stability, and standard likelihood ratio tests—together with tools to simulate and estimate univariate and multivariate Markov switching and hidden Markov processes.
       </div>
     </details>
   </li>
