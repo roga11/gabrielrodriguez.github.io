@@ -37,19 +37,8 @@ author_profile: true
   </li>
 </ol>
 
-## Conference Proceedings
-<ol start=3>
-  <li style="margin-bottom: 18px;">
-    <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/RodriguezRondon_Dufour_2023_JSM_Proceedings.pdf" target="_blank"><em><b>Simulation-Based Inference for the Synchronization of Business Cycles</b></em></a>, with Jean-Marie Dufour, <em>JSM Proceedings, Business and Economic Statistics Section. Toronto, ON: American Statistical Association</em>, December 2023.
-  </li>
-
-  <li style="margin-bottom: 18px;">
-    <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/RodriguezRondon_Dufour_2022_Simulation-BasedInferenceMarkovSwitchingModels_JSM_Proceedings.pdf" target="_blank"><em><b>Simulation-Based Inference for Markov Switching Models</b></em></a>, with Jean-Marie Dufour, <em>JSM Proceedings, Business and Economic Statistics Section. Washington, D.C.: American Statistical Association</em>, December 2022.
-  </li>
-</ol>
-
 ## Working Papers
-<ol start=5>
+<ol start=3>
   <li style="margin-bottom: 18px;">
     <a href="https://doi.org/10.34989/swp-2026-23" target="_blank"><em><b>Monte Carlo Likelihood Ratio Tests for Markov Switching Models</b></em></a>, with Jean-Marie Dufour
     <div style="margin: 4px 0;">
@@ -157,6 +146,17 @@ author_profile: true
         II Regional Conference on Payments and Financial Market Infrastructures, Banco de la República de Colombia & CEMLA, Payments Canada & Bank of Canada Research Symposium, 51st Annual (2017) Meetings of the Canadian Economics Association
       </div>
     </details>
+  </li>
+</ol>
+
+## Conference Proceedings
+<ol start=10>
+  <li style="margin-bottom: 18px;">
+    <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/RodriguezRondon_Dufour_2023_JSM_Proceedings.pdf" target="_blank"><em><b>Simulation-Based Inference for the Synchronization of Business Cycles</b></em></a>, with Jean-Marie Dufour, <em>JSM Proceedings, Business and Economic Statistics Section. Toronto, ON: American Statistical Association</em>, December 2023.
+  </li>
+
+  <li style="margin-bottom: 18px;">
+    <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/RodriguezRondon_Dufour_2022_Simulation-BasedInferenceMarkovSwitchingModels_JSM_Proceedings.pdf" target="_blank"><em><b>Simulation-Based Inference for Markov Switching Models</b></em></a>, with Jean-Marie Dufour, <em>JSM Proceedings, Business and Economic Statistics Section. Washington, D.C.: American Statistical Association</em>, December 2022.
   </li>
 </ol>
 
