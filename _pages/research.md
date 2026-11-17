@@ -51,7 +51,7 @@ author_profile: true
     </details>
     <details><summary style="cursor: pointer;">Presentations</summary>
       <div style="margin: 6px 0 6px 15px;">
-        Econometric Society World Congress, CIREQ Econometrics Conference: Recent Developments in Identification and Inference, Universidad del Rosario Seminar, Bank of Canada Seminar, University of Glasgow Adam Smith Business School Seminar, Wilfrid Laurier University Lazaridis School of Business and Economics Seminar, Western University Department of Economics Seminar, CIREQ-McGill Seminar, 76th European meeting of the Econometric Society, New York Camp Econometrics XVIII, Carleton University Brown Bag Seminar, NBER-NSF Time Series Conference, IAAE 2023 Annual Conference, Boston University Econometrics Seminar, 16th International Conference on Computational and Financial Econometrics, Latin American Meeting of the Econometric Society, Joint Statistical Meetings of the American Statistical Association, 17th CIREQ Ph.D. Students' Conference, 56th Annual (2022) Meetings of the Canadian Economics Association
+        Econometric Society World Congress, CIREQ Econometrics Conference: Recent Developments in Identification and Inference, Universidad del Rosario Seminar, Bank of Canada Seminar, University of Glasgow Adam Smith Business School Seminar, Wilfrid Laurier University Lazaridis School of Business and Economics Seminar, Western University Department of Economics Seminar, CIREQ-McGill Seminar, 76th European Meeting of the Econometric Society, New York Camp Econometrics XVIII, Carleton University Brown Bag Seminar, NBER-NSF Time Series Conference, IAAE 2023 Annual Conference, Boston University Econometrics Seminar, 16th International Conference on Computational and Financial Econometrics, Latin American Meeting of the Econometric Society, Joint Statistical Meetings of the American Statistical Association, 17th CIREQ Ph.D. Students' Conference, 56th Annual (2022) Meetings of the Canadian Economics Association
       </div>
     </details>
   </li>
@@ -85,7 +85,7 @@ author_profile: true
     </details>
     <details><summary style="cursor: pointer;">Presentations</summary>
       <div style="margin: 6px 0 6px 15px;">
-        BSE Summer Forum: Workshop on AI and Machine Learning in Economics, ECONDAT 2026 Spring Meeting (Bank of France), 60th Annual (2026) Meetings of the Canadian Economics Association, Bank of Canada Fellowship Learning Exchange
+        BSE Summer Forum Workshop on AI and Machine Learning in Economics, ECONDAT 2026 Spring Meeting (Bank of France), 60th Annual (2026) Meetings of the Canadian Economics Association, Bank of Canada Fellowship Learning Exchange
       </div>
     </details>
   </li>
@@ -168,11 +168,11 @@ author_profile: true
 ## Conference Proceedings
 <ol start=12>
   <li style="margin-bottom: 18px;">
-    <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/RodriguezRondon_Dufour_2023_JSM_Proceedings.pdf" target="_blank"><em><b>Simulation-Based Inference for the Synchronization of Business Cycles</b></em></a>, with Jean-Marie Dufour, <em>JSM Proceedings, Business and Economic Statistics Section. Toronto, ON: American Statistical Association</em>, 2023.
+    <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/RodriguezRondon_Dufour_2023_JSM_Proceedings.pdf" target="_blank"><em><b>Simulation-Based Inference for the Synchronization of Business Cycles</b></em></a>, with Jean-Marie Dufour, <em>JSM Proceedings, Business and Economic Statistics Section</em>. Alexandria, VA: American Statistical Association, 2023.
   </li>
 
   <li style="margin-bottom: 18px;">
-    <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/RodriguezRondon_Dufour_2022_Simulation-BasedInferenceMarkovSwitchingModels_JSM_Proceedings.pdf" target="_blank"><em><b>Simulation-Based Inference for Markov Switching Models</b></em></a>, with Jean-Marie Dufour, <em>JSM Proceedings, Business and Economic Statistics Section. Washington, D.C.: American Statistical Association</em>, 2022: 275–289.
+    <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/RodriguezRondon_Dufour_2022_Simulation-BasedInferenceMarkovSwitchingModels_JSM_Proceedings.pdf" target="_blank"><em><b>Simulation-Based Inference for Markov Switching Models</b></em></a>, with Jean-Marie Dufour, <em>JSM Proceedings, Business and Economic Statistics Section</em>. Alexandria, VA: American Statistical Association, 2022: 275–289.
   </li>
 </ol>
 

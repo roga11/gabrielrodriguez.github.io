@@ -34,7 +34,7 @@ You can find my [CV here](https://roga11.github.io/gabrielrodriguez.github.io/fi
   <li>Latin American Meeting of the Econometric Society (LAMES) (Lima, Peru)
     <div style="margin-left: 5px;"> November 14, 2026 </div>
   </li>
-  <li>BSE Summer Forum: Workshop on AI and Machine Learning in Economics (Barcelona, Spain)
+  <li>BSE Summer Forum Workshop on AI and Machine Learning in Economics (Barcelona, Spain)
     <div style="margin-left: 5px;"> June 11, 2026 </div>
   </li>
   <li>ECONDAT 2026 Spring Meeting, Bank of France (Paris, France)
