@@ -23,7 +23,7 @@ You can find my [CV here](https://roga11.github.io/gabrielrodriguez.github.io/fi
   </li>
   <li> "Monte Carlo Likelihood Ratio Tests for Markov Switching Models" has been released as a Bank of Canada Staff Working Paper (<a href="https://doi.org/10.34989/swp-2026-23">swp-2026-23</a>).
   </li>
-  <li> "Estimation and inference for stochastic volatility models with leverage and heavy-tailed distributions" has been released as a Bank of Canada Staff Working Paper (<a href="https://doi.org/10.34989/swp-2026-8">swp-2026-8</a>).
+  <li> "Estimation and Inference for Stochastic Volatility Models with Leverage and Heavy-Tailed Distributions" has been released as a Bank of Canada Staff Working Paper (<a href="https://doi.org/10.34989/swp-2026-8">swp-2026-8</a>).
   </li>
   <li> "wARMASVp" is now available on <a href="https://cran.r-project.org/web/packages/wARMASVp/index.html">CRAN</a> (<a href="https://cran.r-project.org/web/packages/wARMASVp/wARMASVp.pdf">reference manual</a>).
   </li>

@@ -7,13 +7,13 @@ author_profile: true
 ---
 ## Instructor
 <ul>
-  <li style="margin-bottom: 10px;">Time Series Econometrics (MSc.) 
-    <div style="margin-left: 5px;"> <em><b>HEC Montréal</b></em> | Winter 2026 and 2027 (Scheduled) | Taught in French and English | <a href="https://www.hec.ca/en/courses/detail/?cours=MATH60837A" target="_blank">Course Detail</a> 
+  <li style="margin-bottom: 10px;">Time Series Econometrics (M.Sc.) 
+    <div style="margin-left: 5px;"> <em><b>HEC Montréal</b></em> | Winter 2026 and 2027 (Scheduled) | Taught in French and English | <a href="https://www.hec.ca/en/courses/math-60837a-time-series-econometrics" target="_blank">Course Detail</a> 
     </div>
   </li>
   
-  <li style="margin-bottom: 10px;">Financial Econometrics (MSc.) 
-    <div style="margin-left: 5px;"> <em><b>HEC Montréal</b></em> | Winter 2025 | Taught in French | <a href="https://www.hec.ca/en/courses/detail/?cours=MATH60210A" target="_blank">Course Detail</a> 
+  <li style="margin-bottom: 10px;">Financial Econometrics (M.Sc.) 
+    <div style="margin-left: 5px;"> <em><b>HEC Montréal</b></em> | Winter 2025 | Taught in French 
     </div>
   </li>
   
@@ -24,7 +24,7 @@ author_profile: true
 </ul>
 
 
-## Teaching Assistant - HEC Montreal
+## Teaching Assistant - HEC Montréal
 <ul>
   <li>Empirical Methods In Monetary Economics & Finance (Ph.D.)
     <div style="margin-left: 5px;"> Winter 2024 & Winter 2025 </div>
@@ -33,6 +33,9 @@ author_profile: true
 
 ## Teaching Assistant - McGill University
 <ul>
+  <li>Public Sector Economics 2 (ECON 409)
+    <div style="margin-left: 5px;"> Winter 2025 </div>
+  </li>
   <li>Econometrics I (B.A. Honours)
     <div style="margin-left: 5px;"> Fall 2024 </div>
   </li>

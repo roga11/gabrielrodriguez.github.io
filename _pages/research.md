@@ -8,7 +8,7 @@ author_profile: true
 ## Refereed Publications
 <ol start=1>
   <li style="margin-bottom: 18px;">
-    <a href="https://doi.org/10.32614/RJ-2026-044" target="_blank"><em><b>MSTest: An R Package for Testing Markov Switching Models</b></em></a>, with Jean-Marie Dufour, <b><em>The R Journal</em></b>, vol. 18, no. 3: 217–239.
+    <a href="https://doi.org/10.32614/RJ-2026-044" target="_blank"><em><b>MSTest: An R Package for Testing Markov Switching Models</b></em></a>, with Jean-Marie Dufour, <b><em>The R Journal</em></b>, 2026, vol. 18, no. 3: 217–239.
     <div style="margin: 4px 0;">
       <a href="https://doi.org/10.34989/swp-2026-7" target="_blank">BoC SWP</a>
     </div>
@@ -20,7 +20,7 @@ author_profile: true
   </li>
 
   <li style="margin-bottom: 18px;">
-    <a href="https://doi.org/10.1111/jtsa.12851" target="_blank"><em><b>Estimation and inference for higher-order stochastic volatility models with leverage</b></em></a>, with Jean-Marie Dufour & Md. Nazmul Ahsan, <b><em>Journal of Time Series Analysis</em></b>, vol. 46, no. 6: 1064–1084.
+    <a href="https://doi.org/10.1111/jtsa.12851" target="_blank"><em><b>Estimation and Inference for Higher-Order Stochastic Volatility Models with Leverage</b></em></a>, with Jean-Marie Dufour & Md. Nazmul Ahsan, <b><em>Journal of Time Series Analysis</em></b>, 2025, vol. 46, no. 6: 1064–1084.
     <div style="margin: 4px 0;">
       <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/GRR_NASMES_2024_%20Estimation_and_inference_for_higher_order_stochastic_volatility_models_with_leverage.pdf" target="_blank">Slides</a>
     </div>
@@ -57,7 +57,7 @@ author_profile: true
   </li>
 
   <li style="margin-bottom: 18px;">
-    <a href="https://doi.org/10.34989/swp-2026-8" target="_blank"><em><b>Estimation and inference for stochastic volatility models with leverage and heavy-tailed distributions</b></em></a>, with Jean-Marie Dufour & Md. Nazmul Ahsan
+    <a href="https://doi.org/10.34989/swp-2026-8" target="_blank"><em><b>Estimation and Inference for Stochastic Volatility Models with Leverage and Heavy-Tailed Distributions</b></em></a>, with Jean-Marie Dufour & Md. Nazmul Ahsan
     <div style="margin: 4px 0;">
       Revised June 2026 | <a href="https://doi.org/10.34989/swp-2026-8" target="_blank">BoC SWP</a>
     </div>
@@ -76,7 +76,7 @@ author_profile: true
   <li style="margin-bottom: 18px;">
     <em><b>Implied Factors: The Linear Skeleton of Machine Learning Forecasts</b></em>, with Philippe Goulet Coulombe & Karin Klieber
     <div style="margin: 4px 0;">
-      Draft and slides coming soon
+      Revised October 2026
     </div>
     <details><summary style="cursor: pointer;">Short Abstract</summary>
       <div style="text-align: justify; margin: 6px 0 6px 15px;">
@@ -157,22 +157,22 @@ author_profile: true
 ## Policy & Technical Notes
 <ol start=10>
   <li style="margin-bottom: 18px;">
-    <a href="https://cirano.qc.ca/en/summaries/2025RP-19" target="_blank"><em><b>Practical estimation of high-dimensional stochastic volatility models with application to macroeconomic uncertainty in Québec and Canada</b></em></a>, with Jean-Marie Dufour & Md. Nazmul Ahsan, <em>CIRANO</em>, September 2025.
+    <a href="https://cirano.qc.ca/en/summaries/2025RP-19" target="_blank"><em><b>Practical Estimation of High-Dimensional Stochastic Volatility Models with Application to Macroeconomic Uncertainty in Québec and Canada</b></em></a>, with Jean-Marie Dufour & Md. Nazmul Ahsan, <em>CIRANO Project Report</em>, 2025, no. 2025RP-19.
   </li>
 
   <li style="margin-bottom: 18px;">
-    <a href="https://www.bankofcanada.ca/wp-content/uploads/2018/02/tr112.pdf" target="_blank"><em><b>The Government of Canada Debt Securities Dataset</b></em></a>, with Jeffrey Gao & Francisco Rivadeneyra, <em>Bank of Canada, Technical Report No. 112</em>, February 2018.
+    <a href="https://www.bankofcanada.ca/wp-content/uploads/2018/02/tr112.pdf" target="_blank"><em><b>The Government of Canada Debt Securities Dataset</b></em></a>, with Jeffrey Gao & Francisco Rivadeneyra, <em>Bank of Canada Technical Report</em>, 2018, no. 112.
   </li>
 </ol>
 
 ## Conference Proceedings
 <ol start=12>
   <li style="margin-bottom: 18px;">
-    <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/RodriguezRondon_Dufour_2023_JSM_Proceedings.pdf" target="_blank"><em><b>Simulation-Based Inference for the Synchronization of Business Cycles</b></em></a>, with Jean-Marie Dufour, <em>JSM Proceedings, Business and Economic Statistics Section. Toronto, ON: American Statistical Association</em>, December 2023.
+    <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/RodriguezRondon_Dufour_2023_JSM_Proceedings.pdf" target="_blank"><em><b>Simulation-Based Inference for the Synchronization of Business Cycles</b></em></a>, with Jean-Marie Dufour, <em>JSM Proceedings, Business and Economic Statistics Section. Toronto, ON: American Statistical Association</em>, 2023.
   </li>
 
   <li style="margin-bottom: 18px;">
-    <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/RodriguezRondon_Dufour_2022_Simulation-BasedInferenceMarkovSwitchingModels_JSM_Proceedings.pdf" target="_blank"><em><b>Simulation-Based Inference for Markov Switching Models</b></em></a>, with Jean-Marie Dufour, <em>JSM Proceedings, Business and Economic Statistics Section. Washington, D.C.: American Statistical Association</em>, December 2022.
+    <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/RodriguezRondon_Dufour_2022_Simulation-BasedInferenceMarkovSwitchingModels_JSM_Proceedings.pdf" target="_blank"><em><b>Simulation-Based Inference for Markov Switching Models</b></em></a>, with Jean-Marie Dufour, <em>JSM Proceedings, Business and Economic Statistics Section. Washington, D.C.: American Statistical Association</em>, 2022: 275–289.
   </li>
 </ol>
 
