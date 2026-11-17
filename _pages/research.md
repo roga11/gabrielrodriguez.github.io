@@ -51,24 +51,24 @@ author_profile: true
     </details>
     <details><summary style="cursor: pointer;">Presentations</summary>
       <div style="margin: 6px 0 6px 15px;">
-        Econometric Society World Congress, CIREQ Econometrics Conference: Recent Developments in Identification and Inference, Universidad del Rosario Seminar, CIREQ-McGill Seminar, 76th European meeting of the Econometric Society, New York Camp Econometrics XVIII, Carleton University Brown Bag Seminar, NBER-NSF Time Series Conference, IAAE 2023 Annual Conference, Boston University Econometrics Seminar, 16th International Conference on Computational and Financial Econometrics, Latin American Meeting of the Econometric Society, Joint Statistical Meetings of the American Statistical Association, 17th CIREQ Ph.D. Students' Conference, 56th Annual (2022) Meetings of the Canadian Economics Association
+        Econometric Society World Congress, CIREQ Econometrics Conference: Recent Developments in Identification and Inference, Universidad del Rosario Seminar, Bank of Canada Seminar, University of Glasgow Adam Smith Business School Seminar, Wilfrid Laurier University Lazaridis School of Business and Economics Seminar, Western University Department of Economics Seminar, CIREQ-McGill Seminar, 76th European meeting of the Econometric Society, New York Camp Econometrics XVIII, Carleton University Brown Bag Seminar, NBER-NSF Time Series Conference, IAAE 2023 Annual Conference, Boston University Econometrics Seminar, 16th International Conference on Computational and Financial Econometrics, Latin American Meeting of the Econometric Society, Joint Statistical Meetings of the American Statistical Association, 17th CIREQ Ph.D. Students' Conference, 56th Annual (2022) Meetings of the Canadian Economics Association
       </div>
     </details>
   </li>
 
   <li style="margin-bottom: 18px;">
-    <a href="https://arxiv.org/pdf/2411.12845" target="_blank"><em><b>Underlying Core Inflation with Multiple Regimes</b></em></a>
+    <a href="https://doi.org/10.34989/swp-2026-8" target="_blank"><em><b>Estimation and inference for stochastic volatility models with leverage and heavy-tailed distributions</b></em></a>, with Jean-Marie Dufour & Md. Nazmul Ahsan
     <div style="margin: 4px 0;">
-      Revised November 2024 | <a href="https://arxiv.org/abs/2411.12845" target="_blank"><em>arXiv</em></a> | <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/GRR_IAAE2024_underlying_core_inf.pdf" target="_blank">Slides</a>
+      Revised June 2026 | <a href="https://doi.org/10.34989/swp-2026-8" target="_blank">BoC SWP</a>
     </div>
     <details style="margin-bottom: 4px;"><summary style="cursor: pointer;">Short Abstract</summary>
       <div style="text-align: justify; margin: 6px 0 6px 15px;">
-        We build a core inflation indicator from a high-dimensional factor model with multiple regimes, addressing the failure of standard measures to signal underlying inflation when it rose in 2021. Allowing for regime changes yields a simple real-time indicator that reduces revisions, improves headline-inflation forecasts, and is robust to transitory and sector-specific shocks.
+        We propose closed-form moment-based W-ARMA estimators for higher-order stochastic volatility SV(p) models with Student-t or GED innovations and leverage, with √T-consistency, asymptotic normality, and exact Monte Carlo tests for normality, heavy tails, and leverage. Applied to three U.S. equity indices (2000–2025), heavy-tailed SV with leverage is favored and gives the best variance forecasts and VaR/ES calibration.
       </div>
     </details>
     <details><summary style="cursor: pointer;">Presentations</summary>
       <div style="margin: 6px 0 6px 15px;">
-        New York Camp Econometrics XIX, Bank of Canada Conference on Real-Time Data Analysis, Methods and Applications in Macroeconomics and Finance, IAAE 2024 Annual Conference, Bank of Canada Brown Bag Seminar, 57th Annual (2023) Meetings of the Canadian Economics Association
+        Latin American Meeting of the Econometric Society (LAMES 2026)
       </div>
     </details>
   </li>
@@ -91,19 +91,24 @@ author_profile: true
   </li>
 
   <li style="margin-bottom: 18px;">
-    <a href="https://cran.r-project.org/web/packages/wARMASVp/index.html" target="_blank"><em><b>wARMASVp: Estimation, Inference, Filtering, and Forecasting for Higher-Order Stochastic Volatility Models in R</b></em></a>, with Jean-Marie Dufour & Md. Nazmul Ahsan
+    <a href="https://arxiv.org/pdf/2411.12845" target="_blank"><em><b>Underlying Core Inflation with Multiple Regimes</b></em></a>
     <div style="margin: 4px 0;">
-      Revised May 2026 | <a href="https://cran.r-project.org/web/packages/wARMASVp/index.html" target="_blank">CRAN</a> | <a href="https://cran.r-project.org/web/packages/wARMASVp/wARMASVp.pdf" target="_blank">Reference manual</a>
+      Revised November 2024 | <a href="https://arxiv.org/abs/2411.12845" target="_blank"><em>arXiv</em></a> | <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/GRR_IAAE2024_underlying_core_inf.pdf" target="_blank">Slides</a>
     </div>
-    <details><summary style="cursor: pointer;">Short Abstract</summary>
+    <details style="margin-bottom: 4px;"><summary style="cursor: pointer;">Short Abstract</summary>
       <div style="text-align: justify; margin: 6px 0 6px 15px;">
-        wARMASVp is an R package for estimation, testing, filtering, and forecasting in univariate higher-order stochastic volatility SV(p) models with Gaussian, Student-t, or GED innovations and optional leverage. Estimation uses closed-form Winsorized ARMA-SV moment estimators (no numerical optimization), with Local and Maximized Monte Carlo tests and three filters—the first such package in any language with heavy tails and leverage.
+        We build a core inflation indicator from a high-dimensional factor model with multiple regimes, addressing the failure of standard measures to signal underlying inflation when it rose in 2021. Allowing for regime changes yields a simple real-time indicator that reduces revisions, improves headline-inflation forecasts, and is robust to transitory and sector-specific shocks.
+      </div>
+    </details>
+    <details><summary style="cursor: pointer;">Presentations</summary>
+      <div style="margin: 6px 0 6px 15px;">
+        New York Camp Econometrics XIX, Bank of Canada Conference on Real-Time Data Analysis, Methods and Applications in Macroeconomics and Finance, IAAE 2024 Annual Conference, Bank of Canada Brown Bag Seminar, 57th Annual (2023) Meetings of the Canadian Economics Association
       </div>
     </details>
   </li>
 
   <li style="margin-bottom: 18px;">
-    <em><b>Volatility Forecasting with Higher-order Stochastic Volatility Models</b></em>, with Jean-Marie Dufour & Md. Nazmul Ahsan
+    <em><b>Do Higher-Order Stochastic Volatility Dynamics Improve Multi-Horizon Forecasts?</b></em>, with Jean-Marie Dufour & Md. Nazmul Ahsan
     <div style="margin: 4px 0;">
       Revised June 2026
     </div>
@@ -120,13 +125,13 @@ author_profile: true
   </li>
 
   <li style="margin-bottom: 18px;">
-    <a href="https://doi.org/10.34989/swp-2026-8" target="_blank"><em><b>Estimation and inference for stochastic volatility models with leverage and heavy-tailed distributions</b></em></a>, with Jean-Marie Dufour & Md. Nazmul Ahsan
+    <a href="https://cran.r-project.org/web/packages/wARMASVp/index.html" target="_blank"><em><b>wARMASVp: Estimation, Inference, Filtering, and Forecasting for Higher-Order Stochastic Volatility Models in R</b></em></a>, with Jean-Marie Dufour & Md. Nazmul Ahsan
     <div style="margin: 4px 0;">
-      Revised June 2026 | <a href="https://doi.org/10.34989/swp-2026-8" target="_blank">BoC SWP</a>
+      Revised May 2026 | <a href="https://cran.r-project.org/web/packages/wARMASVp/index.html" target="_blank">CRAN</a> | <a href="https://cran.r-project.org/web/packages/wARMASVp/wARMASVp.pdf" target="_blank">Reference manual</a>
     </div>
     <details><summary style="cursor: pointer;">Short Abstract</summary>
       <div style="text-align: justify; margin: 6px 0 6px 15px;">
-        We propose closed-form moment-based W-ARMA estimators for higher-order stochastic volatility SV(p) models with Student-t or GED innovations and leverage, with √T-consistency, asymptotic normality, and exact Monte Carlo tests for normality, heavy tails, and leverage. Applied to three U.S. equity indices (2000–2025), heavy-tailed SV with leverage is favored and gives the best variance forecasts and VaR/ES calibration.
+        wARMASVp is an R package for estimation, testing, filtering, and forecasting in univariate higher-order stochastic volatility SV(p) models with Gaussian, Student-t, or GED innovations and optional leverage. Estimation uses closed-form Winsorized ARMA-SV moment estimators (no numerical optimization), with Local and Maximized Monte Carlo tests and three filters—the first such package in any language with heavy tails and leverage.
       </div>
     </details>
   </li>
@@ -149,19 +154,8 @@ author_profile: true
   </li>
 </ol>
 
-## Conference Proceedings
-<ol start=10>
-  <li style="margin-bottom: 18px;">
-    <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/RodriguezRondon_Dufour_2023_JSM_Proceedings.pdf" target="_blank"><em><b>Simulation-Based Inference for the Synchronization of Business Cycles</b></em></a>, with Jean-Marie Dufour, <em>JSM Proceedings, Business and Economic Statistics Section. Toronto, ON: American Statistical Association</em>, December 2023.
-  </li>
-
-  <li style="margin-bottom: 18px;">
-    <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/RodriguezRondon_Dufour_2022_Simulation-BasedInferenceMarkovSwitchingModels_JSM_Proceedings.pdf" target="_blank"><em><b>Simulation-Based Inference for Markov Switching Models</b></em></a>, with Jean-Marie Dufour, <em>JSM Proceedings, Business and Economic Statistics Section. Washington, D.C.: American Statistical Association</em>, December 2022.
-  </li>
-</ol>
-
 ## Policy & Technical Notes
-<ol start=12>
+<ol start=10>
   <li style="margin-bottom: 18px;">
     <a href="https://cirano.qc.ca/en/summaries/2025RP-19" target="_blank"><em><b>Practical estimation of high-dimensional stochastic volatility models with application to macroeconomic uncertainty in Québec and Canada</b></em></a>, with Jean-Marie Dufour & Md. Nazmul Ahsan, <em>CIRANO</em>, September 2025.
   </li>
@@ -171,17 +165,36 @@ author_profile: true
   </li>
 </ol>
 
+## Conference Proceedings
+<ol start=12>
+  <li style="margin-bottom: 18px;">
+    <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/RodriguezRondon_Dufour_2023_JSM_Proceedings.pdf" target="_blank"><em><b>Simulation-Based Inference for the Synchronization of Business Cycles</b></em></a>, with Jean-Marie Dufour, <em>JSM Proceedings, Business and Economic Statistics Section. Toronto, ON: American Statistical Association</em>, December 2023.
+  </li>
+
+  <li style="margin-bottom: 18px;">
+    <a href="https://roga11.github.io/gabrielrodriguez.github.io/files/RodriguezRondon_Dufour_2022_Simulation-BasedInferenceMarkovSwitchingModels_JSM_Proceedings.pdf" target="_blank"><em><b>Simulation-Based Inference for Markov Switching Models</b></em></a>, with Jean-Marie Dufour, <em>JSM Proceedings, Business and Economic Statistics Section. Washington, D.C.: American Statistical Association</em>, December 2022.
+  </li>
+</ol>
+
 ## Works in Progress
 <ul>
   <li style="margin-bottom: 18px;">
-      <em><b>Practical and reliable estimation methods for high-dimensional multivariate stochastic volatility models with macroeconomic applications</b></em>, with Jean-Marie Dufour & Md. Nazmul Ahsan
+      <em><b>Monte Carlo Test for Factor Models with Markov Switching</b></em>, with Zhongjun Qu
   </li>
 
   <li style="margin-bottom: 18px;">
-      <em><b>Monte Carlo Test for Factor Models with Markov switching</b></em>
+      <em><b>Weak and Strong Factors Under Regime Change</b></em>, with Giovanni Urga & Fa Wang
   </li>
 
   <li style="margin-bottom: 18px;">
-      <em><b>MNbreaks: An R Package for Estimating and Testing Multiple Structural Changes in Multivariate Linear Regression Models</b></em>, with Pierre Perron & Zhongjun Qu
+      <em><b>Testing and Model Selection for Stochastic Volatility Models through Filtering</b></em>, with Jean-Marie Dufour & Md. Nazmul Ahsan
+  </li>
+
+  <li style="margin-bottom: 18px;">
+      <em><b>Markov-Switching FAVAR with Multivariate Stochastic Volatility: Theory and Inference with Applications in Uncertainty and Growth-at-Risk</b></em>, with Jean-Marie Dufour & Md. Nazmul Ahsan
+  </li>
+
+  <li style="margin-bottom: 18px;">
+      <em><b>Generalized Leverage in High-Dimensional Multivariate Stochastic Volatility Models with Dynamic Latent Correlations</b></em>, with Jean-Marie Dufour & Md. Nazmul Ahsan
   </li>
 </ul>
