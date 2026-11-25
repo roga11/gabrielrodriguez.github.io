@@ -8,7 +8,7 @@ author_profile: true
 ## Instructor
 <ul>
   <li style="margin-bottom: 10px;">Time Series Econometrics (M.Sc.) 
-    <div style="margin-left: 5px;"> <em><b>HEC Montréal</b></em> | Winter 2026 and 2027 (Scheduled) | Taught in French and English | <a href="https://www.hec.ca/en/courses/math-60837a-time-series-econometrics" target="_blank">Course Detail</a> 
+    <div style="margin-left: 5px;"> <em><b>HEC Montréal</b></em> | Winter 2026, Winter & Summer 2027 (Scheduled) | Taught in French and English | <a href="https://www.hec.ca/en/courses/math-60837a-time-series-econometrics" target="_blank">Course Detail</a> 
     </div>
   </li>
   
